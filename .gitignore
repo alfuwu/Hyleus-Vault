@@ -1,1 +1,4 @@
-.obsidian/
+.obsidian/plugins/google-drive-sync/
+
+# Ignore Smart Environment folder
+.smart-env

@@ -1,0 +1,16 @@
+---
+tags:
+  - Magic
+  - Soul
+---
+Necromancy is the art of [[Soul]] magic. Everything related to the [[Soul]] falls under the umbrella of necromancy in the magical world.
+
+Necromancy comes in many forms: **Resurrection Necromancy** (which is often regarded as necromancy as a whole), **Offensive Necromancy**, **Defensive Necromancy**, and **Manipulative Necromancy**.
+
+Resurrection necromancy, the first developed form of necromancy, is the art of creating artificial [[Soul|souls]] to implant into a construct, or, more traditionally, a dead body. The artificial [[soul]] is placed inside (or as close to "inside" a three dimensional object you can get when on different levels of the [[Czite Axis]]), where it will connect to the body and animate itself. More complexity is added to the field if the necromancer wishes to be able to command this construct once animated, as the [[soul]] is a fiercely independent object.
+
+Offensive necromancy is a different form of necromancy altogether. It requires soul sight, and is focused on targeting the [[Soul|souls]] of other beings using one's own [[soul]]. These attacks are known as "[[soul]] attacks," and are among the most torturous pain one can inflict on another creature, attacking their very existence. As such, offensive necromancy is a highly regulated and illegal magic, where merely possessing fragmented pieces of it can make one become a fugitive of the law in most countries.
+
+Defensive necromancy is the counter developed for offensive necromancy. It primarily focuses on strengthening the Shield layer of the practitioner's [[soul]], so that it may passively rebuff any and all attacks thrown at it. In practice, however, no amount of passive strength will prevent the truly determined from doing another harm through offensive necromancy, and as such, defensive necromancy also has a more active component, where one may burn mana from their well to create a "cloud" of sorts around their [[soul]], which dampens incoming [[soul]] attacks significantly. This cloud, known as **Aemaytt's Soul Cloud**, is extremely mana-intensive, sustainable only for a short while. It is advised to use it with utmost precision, lest one runs out of mana to protect themselves with.
+
+Manipulative necromancy is the most insidious of all forms of necromancy, even more so than offensive necromancy. Manipulative necromancy involves changing another's [[Soul]], whether subtly over time or more actively using dominance and offensive necromancy to prevent the [[Soul]] from rejecting the changes. These changes can be a wide variety of things, such as changing the personality of the target, or directly forcing the target into the caster's servitude. Manipulative necromancy is regarded as black magic, and all practitioners of the art will be subject to immediate capital punishment in just about every nation worldwide.

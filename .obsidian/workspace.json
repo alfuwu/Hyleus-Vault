@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6802d18ff881a629",
+    "type": "split",
+    "children": [
+      {
+        "id": "659069f15c891982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6175613f7891f385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Related/Ezkli & Tarik Reday/Mrs. Reday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mrs. Reday"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5de12096007dd4db",
+    "type": "split",
+    "children": [
+      {
+        "id": "a048724d20e4302a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde46470137b67aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19abd95d0da74869",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a9f70ddd3346c564",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fea3ef48b83a5b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3db8ec714694136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2e6a4d27db5958",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "People/Related/Ezkli & Tarik Reday/Mrs. Reday.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mrs. Reday"
+            }
+          },
+          {
+            "id": "90f4fa641823d49d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "981b6b2c7b573c6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "720666b294d96761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8f6acbe404fb81f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
+    }
+  },
+  "active": "6175613f7891f385",
+  "lastOpenFiles": [
+    "People/Related/Alfred & Slyprae Tonic/Mrs. Tonic.md",
+    "People/Related/Ezkli & Tarik Reday/Mrs. Reday.md",
+    "People/Related/Ezkli & Tarik Reday/Mr. Reday.md",
+    "People/Important/Alfred Tonic.md",
+    "People/Important/Melanie Yamako.md",
+    "Magic/Divinity.md",
+    "Geography/Continents/Miulya.md",
+    "Geography/Continents/Drastevarde.md",
+    "Geography/Continents/Anto.md",
+    "Geography/Extraterrestrial Locations/Earth.md",
+    "Hyleus-Vault",
+    "People/Deities/Arch Deities/Seya.md",
+    "Geography/Extraterrestrial Locations/Soulless.md",
+    "Perfect Life Project.md",
+    "People/Deities/Arch Deities/Lovianda.md",
+    "People/Deities/Arch Deities/Deimos.md",
+    "People/Deities/Arch Deities/Beebo.md",
+    "Geography/Planes/Plane.md",
+    "Magic/Evils/The Abyss.md",
+    "Magic/Evils/Great Evil.md",
+    "Magic/Evils/The Rotten.md",
+    "People/Important/{REDACTED} Tonic.md",
+    "People/Related/Alfred & Slyprae Tonic/Vazcole S. Tonic.md",
+    "Magic/Evils/The Starved.md",
+    "Magic/Evils/The Spiral.md",
+    "Geography/Planes/Void.md",
+    "Geography/Realms/The Ckretion Empire.md",
+    "People/Related/Vorschund von Karmelius",
+    "People/Related/Vivis Zvieytymn",
+    "People/Related/Naora",
+    "People/Related/Martyr Zuun Gao",
+    "People/Related/Lunærgen Sø-Bryu",
+    "People/Related/Fürrdegrânne",
+    "People/Related/Meloqzykes",
+    "People/Related/The Foolish King",
+    "People/Related/Rivian"
+  ]
+}
