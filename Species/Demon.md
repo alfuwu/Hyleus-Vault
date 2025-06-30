@@ -8,4 +8,6 @@ aliases:
 tags:
   - Species
   - Race
+  - Afterspecies
+  - Afterrace
 ---

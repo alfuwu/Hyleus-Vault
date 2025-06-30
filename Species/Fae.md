@@ -6,7 +6,7 @@ tags:
   - Species
   - Race
 ---
-The fae, often characterized by the infamous archfae [[Rivian]] for his widespread destruction caused during the [[Dark Era]], are a species of humanoids with an inherent connection to the [[Psychic Leyline]], affecting how fae culture and society developed. They have [[genetic magic]] in the form of wings, much like the [[Serra|serrans]], allowing them the inherent capability of flight.
+The fae, often characterized by the infamous archfae [[Rivian]] for his widespread destruction caused during the [[Dark Era]], are a species of humanoids with an inherent connection to the [[Psychic Leyline]], affecting how fae culture and society developed. They have [[genetic magic]] in the form of wings, much like the [[Serran|serrans]], allowing them the inherent capability of flight.
 
 Fae society has three rankings: Lesser Fae, Fae, and Archfae. The archfae caste consists of those who have passed the [[Gra’unak Threshold]], allowing them more diverse and powerful [[Psychoticism|psychic abilities]]. Lesser fae are born as such, and must work their way to becoming a fae diligently, else they are left to rot by their society.
 

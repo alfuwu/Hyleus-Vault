@@ -2,15 +2,15 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
-    "emojiStyle": "native",
+    "fontSize": 12,
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAnvil",
+      "LiDrama",
+      "LiPower",
       "LiCat",
-      "LiScrollText",
-      "LiCalendar",
-      "LiPill",
-      "LiArchive"
+      "LiScrollText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -21,8 +21,8 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
-    "iconInTitlePosition": "above",
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": false,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -58,16 +58,14 @@
   "People/Related": "LiRepeat2",
   "People/Historical": "LiHistory",
   "People/Factions": "LiFlag",
-  "People/Deities": "LiDrama",
+  "People/Deities": "LiPower",
   "People/Important/Alfred Tonic.md": "LiCrown",
   "Geography/POIs": "LiCompass",
   "Geography/Realms": "LiMap",
-  "People/Important/Lili Soul.md": "LiFlame",
-  "People/Important/Fel of the Abyss.md": "LiEclipse",
+  "People/Important/Fel of the Abyss.md": "LiDrama",
   "People/Important/Meloqzykes.md": "LiLink",
   "People/Important/Tarik Reday.md": "LiEye",
   "People/Important/Amy Zsaash Kuten.md": "LiGem",
-  "People/Important/{REDACTED} Tonic.md": "LiLeaf",
   "People/Important/Ezkli Reday.md": "LiMoon",
   "Geography": "LiMountainSnow",
   "People/Important/Kate Askero.md": "LiSword",
@@ -76,5 +74,7 @@
   "Eras": "LiArchive",
   "Units of Measurement": "LiPill",
   "Units of Measurement/HUN Calendar.md": "LiCalendar",
-  "Species": "LiCat"
+  "Species": "LiCat",
+  "People/Important/Slyprae Tonic.md": "LiLeaf",
+  "People/Important/Lili Soul.md": "LiFlame"
 }
