@@ -8,7 +8,7 @@ tags:
   - Human
   - Psychic
 ---
-Amy Zsaash Kuten, nickname the Conqueror, is an extremely powerful [[Psychoticism|psychic]] known for her militaristic prowess. She came to prominence during the [[Rebirth Era]], where she and her armies conquered multiple 
+Amy Zsaash Küten, nickname the Conqueror, is an extremely powerful [[Psychoticism|psychic]] known for her militaristic prowess. She came to prominence during the [[Rebirth Era]], where she and her armies conquered multiple 
 
 ### Personality
 Amy Z. Kuten is 

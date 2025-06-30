@@ -10,7 +10,7 @@ Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of th
 
 His [[intrinsic magic]] is tied to the [[authority]] over the [[Domain]] of Locomotion. It has been observed to bend spacetime to allow for teleportation, allow Mr. Tonic the capability of flight, among other things.
 
-Alfred Tonic is the current wielder of [[Zaangorax]].
+Alfred Tonic is the current wielder of [[Zæangorääx]].
 
 ### Known aliases
 Mr. Tonic has been known to go by multiple other names, including but not limited to:

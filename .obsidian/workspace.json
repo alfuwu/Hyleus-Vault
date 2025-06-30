@@ -11,10 +11,14 @@
             "id": "acdae96f6b4b5306",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Amy Zsaash Küten.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Amy Zsaash Küten"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "People/Important/Amy Zsaash Küten.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Amy Zsaash Küten"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "People/Important/Amy Zsaash Küten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Amy Zsaash Küten"
             }
           },
           {
@@ -146,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "People/Important/Amy Zsaash Küten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Amy Zsaash Küten"
             }
           }
         ],
@@ -163,23 +170,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "google-drive-sync:Push to Google Drive": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "acdae96f6b4b5306",
   "lastOpenFiles": [
+    "People/Historical/Fürrdegrânne.md",
+    "People/Important/Amy Zsaash Küten.md",
+    "People/Important/Kate Askerō.md",
+    "People/Related/Alfred & Slyprae Tonic/Zæangorääx.md",
+    "People/Important/Alfred Tonic.md",
+    "People/Historical/Lunærgen Sø-Bryu.md",
+    "People/Related/Alfred & Slyprae Tonic/Mrs. Tonic.md",
+    "People/Important/Tarik Reday.md",
+    "People/Important/Ezkli Reday.md",
     "People/Related/Ezkli & Tarik Reday/Orichalcum Sword.md",
     "People/Related/Ezkli & Tarik Reday/Mr. Reday.md",
-    "People/Important/Alfred Tonic.md",
     "Magic/Classical Spellcasting.md",
     "Magic/Materials/Mithril.md",
     "Magic/Materials/Celestium.md",
@@ -187,28 +199,20 @@
     "Magic/Materials/Ksol.md",
     "Magic/Vital Magic.md",
     "Magic/Materials/Adamantium.md",
-    "People/Related/Alfred & Slyprae Tonic/Zaangorax.md",
     "People/Historical/Erwin Zvekk.md",
     "Eras/Industrial Era.md",
-    "People/Related/Alfred & Slyprae Tonic/Mrs. Tonic.md",
-    "People/Important/Ezkli Reday.md",
-    "People/Historical/Fürrdegrânne.md",
-    "People/Historical/Rivian.md",
+    "People/Important/Rivian.md",
     "People/Historical/The Foolish King.md",
     "People/Historical/Vivis Zvieytymn.md",
     "People/Historical/Vorschund von Karmelius.md",
     "People/Important/Fel of the Abyss.md",
     "Species/Tarhan.md",
-    "People/Important/Melanie Yamako.md",
-    "People/Important/Kate Askero.md",
-    "Magic/Intrinsic Magic.md",
     "Untitled",
     "Items/Weapons/Swords",
     "Items/Untitled",
     "Items/Equipment",
     "Items/Weapons",
     "Items",
-    "People/Important/Amy Zsaash Kuten.md",
     "Hyleus-Vault",
     "People/Related/Vorschund von Karmelius",
     "People/Related/Vivis Zvieytymn",

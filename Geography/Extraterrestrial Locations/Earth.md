@@ -15,4 +15,4 @@ The homo sapiens gradually developed on Earth, transforming the planet into a [[
 
 What this essentially means is that the [[Human|humans]] of Earth had no conceivable way to access magic. Instead, they opted to tap into the power of the other fundamental forces, namely electromagnetism. The [[Human|humans]] of Earth achieved great things with electromagnetism, from the Internet (which [[Seya]] created a magical implementation of back on Hyleus) to functioning electronical devices that could handle an extreme variety of tasks.
 
-[[Amy Zsaash Kuten]] learnt a great many things from the weak [[Psychic Leyline|Psychic Connection]] the Terran [[Human|humans]] had to the [[Psychic Leyline]], though she was forced to learn [[English]] to actually begin to understand the majority of it.
+[[Amy Zsaash Küten]] learnt a great many things from the weak [[Psychic Leyline|Psychic Connection]] the Terran [[Human|humans]] had to the [[Psychic Leyline]], though she was forced to learn [[English]] to actually begin to understand the majority of it.

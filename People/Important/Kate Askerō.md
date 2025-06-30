@@ -5,7 +5,7 @@ tags:
   - Serran
   - Intrinsic-Magic
 ---
-Kate Askero, a [[serran]] born to , ...
+Kate Askerō, a [[serran]] born to , ...
 
 ### Personality
 Kate Askero is 
