@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSave",
+      "LiAmpersand",
+      "LiArchive",
       "LiBell",
-      "LiAnvil",
-      "LiDrama",
-      "LiPower",
-      "LiCat"
+      "LiAnvil"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -65,7 +65,6 @@
   "People/Important/Fel of the Abyss.md": "LiDrama",
   "People/Important/Meloqzykes.md": "LiLink",
   "People/Important/Tarik Reday.md": "LiEye",
-  "People/Important/Ezkli Reday.md": "LiMoon",
   "Geography": "LiMountainSnow",
   "People/Important/Melanie Yamako.md": "LiSnowflake",
   "Stories": "LiScrollText",
@@ -77,5 +76,8 @@
   "People/Important/Lili Soul.md": "LiFlame",
   "People/Important/Rivian.md": "LiBell",
   "People/Important/Kate Askerō.md": "LiSword",
-  "People/Important/Amy Zsaash Küten.md": "LiGem"
+  "People/Important/Amy Zsaash Küten.md": "LiGem",
+  "People/Important/Ezkli Reday.md": "LiMoon",
+  "People/Other": "LiAmpersand",
+  "Meta Notes": "LiSave"
 }

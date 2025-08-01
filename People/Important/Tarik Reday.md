@@ -8,7 +8,7 @@ tags:
 Tarik Reday, twin brother of [[Ezkli Reday]]
 
 ### Personality
-Ezkli is 
+Tarik is 
 
 ### Ancestry
 

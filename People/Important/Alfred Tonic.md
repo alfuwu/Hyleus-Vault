@@ -8,7 +8,7 @@ tags:
 ---
 Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capability of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[demon]] who has expressed a great desire to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]].
 
-His [[intrinsic magic]] is tied to the [[authority]] over the [[Domain]] of Locomotion. It has been observed to bend spacetime to allow for teleportation, allow Mr. Tonic the capability of flight, among other things.
+His [[intrinsic magic]] is tied to the [[authority]] over the [[Domain]] of {{REDACTED}}.
 
 Alfred Tonic is the current wielder of [[Zæangorääx]].
 
