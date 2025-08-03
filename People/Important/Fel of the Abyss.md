@@ -1,4 +1,4 @@
-Fel of the Abyss is the only recorded living being to have escaped ground zero of [[the Abyss]]. His species is unknown and does not match any known sapient species, suggesting that he may be a unique being. His past life is unknown, though it is presumed he was a resident of [[the Ckretion Empire]], possibly even a ~~[[human]]~~ before [[the Abyss]] emerged.
+Fel of the Abyss is the only recorded living being to have escaped ground zero of [[Magic/Evils/The Abyss]]. His species is unknown and does not match any known sapient species, suggesting that he may be a unique being. His past life is unknown, though it is presumed he was a resident of [[the Ckretion Empire]], possibly even a ~~[[human]]~~ before [[Magic/Evils/The Abyss]] emerged.
 
 Fel is known to possess some form of unique magic, likely [[intrinsic magic]], and some form of connection to the [[Void]]. He has been observed to be capable of spatial manipulation, likely an ability stemming from the speculated [[intrinsic magic]], allowing him to teleport with seemingly no limitations. Wilder rumors claim that Fel is even capable of teleporting directly to [[Heaven]] and [[Hell]].
 

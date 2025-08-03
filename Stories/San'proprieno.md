@@ -1,4 +1,5 @@
 ---
 tags:
   - Story
+  - Short-Story
 ---
