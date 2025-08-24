@@ -4,6 +4,7 @@ tags:
   - Important
   - Serran
   - Intrinsic-Magic
+  - Monolith
 ---
 Kate Askerō, a [[serran]] born to , ...
 

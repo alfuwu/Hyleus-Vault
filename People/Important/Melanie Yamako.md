@@ -8,7 +8,7 @@ tags:
 
 
 ### Personality
-Melanie is 
+Melanie is an unstable, rather rude fae.
 
 ### Ancestry
 

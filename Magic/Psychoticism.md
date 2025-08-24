@@ -22,7 +22,7 @@ Few techniques to strengthen one's connection to the [[Psychic Leyline]] have be
 
 The [[Psychic Leyline]], as a connection to all consciousnesses, can be used to target the mind of yourself or other creatures, provided your connection to the [[Psychic Leyline|Leyline]] is strong enough. People with a natural affinity for the mind have been dubbed "seducers," "espers," "psychics," "mind readers," "psionics," and "empaths"  throughout history.
 
-The [[Psychic Leyline]] is capable of damaging others' connections to itself, meaning that one psychic may be capable of permanently crippling another psychic. This has led to the development of several methods to protect one’s connection to the [[Psychic Leyline]], thus protecting them from other psychics.
+The [[Psychic Leyline]] is capable of damaging others' connections to itself, meaning that one psychic may be capable of permanently crippling another psychic. This has led to the development of several methods to protect one's connection to the [[Psychic Leyline]], thus protecting them from other psychics.
 
 About 1 in 400,000 [[Human|humans]] have been observed to possess a connection strong enough to the [[Psychic Leyline]] to utilize it in a meaningful capacity.
 

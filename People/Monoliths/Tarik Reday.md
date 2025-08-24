@@ -4,8 +4,9 @@ tags:
   - Important
   - Human
   - Intrinsic-Magic
+  - Monolith
 ---
-Tarik Reday, twin brother of [[Ezkli Reday]]
+Tarik Reday, twin brother of [[Ezkli Reday]],
 
 ### Personality
 Tarik is 

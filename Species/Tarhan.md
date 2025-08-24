@@ -7,4 +7,4 @@ tags:
 ---
 Tarhans are a race similar to [[Human|humans]], though their arms and fingers have three joints and are double jointed, providing massive flexibility at the cost of strength. 
 
-They are masters of the sword, with their own unique sword arts that take full advantage of their flexibility. [[Meloqzykes]] hails from this race, though she has modified her [[soul]]’s body blueprint to a high degree and further underwent a [[Divine Transformation]] after she killed both [[Regg]] and [[M]] and absorbed portions of their [[Divinity]].
+They are masters of the sword, with their own unique sword arts that take full advantage of their flexibility. [[Meloqzykes]] hails from this race, though she has modified her [[soul]]'s body blueprint to a high degree and further underwent a [[Divine Transformation]] after she killed both [[Regg]] and [[M]] and absorbed portions of their [[Divinity]].

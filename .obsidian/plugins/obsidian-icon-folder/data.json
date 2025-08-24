@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNavigation",
+      "LiLinkGlyph",
       "LiSave",
       "LiAmpersand",
-      "LiArchive",
-      "LiBell",
-      "LiAnvil"
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -59,12 +59,10 @@
   "People/Historical": "LiHistory",
   "People/Factions": "LiFlag",
   "People/Deities": "LiPower",
-  "People/Important/Alfred Tonic.md": "LiCrown",
   "Geography/POIs": "LiCompass",
   "Geography/Realms": "LiMap",
   "People/Important/Fel of the Abyss.md": "LiDrama",
   "People/Important/Meloqzykes.md": "LiLink",
-  "People/Important/Tarik Reday.md": "LiEye",
   "Geography": "LiMountainSnow",
   "People/Important/Melanie Yamako.md": "LiSnowflake",
   "Stories": "LiScrollText",
@@ -75,9 +73,13 @@
   "People/Important/Slyprae Tonic.md": "LiLeaf",
   "People/Important/Lili Soul.md": "LiFlame",
   "People/Important/Rivian.md": "LiBell",
-  "People/Important/Kate Askerō.md": "LiSword",
   "People/Important/Amy Zsaash Küten.md": "LiGem",
-  "People/Important/Ezkli Reday.md": "LiMoon",
   "People/Other": "LiAmpersand",
-  "Meta Notes": "LiSave"
+  "Meta Notes": "LiSave",
+  "People/Monoliths/Alfred Tonic.md": "LiCrown",
+  "People/Monoliths/Ezkli Reday.md": "LiMoon",
+  "People/Monoliths/Tarik Reday.md": "LiEye",
+  "People/Monoliths/Kate Askerō.md": "LiSword",
+  "People/Monoliths": "LiLinkGlyph",
+  "People/Other/Ilythra Joculen.md": "LiNavigation"
 }

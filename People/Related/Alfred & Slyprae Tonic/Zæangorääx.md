@@ -2,6 +2,8 @@ Zæangorääx, an [[Classical Spellcasting|artifact]] forged by [[Lunærgen Sø-
 
 The axe is heavily [[Classical Spellcasting|enchanted]], to the point that it possesses a rudimentary form of intelligence. However, its intelligence should not be mistaken for or assumed to be anywhere near par with a sapient race; its primary purpose is simply to determine the worthiness of a given individual based off a slew of metrics.
 
+Records of what happened to an individual if they were not deemed worthy by the blade are sparse, though there have been claims that it can range anywhere from complete annihilation of the individual to merely politely burning them.
+
 Zæangorääx is currently wielded by [[Alfred Tonic]].
 
 ## Functions
