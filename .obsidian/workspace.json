@@ -8,31 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d56bed3851690fd7",
+            "id": "fa8c95928238ea01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Monoliths/Ezkli Reday.md",
+                "file": "People/Related/Lili Soul/Inex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ezkli Reday"
+              "title": "Inex"
             }
           },
           {
-            "id": "0844351528ce20d8",
+            "id": "012fa4c8234dfd06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Monoliths/Alfred Tonic.md",
+                "file": "People/Important/Fel of the Abyss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alfred Tonic"
+              "title": "Fel of the Abyss"
+            }
+          },
+          {
+            "id": "f41d0238539ad461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Lili Soul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lili Soul"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,17 +265,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f6acbe404fb81f9",
+  "active": "f41d0238539ad461",
   "lastOpenFiles": [
-    "People/Other/Ilythra Joculen.md",
-    "People/Monoliths/Ezkli Reday.md",
+    "People/Important/Fel of the Abyss.md",
+    "People/Important/Lili Soul.md",
+    "Species/Angel.md",
+    "People/Related/Lili Soul/Inex.md",
     "People/Related/Alfred & Slyprae Tonic/Zæangorääx.md",
+    "Stories/Catalyzed Stratified.md",
+    "People/Related/Kate Askerō/Untitled.md",
+    "People/Monoliths/Ezkli Reday.md",
+    "Magic/Evils/The Abyss.md",
+    "Stories/False Divinity.md",
+    "Magic/Materials/Ksol.md",
     "People/Monoliths/Alfred Tonic.md",
+    "People/Other/Ilythra Joculen.md",
     "People/Factions/Monolithic World Order.md",
     "Magic/Evils/Great Evil.md",
     "People/Related/Ezkli & Tarik Reday/Lzywausya.md",
     "People/Important/Slyprae Tonic.md",
-    "People/Important/Fel of the Abyss.md",
     "People/Monoliths/Tarik Reday.md",
     "Units of Measurement/HUN Calendar.md",
     "Eras/Modern Era.md",
@@ -273,14 +295,6 @@
     "Magic/Evils/The Starved.md",
     "Species/Tarhan.md",
     "Geography/POIs/Stellkjurg Rainforest.md",
-    "Geography/Continents/South Yiyico.md",
-    "Magic/Soul.md",
-    "Magic/Psychoticism.md",
-    "People/Factions/National Association of Magical Advancement.md",
-    "Magic/Mana.md",
-    "People/Historical/Lunærgen Sø-Bryu.md",
-    "Magic/Intrinsic Magic.md",
-    "Geography/Realms/Great Jeienet.md",
     "People/Monoliths",
     "Meta Notes",
     "People/Other",
