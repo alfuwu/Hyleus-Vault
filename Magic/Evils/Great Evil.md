@@ -7,7 +7,7 @@ A Great Evil is the term used to describe the reaction that occurs when this [[p
 
 The anchors for each Evil are as follows:
 - [[The Spiral]] — The [[Chronovore]]
-- [[The Rotten]] — The [[Titan of Rot]]
+- [[The Parasite]] — The [[Titan of Rot]]
 - [[The Abyss]] — [[Oblivion]]
 - [[The Starved]] — [[The Long Hunger]]
 - [[The Fractured]] — The [[Storm of Eternity]]

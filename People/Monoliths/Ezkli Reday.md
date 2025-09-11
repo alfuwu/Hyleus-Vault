@@ -6,7 +6,7 @@ tags:
   - Intrinsic-Magic
   - Monolith
 ---
-Ezkli Reday, twin sister of [[Tarik Reday]], is [[human]] sorceress, widely regarded as a relatively enigmatic and reclusive person. She is quite talented in [[classical spellcasting]], specifically in [[Classical Spellcasting|spell matrices]], though her real gift lie in the [[Intrinsic Magic|intrinsic magic formation]] she and her twin possess. She is most well known for being one of the [[Monolithic World Order]]'s Monoliths.
+Ezkli Reday, twin sister of [[Tarik Reday]], is [[human]] sorceress, widely regarded as a relatively enigmatic and reclusive person. She is quite talented in [[classical spellcasting]], specifically in [[Classical Spellcasting|spell matrices]], though her real gift lie in the [[Intrinsic Magic|intrinsic magic formation]] she and her twin possess. She is most well known for being one of the [[Monolithic Order]]'s Monoliths.
 
 Her [[intrinsic magic]] is unique in that it is not unique solely to her, but rather the [[Intrinsic Magic|intrinsic magic formation]] is present on both her and her twin brother's [[Soul|souls]]. It also encompasses two [[Domain|Domains]] rather than the usual one/none.
 
