@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleDotDashed",
       "LiAsterisk",
       "LiNavigation",
       "LiLinkGlyph",
-      "LiSave",
-      "LiAmpersand"
+      "LiSave"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "People/Monoliths/Kate Askerō.md": "LiSword",
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
-  "Introduction.md": "LiAsterisk"
+  "Introduction.md": "LiAsterisk",
+  "People/Cultures": "LiCircleDotDashed"
 }

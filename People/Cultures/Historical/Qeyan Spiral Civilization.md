@@ -1,0 +1,7 @@
+The Qeyan Spiral Civilization is a notable early civilization, dated to have existed from around 5000 [[HUN Calendar|KE]] to 2000 [[HUN Calendar|KE]], just a few centuries short of the approximated emergence of [[the Parasite]]. Their culture is unique in the way it worshiped the [[The Spiral|Great Evil of Spiral]], a practice that will never become as popular as it had been back before [[the Parasite]]'s emergence.
+
+They had many customs and norms about [[the Spiral]], most famous of which being their \[name], a grand hunt that the Qeyans would host in celebration of \[reason]. This grand hunt involved sending many of the Qeyans' finest warriors into [[the Spiral]], who would then return with as many spoils as they could, including valuable chunks of the spires within [[the Spiral]].
+
+These chunks would then be woven into jewelry, pots, and many more artistic outlets by the particularly wealthy members of Qeyan society. These fragments of the spires held great reverence within Qeyan culture, and it was a symbol of status to wear one on one's person. These pieces of jewelry still hold immense monetary value in the present day, especially so due to their growing scarcity.
+
+A common form of spire jewelry was in the form of an ever-shrinking spiral, in representation of the form of the spires where the material was obtained from. The 
