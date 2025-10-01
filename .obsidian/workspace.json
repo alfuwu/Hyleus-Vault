@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1d02f11ef8db81b",
+        "id": "69af053501493469",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc978d828878a93",
+            "id": "906ba9bb6d681a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Xe'tunig.md",
+                "file": "Species/Phaawa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xe'tunig"
+              "title": "Phaawa"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Factions/Monolithic Order.md",
+                "file": "Species/Phaawa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monolithic Order"
+              "title": "Backlinks for Phaawa"
             }
           },
           {
@@ -180,45 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dfc978d828878a93",
+  "active": "8f6acbe404fb81f9",
   "lastOpenFiles": [
     "Species/Human.md",
-    "Species/Fae.md",
-    "Species/Serran.md",
-    "Species/Tarhan.md",
+    "Species/Phaawa.md",
+    "Magic/Intrinsic Magic.md",
     "Species/Xe'tunig.md",
-    "Species/Angel.md",
-    "Species/Deity.md",
-    "Species/Demon.md",
-    "Species/Eruul'vaak.md",
-    "People/Historical/Martyr Zuun Gao.md",
-    "People/Historical/Lunærgen Sø-Bryu.md",
     "People/Historical/Fürrdegrânne.md",
-    "People/Historical/Erwin Zvekk.md",
-    "People/Cultures/Historical/Qeyan Spiral Civilization.md",
-    "Meta/Images/Realistic World.png",
+    "People/Cultures/Racial/Xe'tunig Culture.md",
+    "People/Cultures/Racial",
+    "People/Factions/World Council.md",
+    "People/Deities/Arch Deities/Yacgrûle.md",
+    "People/Deities/Arch Deities/Nzlietch.md",
     "Meta/Images/Tectonics.png",
-    "conflict-files-obsidian-git.md",
+    "Meta/Images/Realistic World.png",
+    "Meta/Unused Names.md",
+    "Meta/Plate Tectonics & Geography.md",
+    "Meta/Species.md",
+    "Meta/Naming.md",
+    "Meta/Likkeo Hissiki.md",
+    "Meta/Images",
+    "Meta",
+    "Languages/Angelic.md",
+    "Geography/World Map.md",
+    "People/Cultures/Historical/Qeyan Spiral Civilization.md",
+    "Magic/Evils/The Parasite.md",
+    "People/Important/Slyprae Tonic.md",
     "People/Cultures/Contemporary/Joculen.md",
     "People/Cultures/Contemporary/Jeienese.md",
     "People/Cultures/Contemporary/Gen.md",
     "People/Cultures/Historical",
     "People/Cultures/Contemporary",
     "People/Cultures",
-    "Meta/Unused Names.md",
-    "Meta/Naming.md",
-    "Languages/Angelic.md",
-    "Geography/World Map.md",
-    "Meta/Likkeo Hissiki.md",
-    "Meta/Images/Tectonics.png.0.pdnSave",
-    "Geography/Realms/Island Nation of Joculen.md",
-    "Meta/Images",
-    "Geography/Realms/The Imperial Fraedate.md",
-    "Geography/Continents/Pyx.md",
+    "Meta Notes/Unused Names.md",
+    "People/Historical/Erwin Zvekk.md",
+    "People/Historical/Vivis Zvieytymn.md",
+    "People/Historical/Naora.md",
     "Untitled 1.base",
     "Untitled.base",
     "People/Monoliths",
-    "Meta",
-    "People/Other"
+    "Meta Notes"
   ]
 }

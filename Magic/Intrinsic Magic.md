@@ -19,6 +19,7 @@ The approximate chances of forming an intrinsic magic signature upon birth for e
 - **[[Eruul'vaak]]**: $\frac{1}{1,500,000}$
 - **[[Fae]]**: $\frac{1}{500,000}$
 - **[[Human|Humans]]**: $\frac{1}{1,000,000}$
+- **[[Phaawa|Phaawas]]**: $\frac{1}{800,000}$
 - **[[Serran|Serrans]]**: $\frac{1}{900,000}$
 - [[Tarhan]]: $\frac{1}{1,200,000}$
 - [[Xe'tunig]]: N/A

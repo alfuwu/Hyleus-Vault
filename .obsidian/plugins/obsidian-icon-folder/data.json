@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiLocateFixed",
-      "LiSun",
-      "LiCircle",
-      "LiHeater",
-      "LiMinimize2"
+      "LiCircleDotDashed",
+      "LiAsterisk",
+      "LiNavigation",
+      "LiLinkGlyph",
+      "LiSave"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,8 +82,5 @@
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
-  "Meta": "LiSave",
-  "Meta/Images": "LiImages",
-  "Geography/World Map.md": "LiGlobe",
-  "People/Cultures": "LiAtom"
+  "People/Cultures": "LiCircleDotDashed"
 }
