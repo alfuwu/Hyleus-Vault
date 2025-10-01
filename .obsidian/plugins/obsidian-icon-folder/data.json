@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiGlobe",
-      "LiMap",
-      "LiImages",
-      "LiAsterisk",
-      "LiNavigation"
+      "LiLocateFixed",
+      "LiSun",
+      "LiCircle",
+      "LiHeater",
+      "LiMinimize2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -84,5 +84,6 @@
   "Introduction.md": "LiAsterisk",
   "Meta": "LiSave",
   "Meta/Images": "LiImages",
-  "Geography/World Map.md": "LiGlobe"
+  "Geography/World Map.md": "LiGlobe",
+  "People/Cultures": "LiAtom"
 }

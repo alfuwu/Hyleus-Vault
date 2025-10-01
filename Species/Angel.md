@@ -13,4 +13,6 @@ Regular angels have a singular pair of pure-white wings, while archangels have t
 
 They can be commonly found in the temples of the deities or near places that hold traces of [[Divinity]]. However, when near things with massive amounts of [[Divinity]], such as a [[Shard of Divinity]], their nature corrupts and they turn into a "fallen" angel. If they were an archangel when they became a fallen angel, they would lose two pairs of wings, leaving them with only one pair. The wings would then become crimson red in color, unlike the normal raven-colored wings of a fallen angel.
 
-Angelic naming convention consists of a first name and a surname, with the first name being a string of characters that is repeated, and the surname being the [[Domain]] of the [[deity]] that the angel serves. An example of a given angelic name is "*Ruru Life*", which denotes an angel serving [[Seya]], the [[Deity|arch deity]] of Life.
+Angelic naming convention consists of a first name and a surname, with the first name being a string of characters that is repeated, and the surname being the [[Domain]] of the [[deity]] that the angel serves. An example of a given angelic name is "*Ruru Life*", which denotes an angel serving [[Seya]], the [[Deity|arch deity]] of Life with the designated name of "Ruru".
+
+Angels are ageless, though not immortal. Their primary antithesis are the [[Demon|demons]], and vice-versa.

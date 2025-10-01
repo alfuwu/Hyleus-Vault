@@ -1,3 +1,8 @@
+---
+tags:
+  - Person
+---
+
 Slyprae Tonic, sister of [[Alfred Tonic]]
 
 ### Personality
