@@ -6,4 +6,4 @@ tags:
   - Landmass
   - Yiyican
 ---
-South Yiyico isn't connected to [[Drastevarde]], though it is connected to [[North Yiyico]].
+South Yiyico is connected to [[North Yiyico]]. It contains a single, massive rainforest named the [[Stellkjurg Rainforest]], along with two smaller deserts and a large singular mountain range.

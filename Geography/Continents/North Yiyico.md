@@ -6,4 +6,3 @@ tags:
   - Landmass
   - Yiyican
 ---
-North Yiyico is connected to the east side of [[Drastevarde]].

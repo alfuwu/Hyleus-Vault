@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGlobe",
+      "LiMap",
+      "LiImages",
       "LiAsterisk",
-      "LiNavigation",
-      "LiLinkGlyph",
-      "LiSave",
-      "LiAmpersand"
+      "LiNavigation"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,12 +75,14 @@
   "People/Important/Rivian.md": "LiBell",
   "People/Important/Amy Zsaash Küten.md": "LiGem",
   "People/Other": "LiAmpersand",
-  "Meta Notes": "LiSave",
   "People/Monoliths/Alfred Tonic.md": "LiCrown",
   "People/Monoliths/Ezkli Reday.md": "LiMoon",
   "People/Monoliths/Tarik Reday.md": "LiEye",
   "People/Monoliths/Kate Askerō.md": "LiSword",
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
-  "Introduction.md": "LiAsterisk"
+  "Introduction.md": "LiAsterisk",
+  "Meta": "LiSave",
+  "Meta/Images": "LiImages",
+  "Geography/World Map.md": "LiGlobe"
 }

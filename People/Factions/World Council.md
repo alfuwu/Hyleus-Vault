@@ -1,0 +1,1 @@
+The World Council, the magnum opus of [[Yacgrûle]], is a council of 216 (1,000 in base 6, the base deities tend to use when interacting with mortals)
