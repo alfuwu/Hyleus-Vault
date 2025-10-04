@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCircleDotDashed",
-      "LiAsterisk",
-      "LiNavigation",
-      "LiLinkGlyph",
-      "LiSave"
+      "LiGlassWater",
+      "LiRadar",
+      "LiPocketKnife",
+      "LiShield",
+      "LiSword"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,16 @@
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
-  "People/Cultures": "LiCircleDotDashed"
+  "Meta": "LiSave",
+  "Meta/Images": "LiImages",
+  "Geography/World Map.md": "LiGlobe",
+  "People/Cultures": "LiCircleDotDashed",
+  "People/Important/Miu Tonic.md": "LiSmartphoneCharging",
+  "People/Important/Bazif Credinga.md": "LiDices",
+  "People/Important/Lilly Bircwal.md": "LiFlower",
+  "People/Important/Monolithic Order/Romelius le Fansen.md": "LiPocketKnife",
+  "People/Important/Monolithic Order/Jarn.md": "LiShield",
+  "People/Important/Narox Ornius.md": "LiRadar",
+  "People/Important/Dead/Kaet.md": "LiApple",
+  "People/Important/Dead/Coda.md": "LiGlassWater"
 }

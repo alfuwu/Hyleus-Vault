@@ -5,19 +5,24 @@ tags:
   - Demon
   - Psychic
   - Intrinsic-Magic
+  - Monolithic-Order
   - Monolith
+aliases:
+  - Alfred
+  - Alfy
+  - Alfuwu
+  - Derfla Cinot
+  - Derfla
+  - Cade Xavier Love
+  - Cade X. Love
+  - Cade Love
+  - Cade
 ---
 Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capability of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[demon]] who has expressed a great desire to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]]. Alfred Tonic is one of the Monoliths of the [[Monolithic Order]].
 
 His [[intrinsic magic]] is tied to the [[authority]] over the [[Domain]] of {{REDACTED}}.
 
 Alfred Tonic is the current wielder of [[Zæangorääx]].
-
-### Known aliases
-Mr. Tonic has been known to go by multiple other names, including but not limited to:
-- Alfuwu
-- Derfla Cinot / Mr. Cinot
-- Cade X. Love
 
 ### Personality
 Mr. Tonic tries to maintain an optimistic outlook on life in spite of his [[Demon|demonic]] origins. He does not have any of the typical trappings of a [[demon]], such as but not limited to sadism, masochism, lust, greed, envy, or wrath, though the stereotypes that have followed him through [[human]] society in [[Drastevarde]] have lead to him to developing a transformative [[Classical Spellcasting|spell matrix]] that removes his more obviously [[Demon|demonic]] features, such as the spade tail and the claws.
@@ -46,12 +51,12 @@ The transplanar spell, naturally, set off many wards within the Tonicar house, a
 ### Romance
 Alfred and [[Ezkli Reday|Ezkli]] met in a ruined observatory on the [[Island Nation of Joculen]], both trespassing. Alfred was looking for broken [[Classical Spellcasting|spell matrices]] to study, while [[Ezkli Reday|Ezkli]] was trying to dismantle a star-mapping device for parts. Upon running into each other, they argued over how best to repair it, then spent three nights restoring the machine to working order.
 
-The two then took this star-mapping device back with them to the capital of [[Island Nation of Joculen|Joculen]] when [[The Fractured|the Fracturing]] occurred.
+The two then took this star-mapping device back with them to the capital of [[Island Nation of Joculen|Joculen]], just before [[The Fractured|the Fracturing]] occurred.
 
 ### Academics
-Alfred's reputation as a scholar began with his contributions to [[Classical Spellcasting]] theory. His approach to [[Classical Spellcasting|spell matrices]] differed from tradition: where others sought brute efficiency or destructive capacity, Alfred sought elegance, adaptability, and modularity. His most popular matrices involved dynamic thaumic resonance recalibration, synchronizing its arcane lattice with fluctuating ambient mana vectors to enhance channeling throughput, harmonic stability, and overall energetic efficiency.
+Alfred's reputation as a scholar began with his contributions to [[necromancy]]. The [[soul]] had interested Alfred ever since he learnt of its existence, due to the immense power they represented and how purely they defined a person's being. He became the first and only person to have ever created a true [[soul]], imbuing it into a constructed body and naming it [[Miu Tonic]].
 
-Though uninterested in [[Classical Spellcasting|alchemy]], he was a voracious student of nearly every other magical discipline he was capable of learning. His writings on the overlap of [[intrinsic magic]] and [[Classical Spellcasting|spell matrices]] became foundational to [[Monolithic Order]] R&D and power.
+Though rather uninterested in [[Classical Spellcasting|alchemy]], he was a voracious student of nearly every other magical discipline he was capable of learning.
 
 ### Affiliations
 Alfred is one of the Monoliths of the [[Monolithic Order]].

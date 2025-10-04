@@ -1,8 +1,14 @@
 ---
 tags:
   - Person
+  - Important
+  - Demon
+  - Monolithic-Order
+  - Cketei
+aliases:
+  - Slyprae
+  - Slippy
 ---
-
 Slyprae Tonic, sister of [[Alfred Tonic]]
 
 ### Personality

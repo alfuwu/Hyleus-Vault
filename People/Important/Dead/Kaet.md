@@ -1,9 +1,9 @@
 ---
 tags:
   - Person
-  - Historical
+  - Important
+  - Human
   - Deceased
 aliases:
-  - Erwin
-  - Mr. Zvekk
+  - Etka
 ---

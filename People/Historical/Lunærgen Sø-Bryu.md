@@ -3,6 +3,11 @@ tags:
   - Person
   - Historical
   - Serran
+  - Deceased
+aliases:
+  - Lunærgen
+  - Mr. Sø-Bryu
+  - Father of Magic
 ---
 Lunærgen Sø-Bryu, perhaps one of the most influential figures in recorded history, is widely regarded as the father of modern magic. His discovery was so influential that it transcended nearly all boundaries between species, even isolationist and xenophobic creatures.
 

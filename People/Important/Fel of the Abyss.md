@@ -1,3 +1,10 @@
+---
+tags:
+  - Person
+  - Important
+aliases:
+  - Fel
+---
 Fel of the Abyss is the only recorded living being to have escaped ground zero of [[The Abyss]]. His species is unknown and does not match any known sapient species, suggesting that he may be a unique being. His past life is unknown, though it is presumed he was a resident of [[the Ckretion Empire]], ~~possibly even a [[human]]~~ before [[The Abyss]] emerged.
 
 Fel is known to possess some form of unique magic, likely [[intrinsic magic]], and some form of connection to the [[Void]]. He has been observed to be capable of spatial manipulation, likely an ability stemming from the speculated [[intrinsic magic]], allowing him to teleport with seemingly no limitations. Wilder rumors claim that Fel is even capable of teleporting directly to [[Heaven]] and [[Hell]].
@@ -15,4 +22,4 @@ Fel of the Abyss founded the [[{{REDACTED}}]] and led the faction until its coll
 
 ### Current
 The current whereabouts of Fel of the Abyss are unknown. However, recent actions have been attributed to him:
-- The transference of ownership over the WOMD [[Inex]] to [[Lili Soul]]
+- The transference of ownership over the WOMD [[Inex]] to [[Lili Soul]].

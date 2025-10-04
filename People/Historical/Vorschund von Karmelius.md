@@ -2,8 +2,9 @@
 tags:
   - Person
   - Historical
-  - Serran
+  - Human
   - Noble
+  - Deceased
 ---
 Vorschund von Karmelius was a legendary wizard in his time, protecting his people from countless tragedies that would've slain them a hundred times over, most notable of which being [[the Plague]] sealed away by his magics in the [[Stellkjurg Rainforest]].
 

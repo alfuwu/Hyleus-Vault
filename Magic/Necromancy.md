@@ -3,11 +3,11 @@ tags:
   - Magic
   - Soul
 ---
-Necromancy is the art of [[Soul]] magic. Everything related to the [[Soul]] falls under the umbrella of necromancy in the magical world.
+Necromancy is the art of [[soul]] magic. Everything dealing in [[Soul|souls]] falls under the category of necromancy in the magical world.
 
 Necromancy comes in many forms: **Resurrection Necromancy** (which is often regarded as necromancy as a whole), **Offensive Necromancy**, **Defensive Necromancy**, and **Manipulative Necromancy**.
 
-Resurrection necromancy, the first developed form of necromancy, is the art of creating artificial [[Soul|souls]] to implant into a construct, or, more traditionally, a dead body. The artificial [[soul]] is placed inside (or as close to "inside" a three dimensional object you can get when on different levels of the [[Czite Axis]]), where it will connect to the body and animate itself. More complexity is added to the field if the necromancer wishes to be able to command this construct once animated, as the [[soul]] is a fiercely independent object.
+Resurrection necromancy, the first developed form of necromancy, is the art of creating artificial [[Soul|souls]] to implant into a construct, or, more traditionally, a dead body. The artificial [[soul]] is placed inside (or as close to "inside" a three dimensional object you can get when on different levels of the [[Czite Axis]]), where it will connect to the body and animate itself. More complexity is added to the field if the necromancer wishes to be able to command this construct once animated, as the [[soul]], even if artificial, is a fiercely independent object. These artificial [[Soul|souls]] are extremely weak compared to true [[Soul|souls]], capable of being damaged even by physical attacks.
 
 Offensive necromancy is a different form of necromancy altogether. It requires soul sight, and is focused on targeting the [[Soul|souls]] of other beings using one's own [[soul]]. These attacks are known as "[[soul]] attacks," and are among the most torturous pain one can inflict on another creature, attacking their very existence. As such, offensive necromancy is a highly regulated and illegal magic, where merely possessing fragmented pieces of it can make one become a fugitive of the law in most countries.
 

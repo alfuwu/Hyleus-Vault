@@ -4,6 +4,8 @@ tags:
   - Important
   - Tarhan
   - Intrinsic-Magic
+aliases:
+  - The God Killer
 ---
 Meloqzykes is a female [[tarhan]] that led the [[Divine Freedom]], a group of powerful individuals that wished to overthrow the [[Deity|deities]] after being wronged by them. Meloqzykes managed to kill three deities with her god-slaying magic: [[Regg]], [[M]], and a [[Deity|nascent deity]] by the name of [[Yurrin]]. The [[Divine Freedom]] perished when Meloqzykes was sealed away by [[Hakscles]].
 

@@ -4,7 +4,11 @@ tags:
   - Important
   - Human
   - Intrinsic-Magic
+  - Monolithic-Order
   - Monolith
+aliases:
+  - Tarik
+  - Taki
 ---
 Tarik Reday, twin brother of [[Ezkli Reday]],
 

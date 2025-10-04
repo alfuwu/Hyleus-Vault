@@ -4,6 +4,9 @@ tags:
   - Important
   - Fae
   - Intrinsic-Magic
+aliases:
+  - Melanie
+  - Mel
 ---
 
 
