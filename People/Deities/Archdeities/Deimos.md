@@ -1,9 +1,9 @@
 ---
 tags:
   - Deity
-  - Arch-Deity
+  - Archdeity
 ---
-  — [[Domain]]: **Health**
+  — [[Domain]]: **The [[Soul]]**
   — Stage: **Arch**
 
 ---

@@ -17,11 +17,11 @@ The Order's command structure is as follows:
 - At the top, there are the four Monoliths - the original founders of the Order. They serve as supreme power in the Monolithic Order
 - Directly reporting to the Monoliths are the Cketei, a word purposefully taken from [[the Ckretion Empire]] in honor of the catastrophe the empire had suffered - the formation of [[the Abyss]]. The Cketei are handpicked by each Monolith, and are all well known. The Cketei of each Monolith are as follows:
 
-| **[[Alfred Tonic]]** | **[[Ezkli Reday]]**                          | **[[Kate Askerō]]** | **[[Tarik Reday]]** |
-| -------------------- | -------------------------------------------- | ------------------- | ------------------- |
-| [[Slyprae Tonic]]    | [[Jarn]], [[Romelius le Fansen\|Agent Rome]] | [[N/A]]             | [[N/A]]             |
+| **[[Alfred Tonic]]**                  | **[[Ezkli Reday]]**                            | **[[Kate Askerō]]** | **[[Tarik Reday]]**            |
+| ------------------------------------- | ---------------------------------------------- | ------------------- | ------------------------------ |
+| [[Slyprae Tonic]]<br>[[Narox Ornius]] | [[Jarn]]<br>[[Romelius le Fansen\|Agent Rome]] | [[Lilly]]   | [[Iris Bircwal]]<br>[[Scott Castillo]] |
 - Each Cketei commands an army (called an Iteris, another word taken from [[the Ckretion Empire]]) of mages. Iterises are split into many Revum; military units of around 5,000-6,000 mages.
-- Revum are commanded by a Revii Ackgolera, and are split into ten divisions.
+- Revum are commanded by a Revii Ackolera, and are split into ten divisions.
   
   The 1st division is the largest and comprised of the best battle mages, the 2nd and 3rd divisions are additional battle mage units, the 4th is comprised of the best non-combat mages, the 5th is a healing division and generally only has about twenty to thirty mages, the 6th-to-9th units are organized on a per-Revum basis, and the 10th unit, the smallest of them all, is a spec ops unit consisting of about eight-to-ten mages.
 

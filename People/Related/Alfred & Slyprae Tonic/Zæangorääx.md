@@ -1,3 +1,9 @@
+---
+tags:
+  - Artifact
+  - Axe
+  - Battleaxe
+---
 Zæangorääx, an [[Classical Spellcasting|artifact]] forged by [[Lunærgen Sø-Bryu]], is a battleaxe is made solely out of magical metals, containing [[mithril]], [[celestium]], [[orichalcum]], and trace amounts of [[ksol]].
 
 The axe is heavily [[Classical Spellcasting|enchanted]], to the point that it possesses a rudimentary form of intelligence. However, its intelligence should not be mistaken for or assumed to be anywhere near par with a sapient race; its primary purpose is simply to determine the worthiness of a given individual based off a slew of metrics.

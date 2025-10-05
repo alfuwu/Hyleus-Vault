@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f18f2ad1581a603",
+        "id": "a38c4e59496bc916",
         "type": "tabs",
         "children": [
           {
-            "id": "b3cea9ab3508d322",
+            "id": "e96322e366f463f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Important/Lilly Bircwal.md",
+                "file": "People/Monoliths/Tarik Reday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lilly Bircwal"
-            }
-          },
-          {
-            "id": "2fc7730aabcd9d38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Important/Miu Tonic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Miu Tonic"
+              "title": "Tarik Reday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,35 +180,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fc7730aabcd9d38",
+  "active": "e96322e366f463f7",
   "lastOpenFiles": [
-    "People/Important/Meloqzykes.md",
-    "People/Important/Lilly Bircwal.md",
-    "People/Important/Miu Tonic.md",
-    "People/Important/Lili Soul.md",
-    "Species/Angel.md",
-    "Species/Deity.md",
-    "People/Important/Bazif Credinga.md",
-    "People/Historical/Erwin Zvekk.md",
-    "People/Historical/Fürrdegrânne.md",
-    "People/Historical/Lunærgen Sø-Bryu.md",
-    "People/Historical/Martyr Zuun Gao.md",
-    "People/Historical/Naora.md",
-    "People/Historical/Vivis Zvieytymn.md",
-    "People/Historical/Nizo Lacredes.md",
-    "People/Historical/Vorschund von Karmelius.md",
-    "People/Important/Dead/Coda.md",
-    "People/Important/Monolithic Order/Jarn.md",
-    "People/Important/Monolithic Order/Romelius le Fansen.md",
-    "People/Important/Dead/Kaet.md",
-    "People/Important/Amy Zsaash Küten.md",
-    "People/Important/Dead",
-    "People/Cultures/Racial/Xe'tunig Culture.md",
-    "Geography/POIs/Stellkjurg Rainforest.md",
-    "People/Important/Fel of the Abyss.md",
     "People/Monoliths/Alfred Tonic.md",
     "People/Monoliths/Ezkli Reday.md",
     "People/Monoliths/Kate Askerō.md",
+    "People/Important/Monolithic Order/Scott Castillo.md",
+    "People/Important/Monolithic Order/Romelius le Fansen.md",
+    "People/Important/Monolithic Order/Jarn.md",
+    "People/Important/Monolithic Order/Iris Bircwal.md",
+    "People/Important/Dead/Kaet.md",
+    "People/Important/Dead/Coda.md",
+    "People/Important/Lilly.md",
+    "Introduction.md",
+    "People/Important/Miu Tonic.md",
+    "People/Related/Ezkli & Tarik Reday/Mr. Reday.md",
+    "People/Related/Alfred & Slyprae Tonic/Vazcole set Tonic.md",
+    "People/Related/Alfred & Slyprae Tonic/Mrs. set Tonic.md",
+    "People/Related/Lili Soul/Inex.md",
+    "Magic/Materials/Ksol.md",
+    "People/Related/Alfred & Slyprae Tonic/Zæangorääx.md",
+    "People/Related/Ezkli & Tarik Reday/Lzywausya.md",
+    "People/Related/Ezkli & Tarik Reday/Mrs. Reday.md",
+    "People/Related/Vorschund von Karmelius/Carvjun von Karmelius.md",
+    "People/Monoliths/Tarik Reday.md",
+    "People/Deities/Archdeities/Seya.md",
+    "People/Deities/Archdeities/Yacgrûle.md",
+    "People/Deities/Archdeities/Nzlietch.md",
+    "People/Deities/Archdeities/Lovianda.md",
+    "People/Important/Dead",
     "Pasted image 20251003211106.png",
     "People/Important/Monolithic Order",
     "People/Cultures/Racial",

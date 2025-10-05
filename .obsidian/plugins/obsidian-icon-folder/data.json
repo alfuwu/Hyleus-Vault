@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFlag",
+      "LiWind",
+      "LiEye",
       "LiGlassWater",
-      "LiRadar",
-      "LiPocketKnife",
-      "LiShield",
-      "LiSword"
+      "LiRadar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,7 +77,7 @@
   "People/Other": "LiAmpersand",
   "People/Monoliths/Alfred Tonic.md": "LiCrown",
   "People/Monoliths/Ezkli Reday.md": "LiMoon",
-  "People/Monoliths/Tarik Reday.md": "LiEye",
+  "People/Monoliths/Tarik Reday.md": "LiFlag",
   "People/Monoliths/Kate Askerō.md": "LiSword",
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
@@ -88,10 +88,12 @@
   "People/Cultures": "LiCircleDotDashed",
   "People/Important/Miu Tonic.md": "LiSmartphoneCharging",
   "People/Important/Bazif Credinga.md": "LiDices",
-  "People/Important/Lilly Bircwal.md": "LiFlower",
   "People/Important/Monolithic Order/Romelius le Fansen.md": "LiPocketKnife",
   "People/Important/Monolithic Order/Jarn.md": "LiShield",
   "People/Important/Narox Ornius.md": "LiRadar",
+  "People/Important/Monolithic Order/Scott Castillo.md": "LiWind",
+  "People/Important/Lilly.md": "LiFlower",
+  "People/Important/Dead/Coda.md": "LiGlassWater",
   "People/Important/Dead/Kaet.md": "LiApple",
-  "People/Important/Dead/Coda.md": "LiGlassWater"
+  "People/Important/Monolithic Order/Iris Bircwal.md": "LiEye"
 }

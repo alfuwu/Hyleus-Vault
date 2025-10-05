@@ -2,10 +2,10 @@
 tags:
   - Person
   - Important
-  - Eruul-vaak
-  - Intrinsic-Magic
+  - Phaawa
+  - Psychic
   - Monolithic-Order
   - Cketei
 aliases:
-  - Narox
+  - Izzy
 ---

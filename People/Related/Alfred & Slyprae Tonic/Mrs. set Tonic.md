@@ -2,7 +2,10 @@
 tags:
   - Person
   - Related
-  - Human
+  - Demon
+  - Noble
+aliases:
+  - Lady Tonic
+  - Mrs. Tonic
 ---
-
 **\[TEMPORARY NAME]**

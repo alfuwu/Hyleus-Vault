@@ -3,7 +3,7 @@ aliases:
   - Antavious
 tags:
   - Deity
-  - Arch-Deity
+  - Archdeity
 ---
   — [[Domain]]: **Lust**
   — Stage: **Arch**

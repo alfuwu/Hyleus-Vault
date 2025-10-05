@@ -1,11 +1,10 @@
 ---
 aliases:
+  - Archangel
   - Fallen Angel
 tags:
   - Species
   - Race
-  - Afterspecies
-  - Afterrace
 ---
 Angels are a race created by the [[Deity|deities]] collectively with the exclusion of the [[Deity|dark deities]]. [[Human|Humans]] were selected to be the base of the race due to the inherent flexibility that the [[human]] mold provided. An angel's internals are much more complex than a [[human]]'s, and are enhanced by [[Divinity|outer divinity]].
 

@@ -4,6 +4,8 @@ tags:
   - Important
   - Human
   - Intrinsic-Magic
+  - Genetic-Magic
+  - Spellcaster
   - Monolithic-Order
   - Monolith
 aliases:

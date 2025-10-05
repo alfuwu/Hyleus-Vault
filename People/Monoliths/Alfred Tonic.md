@@ -5,6 +5,8 @@ tags:
   - Demon
   - Psychic
   - Intrinsic-Magic
+  - Spellcaster
+  - Soul-Mage
   - Monolithic-Order
   - Monolith
 aliases:
@@ -17,6 +19,7 @@ aliases:
   - Cade X. Love
   - Cade Love
   - Cade
+  - Alfy the Fifth
 ---
 Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capability of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[demon]] who has expressed a great desire to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]]. Alfred Tonic is one of the Monoliths of the [[Monolithic Order]].
 

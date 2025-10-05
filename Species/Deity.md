@@ -5,6 +5,8 @@ aliases:
   - Intermediate Deity
   - Nascent Deity
   - Dark Deity
+  - God
+  - Goddess
 tags:
   - Species
   - Race

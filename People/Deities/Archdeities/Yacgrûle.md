@@ -1,3 +1,9 @@
+---
+tags:
+  - Deity
+  - Archdeity
+---
+
   — [[Domain]]: **Order**
   — Stage: **Arch**
 

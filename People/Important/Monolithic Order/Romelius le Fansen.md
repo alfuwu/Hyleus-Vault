@@ -9,5 +9,6 @@ tags:
 aliases:
   - Rome
   - Agent Rome
+  - Romelius
 ---
 Romelius le Fansen, descendent of the ancient le Fansen noble lineage, is an operative under the [[Monolithic Order]]. He is Cketei to [[Ezkli Reday]].

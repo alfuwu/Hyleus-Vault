@@ -1,15 +1,10 @@
 ---
 aliases:
-  - Demons
   - Devil
-  - Devils
   - Fiend
-  - Fiends
 tags:
   - Species
   - Race
-  - Afterspecies
-  - Afterrace
 ---
 Demons are one of the few extraplanar species to the [[mortal plane]], the other two being [[Deity|deities]] and [[Angel|angels]]. They originate from [[Hell]], one of the afterlife planes within the Hyleus megaplane cluster.
 

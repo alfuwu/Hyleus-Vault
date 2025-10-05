@@ -1,7 +1,7 @@
 ---
 tags:
   - Deity
-  - Arch-Deity
+  - Archdeity
 ---
   — [[Domain]]: **Life**
   — Stage: **Arch**
