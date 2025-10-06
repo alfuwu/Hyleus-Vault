@@ -4,14 +4,21 @@ tags:
   - Important
   - Human
   - Psychic
+  - Spellcaster
+  - Blood-Mage
 aliases:
   - Amy
   - Amy the Conquerer
 ---
-Amy Zsaash Küten, nickname the Conqueror, is an extremely powerful [[Psychoticism|psychic]] known for her militaristic prowess. She came to prominence during the [[Rebirth Era]], where she and her armies conquered multiple 
+Amy Zsaash Küten, nickname the Conqueror, is an immensely powerful [[Psychoticism|psychic]] known for her militaristic and combat prowess. She rose to prominence during the [[Rebirth Era]], where she and her armies conquered multiple kingdoms after performing a military coup to take control of their own kingdom, [[{{insert kingdom here}}]].
+
+Amy was one of the first to arrive at [[the Spiral]] after it awakened, and was pivotal in stemming the casualties. Eyewitness reports claim that she even came to blows with the Chronovore itself for an extremely limited duration of time.
+
+### Physical Description
+Amy Küten is tall for a [[human]] woman, standing at about 5′9″ (175 cm). She has olive-colored skin
 
 ### Personality
-Amy Küten is 
+Amy is ambitious
 
 ### Ancestry
 

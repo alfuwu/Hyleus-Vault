@@ -4,6 +4,7 @@ tags:
   - Important
   - Fae
   - Intrinsic-Magic
+  - Deceased
 aliases:
   - Melanie
   - Mel
@@ -11,7 +12,7 @@ aliases:
 
 
 ### Personality
-Melanie is an unstable, rather rude fae.
+Melanie is an unstable, rather rude person.
 
 ### Ancestry
 

@@ -4,5 +4,3 @@ tags:
   - Related
   - Human
 ---
-
-**\[TEMPORARY NAME]**

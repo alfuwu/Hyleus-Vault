@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBadge",
       "LiFlag",
       "LiWind",
       "LiEye",
-      "LiGlassWater",
-      "LiRadar"
+      "LiGlassWater"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -64,7 +64,6 @@
   "People/Important/Fel of the Abyss.md": "LiDrama",
   "People/Important/Meloqzykes.md": "LiLink",
   "Geography": "LiMountainSnow",
-  "People/Important/Melanie Yamako.md": "LiSnowflake",
   "Stories": "LiScrollText",
   "Eras": "LiArchive",
   "Units of Measurement": "LiPill",
@@ -95,5 +94,7 @@
   "People/Important/Lilly.md": "LiFlower",
   "People/Important/Dead/Coda.md": "LiGlassWater",
   "People/Important/Dead/Kaet.md": "LiApple",
-  "People/Important/Monolithic Order/Iris Bircwal.md": "LiEye"
+  "People/Important/Monolithic Order/Iris Bircwal.md": "LiEye",
+  "People/Important/Dead/Melanie.md": "LiSnowflake",
+  "People/Important/Zarzz.md": "LiBadge"
 }

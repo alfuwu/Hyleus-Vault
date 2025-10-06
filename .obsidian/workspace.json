@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a38c4e59496bc916",
+        "id": "f2b5150a2a9154b1",
         "type": "tabs",
         "children": [
           {
-            "id": "e96322e366f463f7",
+            "id": "1bd164dd25f3f5ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Monoliths/Tarik Reday.md",
+                "file": "Magic/Evils/Anchors/Oblivion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarik Reday"
+              "title": "Oblivion"
+            }
+          },
+          {
+            "id": "284646ebd40cec2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Monoliths/Alfred Tonic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfred Tonic"
+            }
+          },
+          {
+            "id": "5b5c9fb7ee7de88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Bazif Credinga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bazif Credinga"
             }
           }
         ]
@@ -180,34 +208,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96322e366f463f7",
+  "active": "1bd164dd25f3f5ae",
   "lastOpenFiles": [
+    "Magic/Evils/Anchors/Chronovore.md",
+    "Magic/Evils/Anchors/The Long Hunger.md",
+    "Magic/Evils/Anchors/Titan of Rot.md",
+    "Magic/Evils/Anchors/Storm of Eternity.md",
+    "Magic/Evils/Anchors/Oblivion.md",
+    "People/Important/Fel of the Abyss.md",
+    "Magic/Evils/Great Evil.md",
+    "Magic/Evils/Anchors",
+    "People/Important/Zarzz.md",
+    "Magic/Evils/The Starved.md",
+    "Magic/Evils/The Parasite.md",
+    "Magic/Evils/The Fractured.md",
+    "Magic/Evils/The Abyss.md",
+    "Magic/Evils/The Spiral.md",
+    "People/Important/Amy Zsaash Küten.md",
+    "People/Important/Dead/Melanie.md",
+    "Species/Phaawa.md",
+    "Species/Angel.md",
+    "People/Important/Slyprae Tonic.md",
+    "People/Important/Bazif Credinga.md",
     "People/Monoliths/Alfred Tonic.md",
-    "People/Monoliths/Ezkli Reday.md",
-    "People/Monoliths/Kate Askerō.md",
+    "People/Monoliths/Tarik Reday.md",
+    "People/Important/Lili Soul.md",
     "People/Important/Monolithic Order/Scott Castillo.md",
-    "People/Important/Monolithic Order/Romelius le Fansen.md",
     "People/Important/Monolithic Order/Jarn.md",
     "People/Important/Monolithic Order/Iris Bircwal.md",
-    "People/Important/Dead/Kaet.md",
     "People/Important/Dead/Coda.md",
-    "People/Important/Lilly.md",
-    "Introduction.md",
-    "People/Important/Miu Tonic.md",
-    "People/Related/Ezkli & Tarik Reday/Mr. Reday.md",
-    "People/Related/Alfred & Slyprae Tonic/Vazcole set Tonic.md",
-    "People/Related/Alfred & Slyprae Tonic/Mrs. set Tonic.md",
-    "People/Related/Lili Soul/Inex.md",
-    "Magic/Materials/Ksol.md",
-    "People/Related/Alfred & Slyprae Tonic/Zæangorääx.md",
-    "People/Related/Ezkli & Tarik Reday/Lzywausya.md",
-    "People/Related/Ezkli & Tarik Reday/Mrs. Reday.md",
-    "People/Related/Vorschund von Karmelius/Carvjun von Karmelius.md",
-    "People/Monoliths/Tarik Reday.md",
-    "People/Deities/Archdeities/Seya.md",
-    "People/Deities/Archdeities/Yacgrûle.md",
-    "People/Deities/Archdeities/Nzlietch.md",
-    "People/Deities/Archdeities/Lovianda.md",
     "People/Important/Dead",
     "Pasted image 20251003211106.png",
     "People/Important/Monolithic Order",
@@ -219,7 +248,6 @@
     "People/Cultures",
     "Meta/Images/Tectonics.png.0.pdnSave",
     "Meta/Images",
-    "Untitled 1.base",
-    "Untitled.base"
+    "Untitled 1.base"
   ]
 }

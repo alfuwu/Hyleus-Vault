@@ -1,3 +1,8 @@
+---
+tags:
+  - Species
+  - Race
+---
 The phaawa are a unnatural species, with its origin traceable back to the small village of Kene Etei. The people of Kene Etei, now the capital city of the country known as [[Etei]], worshiped nature and, in particular, plant life.
 
 In desperation to become closer to perfection, the people of Kene Etei developed a form of [[necromancy]] capable of altering the blueprint of a [[soul]], which they used to copy specific parts of plant souls into their own. The amount of human experimentation required for such a feat has stained the phaawa race's past in evil, though many phaawa in the modern day reject their heritage and strive to be upstanding, kind members of society. The phaawa race has received no small amount of discrimination for their looks and past actions.

@@ -21,14 +21,19 @@ aliases:
   - Cade
   - Alfy the Fifth
 ---
-Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capability of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[demon]] who has expressed a great desire to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]]. Alfred Tonic is one of the Monoliths of the [[Monolithic Order]].
+Alfred Tonic, lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capabilities of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[demon]] who has expressed a great desire and capability to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]]. Alfred Tonic is one of the Monoliths of the [[Monolithic Order]].
 
 His [[intrinsic magic]] is tied to the [[authority]] over the [[Domain]] of {{REDACTED}}.
 
 Alfred Tonic is the current wielder of [[Zæangorääx]].
 
+### Physical Description
+Physically, Alfred looks quite similar to a [[human]], having white skin and reddish-gold hair. The most obviously inhuman feature about him, sans the demonic features that every [[demon]] has, is the color of his eyes; a pure gold color, representative of House of Tonicar demonic blood.
+
+When not using the transformative [[Classical Spellcasting|spell matrix]] he created to hide his obviously demonic features, he has a pair of extremely dark blue wings, a spade tail of the same color, and his fingers end in claws instead of nails.
+
 ### Personality
-Mr. Tonic tries to maintain an optimistic outlook on life in spite of his [[Demon|demonic]] origins. He does not have any of the typical trappings of a [[demon]], such as but not limited to sadism, masochism, lust, greed, envy, or wrath, though the stereotypes that have followed him through [[human]] society in [[Drastevarde]] have lead to him to developing a transformative [[Classical Spellcasting|spell matrix]] that removes his more obviously [[Demon|demonic]] features, such as the spade tail and the claws.
+Mr. Tonic tries to maintain an optimistic outlook on life in spite of his [[Demon|demonic]] origins. He does not have any of the typical trappings of a [[demon]], such as but not limited to sadism, masochism, lust, greed, envy, or wrath, though the stereotypes that have followed him through [[human]] society in [[Drastevarde]] have lead to him to developing a transformative [[Classical Spellcasting|spell matrix]] that removes his more obviously [[Demon|demonic]] features, such as the spade tail, the claws, and the wings.
 
 Alfred is rather socially inept and struggles with [[human]] conversation, often finding himself preferring the company of [[Serran|serrans]] instead. However, he is also brilliantly talented when it comes to [[classical spellcasting]] (aside from [[Classical Spellcasting|alchemy]], of which he has little interest in) and very passionate about his craft. He particularly enjoys exploring the [[mortal plane]], something he had wished to do since he was but a small child in [[Hell]].
 
@@ -65,4 +70,4 @@ Though rather uninterested in [[Classical Spellcasting|alchemy]], he was a vorac
 Alfred is one of the Monoliths of the [[Monolithic Order]].
 
 ### Current
-The aftermath of [[the Fractured]] is what prompted Alfred to collect his closest colleagues to initiate the [[Monolithic Order]]. Notably, he did not include his sister, [[Slyprae Tonic|Slyprae]], as one of the founding members of the [[Monolithic Order|Order]]. He also didn't include [[Melanie Yamako]] due to a recent fallout.
+The aftermath of [[the Fractured]] is what prompted Alfred to collect his closest colleagues to initiate the [[Monolithic Order]]. Notably, he did not include his sister, [[Slyprae Tonic|Slyprae]], as one of the founding members of the [[Monolithic Order|Order]].
