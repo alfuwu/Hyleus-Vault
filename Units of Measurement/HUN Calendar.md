@@ -9,7 +9,7 @@ Each month is made up of 4 weeks of 7 days, with 13 months in a year. Every 6 ye
 
 The months are as follows:
 - **Fedrena**
-- **Atdinia**
+- **Adinia**
 - **Handra**
 - **Gzoa**
 - **Bandrosa**
@@ -17,7 +17,7 @@ The months are as follows:
 - **Malkun**
 - **Thale**
 - **Cindor**
-- **Quinali**
+- **Quali**
 - **Kahlow**
 - **Volua**
 - **Demu**

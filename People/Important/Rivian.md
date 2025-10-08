@@ -4,8 +4,9 @@ tags:
   - Important
   - Fae
   - Archfae
+  - Psychic
 ---
-The [[Fae|archfae]] Rivian embodied the nature of the [[fae]]; tricking unsuspecting passerby into making deals extremely disadvantageous for them, and either profiting because of it or getting entertainment from it. During Rivian's most known activity period, the world was in turmoil, with wars breaking out between countries every year or so. Rivian capitalized upon this to force [[Nizo Lacredes]] of [[Fallen Kingdom of Lacredes|Lacredes]] into making a deal with him.
+The [[Fae|archfae]] Rivian (born 22/11/2372 [[HUN Calendar|ME]]) embodies the nature of the [[fae]]; tricking unsuspecting passerby into making deals extremely disadvantageous for them, and either profiting because of it or getting entertainment from it. During Rivian's most known activity period, the world was in turmoil, with wars breaking out between countries every year or so. Rivian capitalized upon this to force [[Nizo Lacredes]] of [[Fallen Kingdom of Lacredes|Lacredes]] into making a deal with him.
 
 After Rivian struck the deal with [[Nizo Lacredes]], he worked together to take down the surrounding kingdoms around [[Fallen Kingdom of Lacredes|Lacredes]] that were trying to destroy the kingdom. The two, despite their rocky start, became friends as Rivian put aside his prejudices and truly examined [[Nizo Lacredes]]'s character.
 
