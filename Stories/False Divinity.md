@@ -3,8 +3,8 @@ tags:
   - Story
 ---
 — **Subject**: [[Lili Soul]],
-— **Location**: [[Obuandu]]
-— **Event**: The absorption of [[Obuandu]]'s [[Shard of Divinity]]
+— **Location**: [[Geography/Realms/Obuandu]]
+— **Event**: The absorption of [[Geography/Realms/Obuandu]]'s [[Shard of Divinity]]
 — **Date**: 2654 [[HUN Calendar|ME]]
 
 ————————————————

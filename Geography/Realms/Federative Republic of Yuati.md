@@ -5,7 +5,7 @@ aliases:
   - Yuati
 tags:
   - Realm
-  - Kingdom
   - Collapsed
   - Human-Dominant
+  - Presidential-Republic
 ---
