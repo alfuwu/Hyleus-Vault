@@ -7,4 +7,5 @@ tags:
   - Realm
   - Empire
   - Human-Dominant
+  - Constitutional-Monarchy
 ---

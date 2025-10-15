@@ -6,6 +6,7 @@ tags:
   - Realm
   - Empire
   - Human-Dominant
+  - Semi-presidential-Republic
 ---
 The Great Jeienet is a realm where culture holds a significant role. Value is placed upon culturally significant things, such as boar roasted over an open fire—symbolism of the Jeienet's Goddess of the Hunt. The Great Jeienet is known for its prowess in magical artifice, developing many powerful artifacts that allowed them to flourish during the [[Rebirth Era]].
 

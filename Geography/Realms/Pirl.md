@@ -4,5 +4,6 @@ tags:
   - Kingdom
   - Collapsed
   - Human-Dominant
+  - Absolute-Monarchy
 ---
 \[No content available]

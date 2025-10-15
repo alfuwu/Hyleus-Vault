@@ -4,49 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b5150a2a9154b1",
+        "id": "6d0647b758c65239",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd164dd25f3f5ae",
+            "id": "84172656da32977d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Evils/Anchors/Oblivion.md",
+                "file": "Geography/Realms/The Trislish Republic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oblivion"
-            }
-          },
-          {
-            "id": "284646ebd40cec2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Monoliths/Alfred Tonic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alfred Tonic"
-            }
-          },
-          {
-            "id": "5b5c9fb7ee7de88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Important/Bazif Credinga.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bazif Credinga"
+              "title": "The Trislish Republic"
             }
           }
         ]
@@ -122,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Factions/Monolithic Order.md",
+                "file": "Species/Phaawa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monolithic Order"
+              "title": "Backlinks for Phaawa"
             }
           },
           {
@@ -208,46 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bd164dd25f3f5ae",
+  "active": "84172656da32977d",
   "lastOpenFiles": [
-    "Magic/Evils/Anchors/Chronovore.md",
-    "Magic/Evils/Anchors/The Long Hunger.md",
-    "Magic/Evils/Anchors/Titan of Rot.md",
-    "Magic/Evils/Anchors/Storm of Eternity.md",
-    "Magic/Evils/Anchors/Oblivion.md",
-    "People/Important/Fel of the Abyss.md",
-    "Magic/Evils/Great Evil.md",
-    "Magic/Evils/Anchors",
-    "People/Important/Zarzz.md",
-    "Magic/Evils/The Starved.md",
-    "Magic/Evils/The Parasite.md",
-    "Magic/Evils/The Fractured.md",
-    "Magic/Evils/The Abyss.md",
-    "Magic/Evils/The Spiral.md",
-    "People/Important/Amy Zsaash Küten.md",
-    "People/Important/Dead/Melanie.md",
-    "Species/Phaawa.md",
-    "Species/Angel.md",
-    "People/Important/Slyprae Tonic.md",
-    "People/Important/Bazif Credinga.md",
-    "People/Monoliths/Alfred Tonic.md",
-    "People/Monoliths/Tarik Reday.md",
-    "People/Important/Lili Soul.md",
+    "Geography/Realms/The Imperial Fraedate.md",
+    "Geography/Realms/The Ckretion Empire.md",
+    "Geography/Realms/Pirl.md",
+    "Geography/Realms/Obuandu.md",
+    "Geography/Realms/Island Nation of Joculen.md",
+    "Geography/Realms/Federative Republic of Yuati.md",
+    "Geography/Realms/Empire of Gen.md",
+    "Geography/Realms/Fallen Kingdom of Lacredes.md",
+    "Geography/Realms/Great Jeienet.md",
+    "People/Cultures/Contemporary/Obuandu.md",
+    "Introduction.md",
     "People/Important/Monolithic Order/Scott Castillo.md",
+    "People/Important/Monolithic Order/Romelius le Fansen.md",
     "People/Important/Monolithic Order/Jarn.md",
     "People/Important/Monolithic Order/Iris Bircwal.md",
+    "People/Important/Monolithic Order",
+    "People/Important/Dead/Melanie.md",
+    "People/Important/Dead/Kaet.md",
     "People/Important/Dead/Coda.md",
     "People/Important/Dead",
-    "Pasted image 20251003211106.png",
-    "People/Important/Monolithic Order",
+    "People/Deities/Archdeities/Yacgrûle.md",
+    "People/Deities/Archdeities/Seya.md",
+    "People/Deities/Archdeities/Nzlietch.md",
+    "People/Deities/Archdeities/Lovianda.md",
+    "People/Deities/Archdeities/Deimos.md",
+    "People/Deities/Archdeities/Beebo.md",
+    "People/Deities/Archdeities",
+    "People/Related/Ezkli & Tarik Reday/Azene Reday.md",
+    "People/Related/Alfred & Slyprae Tonic/Vazcole set Tonic.md",
+    "Magic/Evils/Anchors",
     "People/Cultures/Racial",
-    "Meta/Images/Realistic World.png",
     "Meta/Images/Tectonics.png",
+    "Meta/Images/Realistic World.png",
+    "Meta/Images",
+    "Meta",
     "People/Cultures/Historical",
     "People/Cultures/Contemporary",
-    "People/Cultures",
-    "Meta/Images/Tectonics.png.0.pdnSave",
-    "Meta/Images",
-    "Untitled 1.base"
+    "People/Cultures"
   ]
 }
