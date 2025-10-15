@@ -10,7 +10,7 @@ The axe is heavily [[Classical Spellcasting|enchanted]], to the point that it po
 
 Records of what happened to an individual if they were not deemed worthy by the blade are sparse, though there have been claims that it can range anywhere from complete annihilation of the individual to merely politely burning them.
 
-Zæangorääx is currently wielded by [[Alfred Tonic]].
+Zæangorääx is currently wielded by [[Alfred set Tonic]].
 
 ## Functions
 Once bound to a wielder, the various [[Classical Spellcasting|enchantments]] of the weapon are primed for use. Using the connection that Zæangorääx forms between itself and the wielder's [[soul]], it is capable of a wide variety of effects that generic magical weaponry simply cannot replicate. This includes the capability for the wielder to summon Zæangorääx to them at will, irregardless of [[mana]] restrictions placed upon their physical form, for but a pittance of [[mana]] from the [[soul]]'s core. The external connection also helps the wielder resist [[Necromancy|offensive necromancy]].

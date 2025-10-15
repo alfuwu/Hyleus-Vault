@@ -10,14 +10,13 @@ tags:
   - Monolithic-Order
   - Monolith
 aliases:
+  - Alfred Tonic
   - Alfred
   - Alfy
   - Alfuwu
+  - Derfla tes Cinot
   - Derfla Cinot
   - Derfla
-  - Cade Xavier Love
-  - Cade X. Love
-  - Cade Love
   - Cade
   - Alfy the Fifth
 ---
@@ -45,16 +44,16 @@ His noble heritage is possibly part of the reason for his extremely rare magical
 ### Childhood
 From the moment Alfred was born, necromantic rites performed on his infant soul revealed the rare signature of [[intrinsic magic]]. His family celebrated this as an infernal omen, elevating his status above his siblings. His mother even commissioned a series of lullabies about the "Thread-Bearer of House Tonicar" to commemorate the occasion.
 
-Alfred grew very close to his sister [[Slyprae Tonic]] during his childhood, as she was one of the scant few who would actually make a connection to him rather than treat him as another potential political rival.
+Alfred grew very close to his sister [[Slyprae set Tonic]] during his childhood, as she was one of the scant few who would actually make a connection to him rather than treat him as another potential political rival.
 
 As a child of [[Hell]], Alfred frequently wandered away from his household, sneaking into libraries and ritual halls where spell matrices were inscribed into walls and stone. He had little interest in the power struggles of demonic courts, preferring instead to trace runes and attempt small-scale spell constructions on scraps of parchment. He would frequently ignore the rules set by his parents to do so.
 
 ### Youth
 Early in Alfred's youth, around age 10, his [[psychoticism]] manifested. News of the [[Hell|Hells]]-blessed [[demon]] spread like hellfire throughout the plane, propelling Alfred from a once-in-a-lifetime magical talent to a first-in-history
 
-About when he was 15 years of age, he used his family's mana well to power a transplanar [[Classical Spellcasting|spell matrix]] to send himself to the [[mortal plane]] as a way to escape from his family. He brought his younger sister, [[Slyprae Tonic]] along with him.
+About when he was 15 years of age, he used his family's mana well to power a transplanar [[Classical Spellcasting|spell matrix]] to send himself to the [[mortal plane]] as a way to escape from his family. He brought his younger sister, [[Slyprae set Tonic]] along with him.
 
-The transplanar spell, naturally, set off many wards within the Tonicar house, and stirred up a massive ruckus. However, those wards were made to guard against someone going *in*, not against someone going *out*. Thus, Alfred and [[Slyprae Tonic|Slyprae]] managed to escape their family and venture out into the wider world.
+The transplanar spell, naturally, set off many wards within the Tonicar house, and stirred up a massive ruckus. However, those wards were made to guard against someone going *in*, not against someone going *out*. Thus, Alfred and [[Slyprae set Tonic|Slyprae]] managed to escape their family and venture out into the wider world.
 
 ### Romance
 Alfred and [[Ezkli Reday|Ezkli]] met in a ruined observatory on the [[Island Nation of Joculen]], both trespassing. Alfred was looking for broken [[Classical Spellcasting|spell matrices]] to study, while [[Ezkli Reday|Ezkli]] was trying to dismantle a star-mapping device for parts. Upon running into each other, they argued over how best to repair it, then spent three nights restoring the machine to working order.
@@ -70,4 +69,4 @@ Though rather uninterested in [[Classical Spellcasting|alchemy]], he was a vorac
 Alfred is one of the Monoliths of the [[Monolithic Order]].
 
 ### Current
-The aftermath of [[the Fractured]] is what prompted Alfred to collect his closest colleagues to initiate the [[Monolithic Order]]. Notably, he did not include his sister, [[Slyprae Tonic|Slyprae]], as one of the founding members of the [[Monolithic Order|Order]].
+The aftermath of [[the Fractured]] is what prompted Alfred to collect his closest colleagues to initiate the [[Monolithic Order]]. Notably, he did not include his sister, [[Slyprae set Tonic|Slyprae]], as one of the founding members of the [[Monolithic Order|Order]].

@@ -1,4 +1,4 @@
-— **Subject**: [[Alfred Tonic]] & [[Ezkli Reday]],
+— **Subject**: [[Alfred set Tonic]] & [[Ezkli Reday]],
 — **Location**: \[No data available]
 — **Event**: The Fracturing
 — **Date**: 2650 [[HUN Calendar|ME]]

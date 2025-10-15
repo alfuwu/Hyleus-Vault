@@ -16,7 +16,7 @@ Ezkli Reday (born 10/04/2630 [[HUN Calendar|ME]]), twin sister of [[Tarik Reday]
 
 Her [[intrinsic magic]] is unique in that it is not unique solely to her, but rather the [[Intrinsic Magic|intrinsic magic formation]] is present on both her and her twin brother's [[Soul|souls]]. It also encompasses two [[Domain|Domains]] rather than the usual one/none.
 
-Ezkli Reday is the lover of [[Alfred Tonic]], and escaped with him from ground zero of [[the Fractured]].
+Ezkli Reday is the lover of [[Alfred set Tonic]], and escaped with him from ground zero of [[the Fractured]].
 
 Her [[intrinsic magic]] is \[content unavailable].
 

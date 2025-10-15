@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCloudLightning",
       "LiBadge",
       "LiFlag",
       "LiWind",
-      "LiEye",
-      "LiGlassWater"
+      "LiEye"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -69,12 +69,10 @@
   "Units of Measurement": "LiPill",
   "Units of Measurement/HUN Calendar.md": "LiCalendar",
   "Species": "LiCat",
-  "People/Important/Slyprae Tonic.md": "LiLeaf",
   "People/Important/Lili Soul.md": "LiFlame",
   "People/Important/Rivian.md": "LiBell",
   "People/Important/Amy Zsaash Küten.md": "LiGem",
   "People/Other": "LiAmpersand",
-  "People/Monoliths/Alfred Tonic.md": "LiCrown",
   "People/Monoliths/Ezkli Reday.md": "LiMoon",
   "People/Monoliths/Tarik Reday.md": "LiFlag",
   "People/Monoliths/Kate Askerō.md": "LiSword",
@@ -96,5 +94,8 @@
   "People/Important/Dead/Kaet.md": "LiApple",
   "People/Important/Monolithic Order/Iris Bircwal.md": "LiEye",
   "People/Important/Dead/Melanie.md": "LiSnowflake",
-  "People/Important/Zarzz.md": "LiBadge"
+  "People/Important/Zarzz.md": "LiBadge",
+  "People/Other/Odi Hercul Enguh.md": "LiCloudLightning",
+  "People/Important/Slyprae set Tonic.md": "LiLeaf",
+  "People/Monoliths/Alfred set Tonic.md": "LiCrown"
 }

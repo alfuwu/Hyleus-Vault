@@ -32,4 +32,4 @@ Lili Soul, as her name implies, was an [[angel]] created by [[Deimos]], the [[De
 It should be noted that she has had frequent contact with [[Fel of the Abyss]] recently.
 
 ### Current
-Lili Soul was last known to be in the company of [[Alfred Tonic]].
+Lili Soul was last known to be in the company of [[Alfred set Tonic]].
