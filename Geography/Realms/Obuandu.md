@@ -36,7 +36,7 @@ The modern state of Obuandu was established under [[President-General Wenu Kaar]
 
 ### **Colonial and Imperial Pressures (1550–1800 [[HUN Calendar|ME]])**
 
-Obuandu experienced sustained pressure from the expansionist [[The Imperial Fraedate|Imperial Fraedate]] and [[Trislish Empire]]. The *Orun Crisis* (1042 A.R.) nearly led to partition, but internal unity movements—particularly those led by serran diplomats—secured recognition of neutrality. This era solidified Obuandu's self-image as a “neutral heart" of [[Drastevarde]], valuing balance and negotiation over dominance.
+Obuandu experienced sustained pressure from the expansionist [[The Imperial Fraedate|Imperial Fraedate]] and [[The Trislish Republic|Trislish Empire]]. The *Orun Crisis* (1642 [[HUN Calendar|ME]]) nearly led to partition, but internal unity movements—particularly those led by serran diplomats—secured recognition of neutrality. This era solidified Obuandu's self-image as a “neutral heart" of [[Drastevarde]], valuing balance and negotiation over dominance.
 
 ### **Modern Era**
 

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba0dfccb1bf3b4b",
+        "id": "239bb821d4db0165",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a85d64d44d556d",
+            "id": "57f557ee17587d84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Stories/False Divinity.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "False Divinity"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zchuun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Factions/Monolithic Order.md",
+                "file": "Species/Phaawa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monolithic Order"
+              "title": "Backlinks for Phaawa"
             }
           },
           {
@@ -176,46 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a85d64d44d556d",
+  "active": "8f6acbe404fb81f9",
   "lastOpenFiles": [
+    "Geography/Planes/Void.md",
+    "People/Factions/Cult of Lhuunkzar.md",
+    "Stories/False Divinity.md",
     "Geography/Realms/Obuandu.md",
     "conflict-files-obsidian-git.md",
-    "People/Cultures/Contemporary/Obuandu.md",
+    "People/Other/Odi Hercul Enguh.md",
+    "People/Monoliths/Alfred set Tonic.md",
+    "People/Important/Slyprae set Tonic.md",
     "Geography/Realms/The Trislish Republic.md",
+    "Geography/Realms/The Imperial Fraedate.md",
+    "Geography/Realms/The Ckretion Empire.md",
+    "Geography/Realms/Pirl.md",
+    "Geography/Realms/Island Nation of Joculen.md",
     "Geography/Realms/Federative Republic of Yuati.md",
+    "Geography/Realms/Empire of Gen.md",
+    "Geography/Realms/Fallen Kingdom of Lacredes.md",
     "Geography/Realms/Great Jeienet.md",
-    "Untitled.base",
-    "People/Important/Amy Zsaash Küten.md",
-    "People/Deities/Primordial Deities/Ruin.md",
-    "People/Deities/Primordial Deities/M.md",
-    "People/Deities/Primordial Deities/Hyleus.md",
-    "People/Deities/Nascent Deities/Yurrin.md",
-    "People/Deities/Nascent Deities/Wor-Daun.md",
-    "People/Deities/Intermediate Deities/Regg.md",
-    "People/Deities/Intermediate Deities/Hakscles.md",
-    "People/Deities/Archdeities/Beebo.md",
-    "People/Deities/Archdeities/Deimos.md",
-    "People/Deities/Archdeities/Lovianda.md",
-    "People/Deities/Archdeities/Nzlietch.md",
-    "People/Deities/Archdeities/Yacgrûle.md",
-    "People/Deities/Archdeities/Seya.md",
-    "Units of Measurement/HUN Calendar.md",
+    "People/Cultures/Contemporary/Obuandu.md",
     "Introduction.md",
+    "People/Important/Monolithic Order/Scott Castillo.md",
+    "People/Important/Monolithic Order/Romelius le Fansen.md",
+    "People/Important/Monolithic Order/Jarn.md",
+    "People/Important/Monolithic Order/Iris Bircwal.md",
+    "People/Important/Monolithic Order",
     "People/Important/Dead/Melanie.md",
     "People/Important/Dead/Kaet.md",
     "People/Important/Dead/Coda.md",
-    "People/Important/Monolithic Order/Scott Castillo.md",
-    "Magic/Evils/Anchors",
     "People/Important/Dead",
-    "Pasted image 20251003211106.png",
-    "People/Important/Monolithic Order",
+    "People/Deities/Archdeities",
+    "Magic/Evils/Anchors",
     "People/Cultures/Racial",
-    "Meta/Images/Realistic World.png",
     "Meta/Images/Tectonics.png",
+    "Meta/Images/Realistic World.png",
+    "Meta/Images",
+    "Meta",
     "People/Cultures/Historical",
     "People/Cultures/Contemporary",
-    "People/Cultures",
-    "Meta/Images/Tectonics.png.0.pdnSave",
-    "Meta/Images"
+    "People/Cultures"
   ]
 }

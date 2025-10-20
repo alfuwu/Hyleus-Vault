@@ -6,19 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-<<<<<<< HEAD
-      "LiCloudLightning",
-      "LiBadge",
-      "LiFlag",
-      "LiWind",
-      "LiEye"
-=======
       "LiCircleDotDashed",
       "LiAsterisk",
       "LiNavigation",
       "LiLinkGlyph",
       "LiSave"
->>>>>>> origin/master
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -87,27 +79,5 @@
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
-<<<<<<< HEAD
-  "Meta": "LiSave",
-  "Meta/Images": "LiImages",
-  "Geography/World Map.md": "LiGlobe",
-  "People/Cultures": "LiCircleDotDashed",
-  "People/Important/Miu Tonic.md": "LiSmartphoneCharging",
-  "People/Important/Bazif Credinga.md": "LiDices",
-  "People/Important/Monolithic Order/Romelius le Fansen.md": "LiPocketKnife",
-  "People/Important/Monolithic Order/Jarn.md": "LiShield",
-  "People/Important/Narox Ornius.md": "LiRadar",
-  "People/Important/Monolithic Order/Scott Castillo.md": "LiWind",
-  "People/Important/Lilly.md": "LiFlower",
-  "People/Important/Dead/Coda.md": "LiGlassWater",
-  "People/Important/Dead/Kaet.md": "LiApple",
-  "People/Important/Monolithic Order/Iris Bircwal.md": "LiEye",
-  "People/Important/Dead/Melanie.md": "LiSnowflake",
-  "People/Important/Zarzz.md": "LiBadge",
-  "People/Other/Odi Hercul Enguh.md": "LiCloudLightning",
-  "People/Important/Slyprae set Tonic.md": "LiLeaf",
-  "People/Monoliths/Alfred set Tonic.md": "LiCrown"
-=======
   "People/Cultures": "LiCircleDotDashed"
->>>>>>> origin/master
 }
