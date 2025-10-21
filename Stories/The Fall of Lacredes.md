@@ -3,10 +3,10 @@ tags:
   - Story
   - Short-Story
 ---
-— **Subject**: Rivian,
-— **Location**: Ion, capital of [[Fallen Kingdom of Lacredes|Lacredes]]
+— **Subject**: [[Rivian]]
+— **Location**: [[Fallen Kingdom of Lacredes|Lacredes]]' capital, Ion
 — **Event**: The fall of [[Fallen Kingdom of Lacredes|Lacredes]]
-— **Date**: 2643 [[HUN Calendar|ME]]
+— **Date**: 2603 [[HUN Calendar|ME]]
 
 ————————————————
 

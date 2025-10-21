@@ -6,8 +6,9 @@ tags:
   - Intrinsic-Magic
 aliases:
   - Fel
+  - Fellucko Mec Yridis
 ---
-Fel of the Abyss (born 04/13/960 [[HUN Calendar|ME]]) is the only recorded living being to have escaped ground zero of [[the Abyss]]. His species is unknown and does not match any known sapient species, suggesting that he may be a unique being. His past life is obscure, though it is presumed he was a resident of [[the Ckretion Empire]], possibly even a [[human]], before [[the Abyss]] emerged.
+Fel of the Abyss (born 04/13/950 [[HUN Calendar|ME]]) is the only recorded living being to have escaped ground zero of [[the Abyss]]. His species is unknown and does not match any known sapient species, suggesting that he may be a unique being. His past life is obscure, though it is presumed he was a resident of [[the Ckretion Empire]], possibly even a [[human]], before [[the Abyss]] emerged.
 
 Fel is known to possess some form of [[intrinsic magic]], and some form of connection to the [[Void]]. He has been observed to be capable of spatial manipulation, likely an ability stemming from the aforementioned [[intrinsic magic]], allowing him to teleport with seemingly no limitations, even to other material planes such as [[Heaven]] and [[Hell]].
 

@@ -6,11 +6,19 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< HEAD
       "LiCloudLightning",
       "LiBadge",
       "LiFlag",
       "LiWind",
       "LiEye"
+=======
+      "LiCircleDotDashed",
+      "LiAsterisk",
+      "LiNavigation",
+      "LiLinkGlyph",
+      "LiSave"
+>>>>>>> origin/master
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,6 +87,7 @@
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
+<<<<<<< HEAD
   "Meta": "LiSave",
   "Meta/Images": "LiImages",
   "Geography/World Map.md": "LiGlobe",
@@ -97,4 +106,7 @@
   "People/Other/Odi Hercul Enguh.md": "LiCloudLightning",
   "People/Important/Slyprae set Tonic.md": "LiLeaf",
   "People/Monoliths/Alfred set Tonic.md": "LiCrown"
+=======
+  "People/Cultures": "LiCircleDotDashed"
+>>>>>>> origin/master
 }

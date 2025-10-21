@@ -1,41 +1,48 @@
-— **Subject**: [[Fel of the Abyss|Fel]],
+— **Subject**: [[Fel of the Abyss]]
 — **Location**: [[The Ckretion Empire|Ckretion]] / [[The Abyss]]
-— **Event**: The emergence of The Abyss
-— **Date**: 872 [[HUN Calendar|ME]]
+— **Event**: The emergence of [[the Abyss]]
+— **Date**: 972 [[HUN Calendar|ME]]
 
 ————————————————
 
-A nightshift worker sat hunched before several rudimentary tabloids that displayed text using magically emitted light, the glare illuminating her face in a ghastly light. She was one of a dozen personnel tracking any and all types of known magical anomalies across the continent. Something about "national security" and "duty to the people".
+- [[Fel of the Abyss|Fellucko Mec Yridis]] and his friend, Icko, get caught up in the emergence of [[the Abyss]].
+- 
 
-She didn't care about the reasons though. The pay was generous for the amount of effort needed, and that was all that mattered. The dozens of contracts she'd been forced to sign before actually beginning the job all those years ago could go fuck right off. During her employment, she'd only ever spotted two anomalies; one just outside Ckretion, and another inside the Atta Jangutta. Only the anomaly near Ckretion was investigated; the Atta Jangutta was the source of a plentitude of anomalies, and attempting to research each one of them would be suicide for any intrepid scientist. Both anomalies were rather minor, with the one near Ckretion turning out to be a psychic necromancer attempting to create a localized Psychic Leyline connecting him to his undead thralls. That man had been summarily arrested and executed. Good riddance.
+————————————————
 
-Strange, then, it was when all the monitors in front of her crashed. Strange indeed. Perhaps slightly worrying, one could even say. It had never happened once during all her years working her job. Perhaps the artifice merely failed due to age, but if it wasn't age that fried it...
+A nightshift worker sat hunched before several rudimentary tabloids that displayed text via magically emitted light, the glare illuminating her face in a ghastly light. She was one of several dozen personnel tracking any and all types of known magical anomalies across the continent. Something about "national security" and "duty to the people".
 
-The woman hastily stood up from her chair, almost knocking her half-empty mug off the desk. She began moving in an odd half-walking, half-running form, unsure whether or not her equipment crashing was a situation that warranted a breach of etiquette.
+She didn't care about the reasons, though. The pay was generous for the amount of effort needed, and that was all that mattered. The dozens of contracts she'd been forced to sign before actually beginning the job all those years ago could go fuck right off. During her employment, she'd only ever spotted two anomalies; one just outside Ckretion, and another inside the Atta Jangutta. Only the anomaly near Ckretion was investigated; the Atta Jangutta was the source of a plentitude of anomalies, and attempting to research each one of them would be suicide for any intrepid scientist. Both anomalies were rather minor, with the one near Ckretion turning out to be a psychic necromancer attempting to create a localized Psychic Leyline connecting him to his undead thralls. That man had been summarily arrested and executed. Good riddance.
 
-She swiftly arrived at her superior's office, and, after two nigh-frantic knocks, a baritone voice came from beyond the door. "Come in."
+Strange, then, it was, when all the monitors in front of her crashed. Strange indeed. Perhaps slightly worrying, one could even venture to say. It had never happened once during all her years working her job. Perhaps the artifice merely failed due to age, but if it wasn't age that fried it...
 
-The woman swung the door inwards and shot the man a salute that could *maybe* pass if one was squinting hard enough. The man could see the urgency in her gaze, and wisely decided that such minor things were not the most important thing currently.
+The woman hastily stood up from her chair, almost knocking her half-empty mug of ackja off the desk with a clumsy hand. She began moving in an odd half-walking, half-running manner, unsure whether or not her equipment suddenly shutting down was a situation that warranted a breach of etiquette. She, personally, was leaning towards the latter of the two, but one could never know for certain.
 
-"At ease," he began, waiting for the woman to lower her salute before demanding, "Report."
+Corridor after corridor she turned down, muttering under her breath curses at whichever incompetent architect designed such a labyrinthine building.
+
+She swiftly arrived at her superior's office, and, after two nigh-frantic knocks, a pleasantly baritone voice echoed out from beyond the door. "Come in."
+
+The woman swung the door inwards and shot the man a salute that could *maybe* pass if one was squinting hard enough. The man could see the urgency in her gaze and posture, and wisely decided that such minor things were not the most pressing topic.
+
+"At ease," he began, waiting for the woman to lower her salute before continuing on in a demanding tone. "Report."
 
 "Sir! The equipment broke suddenly. I am unsure, but think this might indicate a Class Vec anomaly."
 
-"Class Vec?" the man asked, a masterfully raised eyebrow painting a look of skepticism upon his face. "I doubt it. I'll get some artificers to fix the equipment and find out what went wrong. You are dismissed."
+"Class Vec?" the man asked, a masterfully raised eyebrow painting a look of skepticism upon his face that would make an artist weep. "I doubt it. I'll get some artificers to fix the equipment and find out what went wrong. You are dismissed."
 
-"Sir! Is that it? What about the anomaly?"
+"Sir! Is that it? What about the anomaly? Aren't you going to investigate it?"
 
 "What *about* it? If a Class Vec anomaly has truly emerged, there is nothing we can do but pray it never comes near us. And until the equipment's fixed, we can't get any information about this potential anomaly's whereabouts."
 
 Suddenly feeling a little frustrated and more than a bit useless, the woman exited the room. The man rubbed his temples for a second, flagging down a courier in the hallway to tell the artificers to fix the equipment in room 339 before returning to the paperwork he was doing before the intrusion as if nothing had happened.
 
 
-*Ckretion's capital, Ackakuio*
+*Ckretion's capital, Ackalus*
 
 
 The loaves of bread steamed in the fire-hot oven, the smell gradually wafting out like an omen of happy days and good times. The charismatic young man working the bakery late in the evening enjoyed the tranquility and stillness that came in the later hours of the day, savoring the cozy quiet stemming from the fact that only a few customers loitered around at this late a hour.
 
-His name was Fellucko Mec Yridi, the Yridi bit meaning "stalwart" in Ckretion.
+His name was Fellucko Mec Yridis, the Yridis bit meaning "stalwart" in Ckretion.
 
 The bell outside the bakery rung once, twice, thrice, and then a few more times after that, indicating a customer entering the building. Fellucko looked up and broke into a smile upon seeing who it was. A girl stood in the entryway, her long golden hair damp and her blazer wet from the rain pattering outside. She had clearly come over in a rush; her hair stuck out in all manner of directions, licked by the wind, and was still panting.
 
