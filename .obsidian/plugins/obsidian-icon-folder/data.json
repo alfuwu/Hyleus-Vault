@@ -6,19 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-<<<<<<< HEAD
       "LiCloudLightning",
       "LiBadge",
       "LiFlag",
       "LiWind",
       "LiEye"
-=======
-      "LiCircleDotDashed",
-      "LiAsterisk",
-      "LiNavigation",
-      "LiLinkGlyph",
-      "LiSave"
->>>>>>> origin/master
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,16 +74,14 @@
   "People/Important/Amy Zsaash Küten.md": "LiGem",
   "People/Other": "LiAmpersand",
   "People/Monoliths/Ezkli Reday.md": "LiMoon",
-  "People/Monoliths/Tarik Reday.md": "LiEye",
+  "People/Monoliths/Tarik Reday.md": "LiFlag",
   "People/Monoliths/Kate Askerō.md": "LiSword",
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
-<<<<<<< HEAD
   "Meta": "LiSave",
   "Meta/Images": "LiImages",
   "Geography/World Map.md": "LiGlobe",
-  "People/Cultures": "LiCircleDotDashed",
   "People/Important/Miu Tonic.md": "LiSmartphoneCharging",
   "People/Important/Bazif Credinga.md": "LiDices",
   "People/Important/Monolithic Order/Romelius le Fansen.md": "LiPocketKnife",
@@ -107,7 +97,4 @@
   "People/Other/Odi Hercul Enguh.md": "LiCloudLightning",
   "People/Important/Slyprae set Tonic.md": "LiLeaf",
   "People/Monoliths/Alfred set Tonic.md": "LiCrown"
-=======
-  "People/Cultures": "LiCircleDotDashed"
->>>>>>> origin/master
 }

@@ -12,3 +12,4 @@ A list of names with an assigned use but no formal, fleshed out document yet (ch
 - Jarn: A Cketei of the Monolithic Order, under [[Ezkli Reday]]. He survived [[the Fractured]].
 - Erwin Zvekk: A well-renowned magic user, famed for innovations in spellcasting. Now dead.
 - Cr'thtaktulon: A powerful creature of [[the Abyss]].
+- Salrune: N/A.

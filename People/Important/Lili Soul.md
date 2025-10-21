@@ -11,7 +11,7 @@ tags:
 aliases:
   - Lili
 ---
-Lili Soul, an [[Angel|archangel]]-turned-[[Angel|fallen angel]] who had been in service of [[Deimos]], had the unfortunate fortune of com[[Geography/Realms/Obuandu]]ntact with a [[Shard of Divinity]] through a series of improbabilistic events in [[Obuandu]]. She later met with the Reday twins, becoming quick friends, despite her status as a [[Angel|fallen angel]]. This can likely be attributed to the Reday twins being largely unreligious. She was one of [[Deimos]]' most favored [[angel|angels]] before she underwent [[Angel|deiogenesis]].
+Lili Soul, an [[Angel|archangel]]-turned-[[Angel|fallen angel]] who had been in service of [[Deimos]], had the unfortunate fortune of coming into contact with a [[Shard of Divinity]] through a series of improbabilistic events in [[Obuandu]]. She later met with the Reday twins, becoming quick friends, despite her status as a [[Angel|fallen angel]]. This can likely be attributed to the Reday twins being largely unreligious. She was one of [[Deimos]]' most favored [[angel|angels]] before she underwent [[Angel|deiogenesis]].
 
 She used to be specialized in spear-wielding until [[Fel of the Abyss]] gave her [[Inex]], a broadsword, which forced her to adapt her fighting style to use swords instead due to the advantages [[Inex]] provided.
 
