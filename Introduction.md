@@ -4,7 +4,7 @@ An introduction to the many facets of the Hyleus megaplane cluster.
 - humans, regular people
 - tarhans, humanoid beings with two elbow joints that really like fighting
 - serrans, cute insectoid bug people
-- phaawas, which are plant people that originated from a necromantic spell modifying the souls of humans
+- phaawas, which are plant people that originated from a animantic spell modifying the souls of humans
 - xe'tunig, a humanoid mammalian jellyfish-like people who live on the ocean floor and communicate via bioluminescent lights rather than speech
 - eruul'vaak, who live on the very volcanically active continent known as Miulya and subsist off heat energy
 - fae, tiny winged people who like playing pranks on others

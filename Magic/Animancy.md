@@ -1,0 +1,16 @@
+---
+tags:
+  - Magic
+  - Soul
+---
+Animancy is the art of [[soul]] magic. Everything dealing in [[Soul|souls]] falls under the category of animancy in the magical world.
+
+Animancy comes in many forms: **Resurrection Animancy** (which is often regarded as necromancy), **Offensive Animancy**, **Defensive Animancy**, and **Manipulative Animancy**.
+
+Resurrection animancy, the first developed form of animancy, is the art of creating artificial [[Soul|souls]] to implant into a construct, or, more traditionally, a dead body. The artificial [[soul]] is placed inside (or as close to "inside" a three dimensional object you can get when on different levels of the [[Czite Axis]]), where it will connect to the body and animate itself. More complexity is added to the field if the animancer wishes to be able to command this construct once animated, as the [[soul]], even if artificial, is a fiercely independent object. These artificial [[Soul|souls]] are extremely weak compared to true [[Soul|souls]], capable of being damaged even by physical attacks. [[Alfred set Tonic]] is the only known non-[[deity]] to have created a true [[soul]].
+
+Offensive animancy is a different form of animancy altogether. It requires soul sight, and is focused on targeting the [[Soul|souls]] of other beings using one's own [[soul]]. These attacks are known as "[[soul]] attacks," and are among the most torturous pain one can inflict on another creature, attacking their very existence. As such, offensive animancy is a highly regulated and illegal magic, where merely possessing fragmented pieces of it can make one become a fugitive of the law in most countries.
+
+Defensive animancy is the counter developed for offensive animancy. It primarily focuses on strengthening the surface layer of the practitioner's [[soul]], so that it may passively rebuff any and all attacks thrown at it. In practice, however, no amount of passive strength will prevent the truly determined from doing another harm through offensive animancy, and as such, defensive animancy also has a more active component, where one may burn mana from their well to create a "cloud" of sorts around their [[soul]], that dampens incoming [[soul]] attacks significantly. This cloud, known as **Aemaytt's Soul Cloud**, is extremely [[mana]]-intensive, sustainable only for a short while. It is advised to use it with utmost precision, lest one runs out of mana to protect themselves with.
+
+Manipulative animancy is the most insidious of all forms of animancy, even more so than offensive animancy. Manipulative animancy involves changing another's [[soul]], whether subtly over time or more actively using dominance and offensive animancy to prevent the [[soul]] from rejecting the changes. These changes can be a wide variety of things, such as changing the personality of the target, or directly forcing the target into the caster's servitude. Manipulative animancy is regarded as black magic by every sovereign entity, and all practitioners of the art will be subject to immediate capital punishment in just about every nation worldwide.

@@ -11,6 +11,9 @@ aliases:
 ---
 Melanie (born 06/13/2608 [[HUN Calendar|ME]], died 09/06/2653 [[HUN Calendar|ME]])
 
+### Physical Description
+Melanie is above-average female [[fae]] height, standing at a crisp 4′8″ (146 cm).
+
 ### Personality
 Melanie was an unstable, rather rude person.
 
@@ -27,6 +30,6 @@ Melanie was a [[fae]] born with the gift of [[intrinsic magic]], yet also the cu
 
 
 ### Affiliations
-Melanie had connections with the [[Monolithic Order]] until rather recently, when she got into a fight with two of the four Monoliths. She was then excommunicated from the Order, though [[Ezkli Reday]] kept up contact with Melanie until her untimely death.
+Melanie had high-up connections with the [[Monolithic Order]] until rather recently, when she got into a fight with two of the four Monoliths. She was then excommunicated from the Order, though [[Ezkli Reday]] kept up contact with Melanie until her untimely death.
 
 Melanie had no other affiliations with any organization.

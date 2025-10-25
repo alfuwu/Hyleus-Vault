@@ -5,7 +5,7 @@ tags:
   - Sword
   - Broadsword
 ---
-Inex (the name given to the blade by [[Lili Soul]]), full name Inexorability, is an extremely powerful artifact forged purely of [[ksol]] and [[adamantium]]. [[Fel of the Abyss]] used his spacetime-warping [[intrinsic magic]] to store a, for all intents and purposes, infinite amount of mana within the blade. The blade also seems to generate its own mana over time, though the amount it generates is but a drop in the bucket compared to what it already contains.
+Inex (the name given to the blade by [[Lili Soul]]), full (translated) name Inexorable, original (untranslated) name , is an extremely powerful artifact forged purely of [[ksol]] and [[adamantium]]. [[Fel of the Abyss]] used his spacetime-warping [[intrinsic magic]] to store a, for all intents and purposes, infinite amount of mana within the blade. The blade also seems to generate its own mana over time, though the amount it generates is but a drop in the bucket compared to what it already contains.
 
 He later gave the blade to [[Lili Soul]] shortly after she became a [[Angel|fallen angel]], only stating that he "did not have a use for the blade anymore." [[Lili Soul|Lili]] has been the wielder of the blade ever since. It is unknown why [[Fel of the Abyss]] chose [[Lili Soul]] to be the next wielder of the blade.
 

@@ -42,7 +42,7 @@ Alfred Tonic originates from a noble demonic lineage known as the House of Tonic
 His noble heritage is possibly part of the reason for his extremely rare magical situation.
 
 ### Childhood
-From the moment Alfred was born, necromantic rites performed on his infant soul revealed the rare signature of [[intrinsic magic]]. His family celebrated this as an infernal omen, elevating his status above his siblings. His mother even commissioned a series of lullabies about the "Thread-Bearer of House Tonicar" to commemorate the occasion.
+From the moment Alfred was born, animantic spells performed on his infant soul revealed the rare signature of [[intrinsic magic]]. His family celebrated this as an infernal omen, elevating his status above his siblings. His mother even commissioned a series of lullabies about the "Thread-Bearer of House Tonicar" to commemorate the occasion.
 
 Alfred grew very close to his sister [[Slyprae set Tonic]] during his childhood, as she was one of the scant few who would actually make a connection to him rather than treat him as another potential political rival.
 
@@ -61,7 +61,7 @@ Alfred and [[Ezkli Reday|Ezkli]] met in a ruined observatory on the [[Island Nat
 The two then took this star-mapping device back with them to the capital of [[Island Nation of Joculen|Joculen]], just before [[The Fractured|the Fracturing]] occurred.
 
 ### Academics
-Alfred's reputation as a scholar began with his contributions to [[necromancy]]. The [[soul]] had interested Alfred ever since he learnt of its existence, due to the immense power they represented and how purely they defined a person's being. He became the first and only person to have ever created a true [[soul]], imbuing it into a constructed body and naming it [[Miu Tonic]].
+Alfred's reputation as a scholar began with his contributions to [[Animancy]]. The [[soul]] had interested Alfred ever since he learnt of its existence, due to the immense power they represented and how purely they defined a person's being. He became the first and only person to have ever created a true [[soul]], imbuing it into a constructed body and naming it [[Miu Tonic]].
 
 Though rather uninterested in [[Classical Spellcasting|alchemy]], he was a voracious student of nearly every other magical discipline he was capable of learning.
 

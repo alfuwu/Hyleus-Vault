@@ -1,12 +1,19 @@
 — **Subject**: [[Fel of the Abyss]]
-— **Location**: [[The Ckretion Empire|Ckretion]] / [[The Abyss]]
+— **Location**: [[The Ckretion Empire]]'s capital, Ackalus / [[The Abyss]]
 — **Event**: The emergence of [[the Abyss]]
 — **Date**: 972 [[HUN Calendar|ME]]
 
 ————————————————
 
 - [[Fel of the Abyss|Fellucko Mec Yridis]] and his friend, Icko, get caught up in the emergence of [[the Abyss]].
-- 
+- ...
+- [[Fel of the Abyss|Fel]] discovers his [[intrinsic magic]]'s dominion over the [[Domain]] of Spacetime, and uses it to rewind time slightly to re-alive Icko.
+- ...
+- Icko gets touched by [[Oblivion]] and erased from reality itself. When [[Fel of the Abyss|Fel]] turns back time to save her, he realizes that she's been completely erased from reality.
+- ...
+- [[Fel of the Abyss|Fel]] escapes from [[the Abyss]] a changed man. He has undergone immense hardships and came back from the brink of total despair, and in the process obtained vast cosmic power. His personality has shifted towards a disposition almost polar opposite to his past baker self; the personality of a trickster; a man of cunning and showmanship.
+- ...?
+- Detail various adventures [[Fel of the Abyss|Fel]] has undergone. Show him creating [[Inex]], and then later giving the weapon to [[Lili Soul]].
 
 ————————————————
 

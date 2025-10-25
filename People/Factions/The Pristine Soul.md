@@ -1,3 +1,3 @@
 The Pristine Soul is a religious organization dedicated to [[Deimos]], the [[Deity|arch deity]] of the [[Soul]]. It is extremely purist, nearing fanaticism, towards any and all matters related to the [[soul]].
 
-[[Necromancy]] is a highly coveted art within the organization, and as such is it is possibly the most advanced necromantic organization in the modern era. The organization has been accumulating knowledge about [[necromancy]] 
+[[Animancy]] is a highly coveted art within the organization, and as such is it is possibly the most advanced [[Animancy|animantic]] organization in the modern era. The organization has been accumulating knowledge about [[animancy]] 

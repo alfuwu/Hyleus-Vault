@@ -6,19 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-<<<<<<< HEAD
+      "LiClock",
       "LiCloudLightning",
       "LiBadge",
       "LiFlag",
-      "LiWind",
-      "LiEye"
-=======
-      "LiCircleDotDashed",
-      "LiAsterisk",
-      "LiNavigation",
-      "LiLinkGlyph",
-      "LiSave"
->>>>>>> origin/master
+      "LiWind"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,7 +50,6 @@
   "Magic/Soul.md": "LiSprout",
   "Magic/Vital Magic.md": "LiHeart",
   "Magic/Psychoticism.md": "LiBrain",
-  "Magic/Necromancy.md": "LiSnapToObject",
   "Magic/Intrinsic Magic.md": "LiInfinity",
   "Magic/Divinity.md": "LiSun",
   "People": "LiBot",
@@ -87,7 +78,6 @@
   "People/Monoliths": "LiLinkGlyph",
   "People/Other/Ilythra Joculen.md": "LiNavigation",
   "Introduction.md": "LiAsterisk",
-<<<<<<< HEAD
   "Meta": "LiSave",
   "Meta/Images": "LiImages",
   "Geography/World Map.md": "LiGlobe",
@@ -105,8 +95,7 @@
   "People/Important/Zarzz.md": "LiBadge",
   "People/Other/Odi Hercul Enguh.md": "LiCloudLightning",
   "People/Important/Slyprae set Tonic.md": "LiLeaf",
-  "People/Monoliths/Alfred set Tonic.md": "LiCrown"
-=======
-  "People/Cultures": "LiCircleDotDashed"
->>>>>>> origin/master
+  "People/Monoliths/Alfred set Tonic.md": "LiCrown",
+  "Magic/Animancy.md": "LiSnapToObject",
+  "Units of Measurement/Drastevarden Standard Time.md": "LiClock"
 }

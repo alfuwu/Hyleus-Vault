@@ -13,7 +13,7 @@ Joculenese is a [[human]] language that developed isolated from most others, giv
 | **n**  | na  | ni  | nu  | n    | no  |
 | **y**  | ya  | yi  | yu  | ye/y | yo  |
 | **m**  | ma  | mi  | mu  | me   | mo  |
-| **z**  | za  | zi  | zu  |      | zo  |
+| **z**  | za  | zi  | zu  | ze   | zo  |
 | **w**  | wa  | wi  |     |      | wo  |
 | **ch** | cha | chi |     |      |     |
 Because of the language's consonant-vowel pairings, the language is pronounced as its written. This means perfect transcription to [[English]] is impossible, due to the various rules and exceptions to [[English]] pronunciation.
