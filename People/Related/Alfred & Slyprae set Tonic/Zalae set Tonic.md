@@ -7,5 +7,5 @@ tags:
 aliases:
   - Lady Tonic
   - Mrs. Tonic
-  - Countess Tonic
+  - Duchess Tonic
 ---

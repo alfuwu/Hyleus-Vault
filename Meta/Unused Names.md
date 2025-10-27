@@ -3,6 +3,7 @@ A list of as-of-yet-unused names.
 - Valavice
 - Rael
 - Zefærg
+- Oroblen
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer?

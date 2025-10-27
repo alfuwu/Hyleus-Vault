@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSparkle",
       "LiClock",
       "LiCloudLightning",
       "LiBadge",
-      "LiFlag",
-      "LiWind"
+      "LiFlag"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,6 @@
   "People/Important/Slyprae set Tonic.md": "LiLeaf",
   "People/Monoliths/Alfred set Tonic.md": "LiCrown",
   "Magic/Animancy.md": "LiSnapToObject",
-  "Units of Measurement/Drastevarden Standard Time.md": "LiClock"
+  "Units of Measurement/Drastevarden Standard Time.md": "LiClock",
+  "Magic/Essence.md": "LiSparkle"
 }

@@ -8,5 +8,5 @@ aliases:
   - Lord Tonic
   - Mr. Tonic
   - Head of House Tonicar
-  - Count Tonic
+  - Duke Tonic
 ---
