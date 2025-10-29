@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e451a79173e51b",
+        "id": "239bb821d4db0165",
         "type": "tabs",
         "children": [
           {
-            "id": "2221a2fa818baf29",
+            "id": "57f557ee17587d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zchuun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Factions/Monolithic Order.md",
+                "file": "Species/Phaawa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monolithic Order"
+              "title": "Backlinks for Phaawa"
             }
           },
           {
@@ -180,46 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2221a2fa818baf29",
+  "active": "8f6acbe404fb81f9",
   "lastOpenFiles": [
-    "Species/Angel.md",
-    "Stories/False Divinity.md",
-    "People/Related/Alfred & Slyprae set Tonic/Zalae set Tonic.md",
-    "People/Related/Alfred & Slyprae set Tonic/Zæangorääx.md",
-    "People/Related/Alfred & Slyprae set Tonic/Vazcole set Tonic.md",
-    "Magic/Mana.md",
-    "Geography/Planes/Heaven.md",
-    "Species/Deity.md",
-    "Species/Demon.md",
-    "Magic/Divinity.md",
-    "People/Deities/Primordial Deities/M.md",
-    "Magic/Soul.md",
-    "Eras/Era of the Divine.md",
-    "Languages/Vor'khan.md",
-    "People/Factions/Divine Freedom.md",
-    "Magic/Intrinsic Magic.md",
-    "Magic/Essence.md",
-    "Meta/Unused Names.md",
-    "Meta/Naming.md",
-    "Geography/Planes/Hell.md",
+    "Units of Measurement/Drastevarden Standard Time.md",
+    "People/Related/von Karmelius/Carvjun von Karmelius.md",
+    "People/Related/von Karmelius",
     "People/Related/Senn & Woq/Orgorgan.md",
-    "People/Important/Monolithic Order/Iris Bircwal.md",
-    "People/Related/Lili Soul/Inex.md",
-    "People/Important/Zarzz.md",
-    "People/Important/Fel of the Abyss.md",
-    "Magic/Materials/Navax.md",
     "People/Related/Senn & Woq",
+    "People/Related/Kate Askerō/Tizpca.md",
+    "People/Related/Kate Askerō",
+    "People/Related/Alfred & Slyprae set Tonic/Zæangorääx.md",
+    "People/Related/Alfred & Slyprae set Tonic/Zalae set Tonic.md",
+    "People/Related/Alfred & Slyprae set Tonic/Vazcole set Tonic.md",
+    "People/Related/Alfred & Slyprae set Tonic",
+    "People/Important/Mythological/Woq.md",
+    "People/Important/Mythological/Senn.md",
     "People/Important/Mythological",
-    "Untitled.base",
-    "Magic/Evils/Anchors",
-    "People/Important/Dead",
-    "Pasted image 20251003211106.png",
+    "People/Historical/Lhuunkzar.md",
+    "Magic/Essence.md",
+    "Magic/Animancy.md",
+    "Languages/Joculenese.md",
+    "Languages/Faarad.md",
+    "Geography/Realms/Republic of Irigr.md",
+    "Geography/Realms/Qeyan Spiral Civilization.md",
+    "Eras/Era of the Divine.md",
+    "Geography/Planes/Void.md",
+    "People/Factions/Cult of Lhuunkzar.md",
+    "Stories/False Divinity.md",
+    "Geography/Realms/Obuandu.md",
+    "conflict-files-obsidian-git.md",
+    "People/Other/Odi Hercul Enguh.md",
+    "People/Monoliths/Alfred set Tonic.md",
+    "People/Important/Slyprae set Tonic.md",
+    "Geography/Realms/The Trislish Republic.md",
     "People/Important/Monolithic Order",
+    "People/Important/Dead",
+    "People/Deities/Archdeities",
+    "Magic/Evils/Anchors",
     "People/Cultures/Racial",
-    "Meta/Images/Realistic World.png",
     "Meta/Images/Tectonics.png",
-    "People/Cultures/Historical",
-    "People/Cultures/Contemporary",
-    "People/Cultures"
+    "Meta/Images/Realistic World.png"
   ]
 }
