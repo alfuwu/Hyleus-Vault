@@ -1,8 +1,7 @@
 ---
 tags:
   - Deity
-  - Primordial-Deity
-  - Primordial
+  - Archdeity
   - Deceased
 ---
   — [[Domain]]: **Spacetime**

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0d1a9b7fd11e89",
+        "id": "5137671bbc878c2b",
         "type": "tabs",
         "children": [
           {
-            "id": "5bccb9feb0095b30",
+            "id": "48468aa747293d52",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bccb9feb0095b30",
+  "active": "48468aa747293d52",
   "lastOpenFiles": [
+    "People/Deities/Archdeities/Btrielix.md",
+    "People/Deities/Archdeities/Beebo.md",
     "People/Historical/Erwin Zvekk.md",
     "People/Historical/Coda.md",
     "People/Important/Avissa.md",
@@ -187,7 +189,6 @@
     "People/Historical/Lunærgen Sø-Bryu.md",
     "People/Historical/Nizo Lacredes.md",
     "People/Important/Amy Zsaash Küten.md",
-    "People/Deities/Archdeities/Btrielix.md",
     "Stories/Anno Parasitus.md",
     "People/Important/Meloqzykes.md",
     "People/Deities/Primordial Deities/M.md",
@@ -203,7 +204,6 @@
     "Magic/Evils/The Parasite.md",
     "Geography/POIs/Yggdrasil.md",
     "Geography/POIs/Annaq'Fraedar.md",
-    "Geography/POIs/Atta Jangutta.md",
     "Meta/Images/Lili Soul.png",
     "People/Related/Senn & Woq",
     "People/Important/Mythological",
