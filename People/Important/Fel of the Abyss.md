@@ -12,6 +12,8 @@ Fel of the Abyss (born 04/13/950 [[HUN Calendar|ME]]) is the only recorded livin
 
 Fel is known to possess some form of [[intrinsic magic]], and some form of connection to the [[Void]]. He has been observed to be capable of spatial manipulation, likely an ability stemming from the aforementioned [[intrinsic magic]], allowing him to teleport with seemingly no limitations, even to other material planes such as [[Heaven]] and [[Hell]].
 
+Fel is the only being in existence to have slain one of the anchor entities of a [[Great Evil]], having killed the [[Titan of Rot]]. [[The Parasite]] had undergone genesis, consuming [[Yggdrasil]] and using the power gained from the Divine Tree to wreak havoc and destruction upon the entire [[Mortal Plane]] with its rapid expansion and assimilation of all matter. To prevent this from happening, Fel had turned back time and singlehandedly fought the anchor entity of [[the Parasite]] to the death.
+
 ### Physical Description
 All of Fel's equipment is heavily [[Classical Spellcasting|enchanted]], to the point where it would be ignorance to consider any object on Fel's person any less than an artifact.
 

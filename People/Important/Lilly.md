@@ -7,6 +7,7 @@ tags:
 aliases:
   - Lilly
   - Liky
+  - Lilliante
 ---
 Lilly (born 15/01/2504 [[HUN Calendar|ME]])
 

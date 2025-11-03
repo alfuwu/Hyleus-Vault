@@ -43,6 +43,7 @@ The woman swung the door inwards and shot the man a salute that could *maybe* pa
 
 Suddenly feeling a little frustrated and more than a bit useless, the woman exited the room. The man rubbed his temples for a second, flagging down a courier in the hallway to tell the artificers to fix the equipment in room 339 before returning to the paperwork he was doing before the intrusion as if nothing had happened.
 
+---
 
 *Ckretion's capital, Ackalus*
 

@@ -46,6 +46,22 @@ As if trouble had been summoned by the very thought, one of his angels came runn
 
 "The cult?" Deimos asked, thinking of all the different cults he had known throughout the ages. "Which one?"
 
-"The... The Cult of Lhuunkzar, Your Holy Majesty," the angel said, shivering slightly. The angel hadn't even been alive during Lhuunkzar's time, and just his cult was enough to scare him? Angels these days. They were made of softer stock than they used to.
+"The... The Cult of Lhuunkzar, Your Holy Majesty," the angel said, shivering slightly. The angel hadn't even been alive during Lhuunkzar's time, yet just his cult was enough to scare him? Angels these days. They were made of softer stock than they used to. And Lhuunkzar! Of course it was Lhuunkzar. That fool kept stirring up trouble, even from inside his prison sealed within the void.
 
 "Ah," Deimos said noncommittally, voicing none of his choice internal thoughts about the angel's reaction. "Well then. Send one of the archangels to investigate. Lili should do, I think. It's been a while since she visited the mortal plane. A bit of a stretch would do her good."
+
+---
+
+"...and so, His Holy Majesty O the Soul, Lord Deimos, has seen fit to bestow upon you this mission of utmost imperativeness. You are to depart at your soonest discretion, most preferably immediately. Thank you for your time, and goodbye," the angel messenger said, finally finishing his long and droning message. It was all very important and not at all meaningless drivel.
+
+It irritated Lili how the deities were still using angels for such mundane tasks as delivering messages. Here the mortals were, innovating and inventing new and exciting communications technology that could send information across miles in mere seconds, which, mind you, Hell was rapidly taking to, yet the deities remained stubborn in their anachronistic ways. It boggled the mind.
+
+Such a large technological difference could see the wars between Hell and Heaven rekindled. That wouldn't be very pleasant, and she'd know; she had been there when Nzlietch had created Hell and waged his stupid war on Heaven. She'd also been there when the idiot had lost and gone into hiding.
+
+However, merely because Nzlietch was no longer present to stoke and feed the flames of hatred within the demons did not mean that the older ones didn't still hold grudges. Lili had personally had the unpleasurable honor of meeting a few of such demons over the years. Racist assholes, all of them. Not *every* angel wanted to commit genocide against the demons, you know?
+
+Just most of them. Really, it was such a stereotype!
+
+Lili absolutely had all of these gripes because she was worried about another war and definitely not because she was infatuated with the new and fancy technologies the mortals kept cooking up. Perhaps longevity was more of a curse than most realized; Lili couldn't recall the last time she'd had an idea for a groundbreaking new invention. It was entirely possible that she'd never had any to begin with.
+
+Satisfied with her rigorous internal thought processes and entirely just critique of her deity's priorities, Lili stood up from her soft chair.

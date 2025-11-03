@@ -18,7 +18,8 @@ She used to be specialized in spear-wielding until [[Fel of the Abyss]] gave her
 See [[False Divinity]].
 
 ### Physical Description
-Lili Soul is a short 5′0″ (152 cm) woman, with tanned skin. She has a pair of bloodred, feathery wings, representative of her status as a [[Angel|fallen archangel]].
+Lili Soul is a short 5′0″ (152 cm) woman, with white skin. She has a pair of bloodred, feathery wings, representative of her status as a [[Angel|fallen archangel]]. Her eyes and hair are a pure silver. A golden halo floats above her head.
+![[Lili Soul.png]]
 
 ### Personality
 Lili is a brazen woman and fierce fighter.
@@ -27,7 +28,7 @@ Lili is a brazen woman and fierce fighter.
 
 
 ### Affiliations
-Lili Soul, as her name implies, was an [[angel]] created by [[Deimos]], the [[Deity|arch deity]] of [[Soul]]. However, as she underwent [[Angel|deiogenesis]], she has no more affiliations with [[the Pristine Soul]] or [[Deimos]].
+Lili Soul, as her name implies, was an [[angel]] created by [[Deimos]], the [[Deity|arch deity]] of [[Soul]]. However, as she underwent Apotheosis, she has no more affiliations with [[the Pristine Soul]] or [[Deimos]].
 
 It should be noted that she has had frequent contact with [[Fel of the Abyss]] recently.
 
