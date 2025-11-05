@@ -38,11 +38,11 @@ As if trouble had been summoned by the very thought, one of his angels came runn
 
 "Yes?" Deimos asked, not at all miffed. He wasn't sulking. He had been alive for thousands of years! He would have plenty of time for peace and quiet later. Yes, this interruption didn't bother him in the slightest. He was too grand for that.
 
-"Your Holy Majesty O the So-" the angel began, bowing his head so much that he almost transformed from a right angel into a right angle.
+"Your Most Holy Majesty O the So-" the angel began, bowing his head so much that he almost transformed from a right angel into a right angle.
 
 "Stop! How many time do I have to say that 'Deimos' is plenty fine?" the deity complained. Seriously, why did his angels follow his exact orders for everything *but* that? It was as though they were allergic to casualness. Even his archangels were aggravatingly polite, and they were head-and-shoulders above the regular riffraff in the hierarchy.
 
-"Your Holy Majesty, I would never," the angel said, before continuing on with the reason why he had interrupted Deimos. "The Pristine Soul has received intel of the Cult operating within Omuaru!"
+"Your Most Holy Majesty, I would never," the angel said, before continuing on with the reason why he had interrupted Deimos. "The Pristine Soul has received intel of the Cult operating within Omuaru!"
 
 "The cult?" Deimos asked, thinking of all the different cults he had known throughout the ages. "Which one?"
 
@@ -52,9 +52,9 @@ As if trouble had been summoned by the very thought, one of his angels came runn
 
 ---
 
-"...and so, His Holy Majesty O the Soul, Lord Deimos, has seen fit to bestow upon you this mission of utmost imperativeness. You are to depart at your soonest discretion, most preferably immediately. Thank you for your time, and goodbye," the angel messenger said, finally finishing his long and droning message. It was all very important and not at all meaningless drivel.
+"...and so, His Most Holy Majesty O the Soul, High Lord Deimos, has seen fit to bestow upon you this mission of utmost import. You are to depart to Omuaru at your soonest discretion, most preferably immediately," the angel messenger said, finally finishing his long and droning message. It was all very important and not at all meaningless drivel.
 
-It irritated Lili how the deities were still using angels for such mundane tasks as delivering messages. Here the mortals were, innovating and inventing new and exciting communications technology that could send information across miles in mere seconds, which, mind you, Hell was rapidly taking to, yet the deities remained stubborn in their anachronistic ways. It boggled the mind.
+It irritated Lili how the deities were still using angels for such mundane tasks as delivering messages. Here the mortals were, innovating and inventing new and exciting communications technology that could send information across miles in mere seconds, which, mind you, Hell was rapidly taking to, yet the deities remained stubborn in their anachronistic ways. It boggled the mind. Avissa clearly knew what she was doing, painful as it was for Lili to admit her enemy was currently behaving smarter than her allies.
 
 Such a large technological difference could see the wars between Hell and Heaven rekindled. That wouldn't be very pleasant, and she'd know; she had been there when Nzlietch had created Hell and waged his stupid war on Heaven. She'd also been there when the idiot had lost and gone into hiding.
 
@@ -65,3 +65,12 @@ Just most of them. Really, it was such a stereotype!
 Lili absolutely had all of these gripes because she was worried about another war and definitely not because she was infatuated with the new and fancy technologies the mortals kept cooking up. Perhaps longevity was more of a curse than most realized; Lili couldn't recall the last time she'd had an idea for a groundbreaking new invention. It was entirely possible that she'd never had any to begin with.
 
 Satisfied with her rigorous internal thought processes and entirely just critique of her deity's priorities, Lili stood up from her soft chair.
+
+The ever-cool, perfect air of Heaven brushed against her skin and ruffled her three pairs of snow-white wings as she stretched, preparing to descend down to the Mortal Plane in order to stop Lhuunkzar's lackeys once more. That upstart immortal fool never ceased causing trouble for the denizens of Hyleus, it seemed. Why couldn't he just stay locked up in the Void like the man he was? Or, better yet, find some *other* material plane far, far away from the Hyleus supercluster to go bother instead?
+
+Lili exited her residency within His Most Holy Majesty O the Soul, High Lord Deimos' sanctum and made her way out onto the streets of Eden, the capital of Heaven. The crowd was bustling this time of year; festivities for [[{{REDACTED}}]] were well underway by now. The atmosphere was verging on physical sensation.
+
+The crowd, mostly made up of people who had died on the Mortal Plane and ended up with their soul ensnared by Heaven, parted ways before Lili as she briskly moved down the streets. Using one's wings as an angel was generally considered a faux-pas and reserved for emergencies, hence Lili's lack of flying.
+
+After a couple dozen minutes of rather leisurely moving through the city (by Lili's standards, anyway) she came up on a rather large building situated in betwixt two smaller buildings of lesser import. It was one of the many restricted interplanar teleportation buildings, and also one of the oldest.
+
