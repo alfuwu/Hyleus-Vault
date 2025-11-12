@@ -26,6 +26,6 @@ The [[Psychic Leyline]] is capable of damaging others' connections to itself, me
 
 About 1 in 400,000 [[Human|humans]] have been observed to possess a connection strong enough to the [[Psychic Leyline]] to utilize it in a meaningful capacity.
 
-Psychoticism is notable in that every species is rather equal when it comes to the rarity of developing the ability—inherently magical creatures are no more entitled to the power of psychoticism than a common [[Human]] layman. There are too few [[draconic]] specimens to come up with a more exact estimate for a [[draconic]] to possess the ability, though estimates are in the ballpark of 1 in 300,000.
+Psychoticism is notable in that every species is rather equal when it comes to the rarity of developing the ability—inherently magical creatures are no more entitled to the power of psychoticism than a common [[human]] layman.
 
 Up until about 2500 [[HUN Calendar|ME]], psychoticism was considered heretical and a violation of the sanctity of mind. While it is still considered a violation of the sanctity of mind if used for nefarious ends, the mere act of possessing a connection to the [[Psychic Leyline]] is no longer grounds for capital punishment.

@@ -7,7 +7,7 @@ tags:
   - Noble
   - Ruler
 ---
-Ilythra Joculen (born 02/10/2638 [[HUN Calendar|ME]]), heir to the throne of the [[Island Nation of Joculen]] before [[the Fractured|the Fracturing]], is a willful human
+Ilythra Joculen (born 02/10/2638 [[HUN Calendar|ME]]), heir to the throne of the [[Island Nation of Joculen]] before [[the Fractured|the Fracturing]], is a willful [[human]]
 
 ### Physical Description
 Ilythra Joculen possesses an extremely fit body, weighing in at 194.3lbs (88.13kg). She has worked out since she was a small child, using her free time to do exercises, weapons practice, and a whole host of other outdoors hobbies. She's 5′7″ feet (170 cm) tall.

@@ -9,4 +9,4 @@ tags:
 
 ---
 
-Yacgrûle, archdeity of Order, instated the World Council in the year [[insert year]] [[HUN Calendar|ME]] 
+Yacgrûle, [[Deity|archdeity]] of Order, instated the World Council in the year [[insert year]] [[HUN Calendar|ME]] 

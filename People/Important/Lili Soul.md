@@ -28,7 +28,7 @@ Lili is a brazen woman and fierce fighter.
 
 
 ### Affiliations
-Lili Soul, as her name implies, was an [[Angel]] created by [[Deimos]], the [[Deity|arch deity]] of [[Soul]]. However, as she underwent Apotheosis, she has no more affiliations with [[the Pristine Soul]] or [[Deimos]].
+Lili Soul, as her name implies, was an [[angel]] created by [[Deimos]], the [[Deity|archdeity]] of [[Soul]]. However, as she underwent Apotheosis, she has no more affiliations with [[the Pristine Soul]] or [[Deimos]].
 
 It should be noted that she has had frequent contact with [[Fel of the Abyss]] recently.
 
