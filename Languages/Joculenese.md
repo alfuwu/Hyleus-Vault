@@ -1,4 +1,4 @@
-Joculenese is a [[human]] language that developed isolated from most others, giving it unique quirks not present in any other language. The language developed on the island of [[Island Nation of Joculen|Joculen]], and consists of a set of vowels, consonant-vowel pairings, and the consonants "n" and "y". The name "Joculen" can be represented with just five characters: the "jo" character, the "ku" character followed by the transformative particle, the "le" character, and the "n" character.
+Joculenese is a [[Human]] language that developed isolated from most others, giving it unique quirks not present in any other language. The language developed on the island of [[Island Nation of Joculen|Joculen]], and consists of a set of vowels, consonant-vowel pairings, and the consonants "n" and "y". The name "Joculen" can be represented with just five characters: the "jo" character, the "ku" character followed by the transformative particle, the "le" character, and the "n" character.
 
 |        | a   | i   | u   | e    | o   |
 | ------ | --- | --- | --- | ---- | --- |

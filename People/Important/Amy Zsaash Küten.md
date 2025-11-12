@@ -16,7 +16,7 @@ Amy Zsaash Küten (born 19/08/2587 [[HUN Calendar|ME]]) , nickname the Conqueror
 Amy was one of the first to arrive at [[the Spiral]] after it awakened, and was pivotal in stemming the casualties. Eyewitness reports claim that she even came to blows with the [[Chronovore]] itself for an extremely limited duration of time.
 
 ### Physical Description
-Amy Küten is tall for a [[human]] woman, standing at about 5′9″ (175 cm). She has olive-colored skin and rich, purple-colored hair, a characteristic feature of her ancestry.
+Amy Küten is tall for a [[Human]] woman, standing at about 5′9″ (175 cm). She has olive-colored skin and rich, purple-colored hair, a characteristic feature of her ancestry.
 
 ### Personality
 Amy is ambitious, driven person with an extremely strong moral compass. She will do what she thinks is right and just regardless of consequence to herself or her person; in other words, she is a true hero.

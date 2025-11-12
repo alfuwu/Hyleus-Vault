@@ -6,6 +6,7 @@ tags:
   - Intrinsic-Magic
   - Spellcaster
   - Soul-Mage
+  - Blood-Mage
   - Ruler
   - Noble
 aliases:

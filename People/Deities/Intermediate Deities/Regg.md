@@ -10,4 +10,4 @@ tags:
 
 ————————————————
 
-Regg was the [[deity]] of the Forge, though he died during the [[Divine Revolution]] as a result of [[Meloqzykes]]' [[deity]]-slaying [[intrinsic magic]].
+Regg was the [[Deity]] of the Forge, though he died during the [[Divine Revolution]] as a result of [[Meloqzykes]]' [[Deity]]-slaying [[intrinsic magic]].

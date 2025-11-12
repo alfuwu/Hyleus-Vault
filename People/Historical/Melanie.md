@@ -12,7 +12,7 @@ aliases:
 Melanie (born 06/13/2608 [[HUN Calendar|ME]], died 09/06/2653 [[HUN Calendar|ME]])
 
 ### Physical Description
-Melanie is above-average female [[fae]] height, standing at a crisp 4′8″ (146 cm).
+Melanie is above-average female [[Fae]] height, standing at a crisp 4′8″ (146 cm).
 
 ### Personality
 Melanie was an unstable, rather rude person.
@@ -21,7 +21,7 @@ Melanie was an unstable, rather rude person.
 
 
 ### Childhood
-Melanie was a [[fae]] born with the gift of [[intrinsic magic]], yet also the curse of an unusually weak connection to the [[Psychoticism|Psychic Leyline]] compared to the median [[fae]].
+Melanie was a [[Fae]] born with the gift of [[intrinsic magic]], yet also the curse of an unusually weak connection to the [[Psychoticism|Psychic Leyline]] compared to the median [[Fae]].
 
 ### Youth
 

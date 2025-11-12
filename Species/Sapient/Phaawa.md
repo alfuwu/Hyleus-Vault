@@ -15,3 +15,6 @@ Functionally, the phaawas are very similar to [[Human|humans]], due to the fact 
 The primary difference between phaawas and humans is their skin; phaawa skin is always some form of vibrant green color. Phaawa skin cells are very similar to the cells of plant leaves, containing all the necessary components to perform photosynthesis. While photosynthesis is not enough to completely supplant the phaawas' need for food, it allows phaawas to eat less food.
 
 Instead of regular, mammalian hair, the phaawa instead have leaves, which further help obtain nutrients via photosynthesis.
+
+## Culture
+Phaawas highly value all plantlife, with the majority of them considering it sacred and holy. Any phaawa who does not exhibit this belief is generally exiled or otherwise outcast from phaawa communities. As such, phaawas are strictly carnivorous, only eating various meats. Their teeth have adapted to reflect this change in diet, losing the flat teeth that [[Human|humans]] possess in favor of only having sharp teeth.

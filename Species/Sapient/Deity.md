@@ -1,10 +1,5 @@
 ---
 aliases:
-  - Primordial Deity
-  - Arch Deity
-  - Intermediate Deity
-  - Nascent Deity
-  - Dark Deity
   - God
   - Goddess
 tags:
@@ -12,6 +7,7 @@ tags:
   - Race
   - Transcendence
   - Deism
+  - Sapient
 ---
 Deities are the ultimate lifeform within the Hyleus megaplane cluster, each one possessing vast reality-bending power. They are functionally immortal to any and everything, with the sole exceptions being the [[Intrinsic Magic|intrinsic magic formation]] that [[Meloqzykes]] possesses and [[Ruin]].
 

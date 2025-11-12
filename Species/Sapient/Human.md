@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Humans
-  - Humanity
 tags:
   - Species
   - Race

@@ -4,10 +4,11 @@ A list of as-of-yet-unused names.
 - Rael
 - Zefærg
 - Oroblen
+- Lsyin
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer?
-- Vivis Zvieytymn: A [[fae]] warlord who united the disparate [[fae]] kingdoms to form the [[The Imperial Fraedate]].
+- Vivis Zvieytymn: A [[Fae]] warlord who united the disparate [[Fae]] kingdoms to form the [[The Imperial Fraedate]].
 - Krod: A dork. He likes trees.
 - Jarn: A Cketei of the Monolithic Order, under [[Ezkli Reday]]. He survived [[The Fractured|the Fracturing]].
 - Erwin Zvekk: A well-renowned magic user, famed for innovations in spellcasting. Now dead.

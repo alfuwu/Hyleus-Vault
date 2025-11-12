@@ -10,7 +10,7 @@ tags:
 ---
 Vital magic, often referred to as blood magic, was widely considered a black magic before the [[Industrial Era]]. It is a magic that revolves around the utilization of lifeblood instead of [[mana]], and is widely used in practice today for healing spells, one of the least evil facets of vital magic.
 
-Vital magic encompasses many different practical applications, ranging from the aforementioned healing capabilities to blood rituals and sacrificial magic. As such, there are forms of vital magic that are prohibited by law in many countries, though notably the [[Pyx]] continent is known for its natives routinely sacrificing people and creatures using vital magic.
+Vital magic encompasses many different practical applications, ranging from the aforementioned healing capabilities to blood rituals and sacrificial magic. As such, there are forms of vital magic that are prohibited by law in many countries, though notably [[Pyx]] is known for its natives routinely sacrificing people and creatures using vital magic.
 
 To use vital magic, one must first gather the lifeblood required to do so. This can be done through either extracting the vitality of another creature, whether by metaphysical means or by simply obtaining a portion of their blood, or by using the caster's own lifeblood. If one is using the blood of another creature to empower the magic, they must preserve it perfectly such that its [[Czite Axis|Czite]] connection to the original creature's [[soul]] is not severed. Otherwise, the blood will be no more useful for the spell than a drop of water.
 
