@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d10a815e921c9b1a",
+        "id": "239bb821d4db0165",
         "type": "tabs",
         "children": [
           {
-            "id": "320da1d0110de168",
+            "id": "57f557ee17587d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Important/Lilly.md",
+                "file": "Stories/False Divinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lilly"
+              "title": "False Divinity"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Zchuun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Factions/Monolithic Order.md",
+                "file": "Species/Phaawa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Monolithic Order"
+              "title": "Backlinks for Phaawa"
             }
           },
           {
@@ -180,47 +180,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "320da1d0110de168",
+  "active": "57f557ee17587d84",
   "lastOpenFiles": [
-    "People/Monoliths/Kate Askerō.md",
-    "Magic/Intrinsic Magic.md",
-    "People/Monoliths/Ezkli Reday.md",
-    "Magic/Divinity.md",
-    "Species/Sapient/Deity.md",
-    "Magic/Evils/Anchors/Chronovore.md",
-    "Stories/Catalyzed Stratified.md",
-    "Magic/Authority.md",
-    "Geography/POIs/Atta Jangutta.md",
-    "People/Monoliths/Alfred set Tonic.md",
-    "Magic/Genetic Magic.md",
-    "Meta/Unused Names.md",
-    "Geography/Realms/The Imperial Fraedate.md",
-    "People/Important/Rivian.md",
-    "People/Historical/Melanie.md",
-    "Species/Sapient/Fae.md",
-    "Species/Sapient/Demon.md",
-    "Languages/Vindin.md",
-    "Languages/Faarad.md",
-    "Species/Sapient/Eruul'vaak.md",
-    "People/Deities/Archdeities/Yacgrûle.md",
-    "Magic/Soul.md",
-    "People/Deities/Primordial Deities/Ruin.md",
-    "People/Deities/Intermediate Deities/Regg.md",
+    "Species/Sapient/Angel.md",
+    "Stories/False Divinity.md",
+    "Species/Sapient/Iolu.md",
+    "Species/Sapient/Divine Tree.md",
     "Stories/Pugna Aeterna.md",
-    "People/Related/Senn & Woq/Orgorgan.md",
-    "Species/Non-Sapient",
+    "Stories/Anno Parasitus.md",
+    "Species/Sapient/Xe'tunig.md",
+    "Species/Sapient/Tarhan.md",
+    "Species/Sapient/Serran.md",
+    "Species/Sapient/Phaawa.md",
+    "Species/Sapient/Human.md",
+    "Species/Sapient/Fae.md",
+    "Species/Sapient/Eruul'vaak.md",
+    "Species/Sapient/Demon.md",
+    "Species/Sapient/Deity.md",
     "Species/Sapient",
-    "Meta/Images/Lili Soul.png",
+    "Species/Non-Sapient/Ghalrea.md",
+    "Species/Non-Sapient",
+    "People/Important/Avissa.md",
+    "People/Historical/Melanie.md",
+    "People/Historical/Kaet.md",
+    "Geography/Realms/Etei.md",
+    "Geography/Realms/Azti.md",
+    "Geography/POIs/Yggdrasil.md",
+    "Units of Measurement/Drastevarden Standard Time.md",
+    "People/Related/von Karmelius/Carvjun von Karmelius.md",
+    "People/Related/von Karmelius",
+    "People/Related/Senn & Woq/Orgorgan.md",
     "People/Related/Senn & Woq",
+    "People/Related/Kate Askerō/Tizpca.md",
+    "People/Related/Kate Askerō",
+    "People/Related/Alfred & Slyprae set Tonic",
     "People/Important/Mythological",
-    "Untitled.base",
-    "Magic/Evils/Anchors",
-    "People/Important/Dead",
-    "Pasted image 20251003211106.png",
     "People/Important/Monolithic Order",
-    "People/Cultures/Racial",
-    "Meta/Images/Realistic World.png",
+    "People/Important/Dead",
+    "People/Deities/Archdeities",
     "Meta/Images/Tectonics.png",
-    "People/Cultures/Historical"
+    "Meta/Images/Realistic World.png"
   ]
 }

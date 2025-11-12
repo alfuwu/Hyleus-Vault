@@ -72,5 +72,16 @@ Lili exited her residency within His Most Holy Majesty O the Soul, High Lord Dei
 
 The crowd, mostly made up of people who had died on the Mortal Plane and ended up with their soul ensnared by Heaven, parted ways before Lili as she briskly moved down the streets. Using one's wings as an angel was generally considered a faux-pas and reserved for emergencies, hence Lili's lack of flying.
 
-After a couple dozen minutes of rather leisurely moving through the city (by Lili's standards, anyway) she came up upon a rather large building situated in betwixt two smaller buildings of lesser import. It was one of the many restricted interplanar teleportation buildings, and also one of the oldest.
+Lili continued on through the city, walking the paved cobblestone roads and simply enjoying the sight and life of Eden as much as she could before she had to leave. Eventually, she came upon a stout, thick building, its construction as ancient and old as the city itself. One of the original transplanar teleportation centers.
 
+The doors were ornately gilded with intricate patterns, wrought from adamantium, displaying levels of wealth only the deities were wont to do. There was nobody waiting in a line outside the center, but that was to be expected; one does not simply return to the Mortal Plane after dying and ending up in Heaven. The amount of disruption such a thing would cause to the living would be unprecedented.
+
+Lili shoved the doors aside, swinging them inwards on their well-greased hinges. The air was dust-filled and musky; the smell of age. It was one of Lili's favorite smells.
+
+Directly inside the building lay a counter, manned by another angel. He was tall, taller than Lili, but only possessed a single pair of wings, denoting his position as a regular angel. Lesser than Lili herself. His jaw was square, and his eyes were a pretty navy blue. His hair was neatly combed, swept off to one side, giving him the air of a distinguished gentleman.
+
+"Good day, ma'am," he called out to Lili upon seeing her entry, though without much in the way of deference. Angels had no need to defer to anyone but the deities. He continued, prompting, "Signature?"
+
+Lili wordlessly exposed the portion of her soul baring Deimos' signature to the man, who nodded and gestured down the hall.
+
+"The Mortal Plane, I take it?" he asked.
