@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "239bb821d4db0165",
+        "id": "94a1806f6fad2ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "57f557ee17587d84",
+            "id": "9ea8c35c77566793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/False Divinity.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "False Divinity"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "2305678f233d7216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Intrinsic Magic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intrinsic Magic"
+            }
+          },
+          {
+            "id": "01e1461121fdc7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "cf6c532903c5de60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Sapient/Angel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Angel"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Zchuun",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Species/Phaawa.md",
+                "file": "People/Factions/Monolithic Order.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phaawa"
+              "title": "Backlinks for Monolithic Order"
             }
           },
           {
@@ -180,45 +223,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57f557ee17587d84",
+  "active": "cf6c532903c5de60",
   "lastOpenFiles": [
+    "Species/Sapient/Deity.md",
     "Species/Sapient/Angel.md",
-    "Stories/False Divinity.md",
-    "Species/Sapient/Iolu.md",
+    "Species/Sapient/Demon.md",
+    "Species/Sapient/Eruul'vaak.md",
     "Species/Sapient/Divine Tree.md",
-    "Stories/Pugna Aeterna.md",
-    "Stories/Anno Parasitus.md",
-    "Species/Sapient/Xe'tunig.md",
+    "Magic/Intrinsic Magic.md",
+    "Introduction.md",
     "Species/Sapient/Tarhan.md",
     "Species/Sapient/Serran.md",
-    "Species/Sapient/Phaawa.md",
-    "Species/Sapient/Human.md",
     "Species/Sapient/Fae.md",
-    "Species/Sapient/Eruul'vaak.md",
-    "Species/Sapient/Demon.md",
-    "Species/Sapient/Deity.md",
-    "Species/Sapient",
-    "Species/Non-Sapient/Ghalrea.md",
+    "Species/Sapient/Human.md",
+    "Species/Sapient/Iolu.md",
+    "Species/Sapient/Phaawa.md",
+    "Species/Sapient/Xe'tunig.md",
+    "Magic/Psychoticism.md",
+    "People/Important/Lilly.md",
+    "People/Monoliths/Kate Askerō.md",
+    "People/Monoliths/Ezkli Reday.md",
+    "Magic/Divinity.md",
+    "Magic/Evils/Anchors/Chronovore.md",
+    "Stories/Catalyzed Stratified.md",
+    "Magic/Authority.md",
+    "Geography/POIs/Atta Jangutta.md",
+    "People/Monoliths/Alfred set Tonic.md",
+    "Magic/Genetic Magic.md",
+    "Meta/Unused Names.md",
     "Species/Non-Sapient",
-    "People/Important/Avissa.md",
-    "People/Historical/Melanie.md",
-    "People/Historical/Kaet.md",
-    "Geography/Realms/Etei.md",
-    "Geography/Realms/Azti.md",
-    "Geography/POIs/Yggdrasil.md",
-    "Units of Measurement/Drastevarden Standard Time.md",
-    "People/Related/von Karmelius/Carvjun von Karmelius.md",
-    "People/Related/von Karmelius",
-    "People/Related/Senn & Woq/Orgorgan.md",
+    "Species/Sapient",
+    "Meta/Images/Lili Soul.png",
     "People/Related/Senn & Woq",
-    "People/Related/Kate Askerō/Tizpca.md",
-    "People/Related/Kate Askerō",
-    "People/Related/Alfred & Slyprae set Tonic",
     "People/Important/Mythological",
-    "People/Important/Monolithic Order",
+    "Untitled.base",
+    "Magic/Evils/Anchors",
     "People/Important/Dead",
-    "People/Deities/Archdeities",
+    "Pasted image 20251003211106.png",
+    "People/Important/Monolithic Order",
+    "People/Cultures/Racial",
+    "Meta/Images/Realistic World.png",
     "Meta/Images/Tectonics.png",
-    "Meta/Images/Realistic World.png"
+    "People/Cultures/Historical"
   ]
 }

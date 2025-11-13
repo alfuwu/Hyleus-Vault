@@ -5,6 +5,8 @@ tags:
 ---
 The xe'tunig are a strange species, living deep within the oceans betwixt the continents. They require specialized magical capabilities to so much as survive within the low-pressure and water-less environment on land, making their appearances in non-underwater settlements almost nonexistent.
 
+Due to their lack of early interaction with land-faring sapients, the xe'tunig have several exonyms attached to their species. These have gradually shifted into being regarded as ethnic slurs, falling into disuse in favor of the endonym "xe'tunig".
+
 Despite evolving almost entirely separately to the [[human]] instead of branching off from them like all other humanoid species, the xe'tunig are strikingly similar in form. Scientists believe this is due to some of the inherent advantages the [[human]] form comes with; most notably the hand and facial expressions. The lack of aerodynamic form still baffles scientists, though some hypothesize that the prehistoric xe'tunig didn't require much maneuverability, leading to a suboptimal evolution that resulted in a more human appearance.
 
 The many needs of the xe'tunig species on land has resulted in them having quite the unique-looking ambassadorial attire, wearing enchanted veils of high-pressure flowing water to maintain hydration and pressure. This veil also automatically collects and disposes of the ammonia substance excreted by the xe'tunig body.
@@ -25,3 +27,13 @@ For a skeleton, the xe'tunig have a cartilage-like lattice that extends througho
 
 ## Famous Peoples
 [[Fürrdegrânne]]
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~3 billion (roughly 28.7% of total sapient population)
+- Largest concentrations found in the temperate regions of the [[Saviq'Qhast Ocean]], though they exist in just about every ocean
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: N/A
+- **[[Psychoticism]]**: $\frac{1}{200,000}$​

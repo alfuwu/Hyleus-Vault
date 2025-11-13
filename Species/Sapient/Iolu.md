@@ -23,10 +23,10 @@ Iolu culture is, in many ways, utterly alien to the culture of the [[Human|human
 ---
 
 **Population Distribution:**
-- Estimated global population: ~20-30 million (roughly 0.3% of total sapient population)
+- Estimated global population: ~200-300 million (roughly 2.2% of total sapient population)
 - Largest concentrations found in the western reaches of [[Drastevarde]] and scattered throughout [[Anto]]
-- Minority populations exist in all major cities worldwide
+- Minority populations exist in all major cities worldwide, with a majority population in their capital, Voskdeyja
 
 **Biological Rarity Metrics:**
 - **[[Intrinsic Magic]]**: $\frac{1}{1,250,000}$​ (slightly rarer than [[Human|humans]], possibly due to their souls already being specialized for [[vital magic]])
-- **[[Psychoticism]]**: $\frac{1}{400,000}$​ (identical to humans)
+- **[[Psychoticism]]**: $\frac{1}{400,000}$​ (identical to [[Human|humans]])

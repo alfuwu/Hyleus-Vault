@@ -9,3 +9,14 @@ These creatures are often regarded as majestic and cute, which is further embold
 
 ## Notable Persons
 [[Kate Askerō]] is one of the most well-known serrans to exist, being one of the four Monoliths of the [[Monolithic Order]].
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~1 billion (roughly 12.2% of total sapient population)
+- Largest concentrations found in [[North Yiyico]] and [[South Yiyico]], though significant population exists in [[Drastevarde]] too
+- Minority populations exist in all major cities worldwide
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: $\frac{1}{900,000}$
+- **[[Psychoticism]]**: $\frac{1}{800,000}$​

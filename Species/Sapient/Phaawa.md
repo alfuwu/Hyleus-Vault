@@ -18,3 +18,17 @@ Instead of regular, mammalian hair, the phaawa instead have leaves, which furthe
 
 ## Culture
 Phaawas highly value all plantlife, with the majority of them considering it sacred and holy. Any phaawa who does not exhibit this belief is generally exiled or otherwise outcast from phaawa communities. As such, phaawas are strictly carnivorous, only eating various meats. Their teeth have adapted to reflect this change in diet, losing the flat teeth that [[Human|humans]] possess in favor of only having sharp teeth.
+
+## Notable Persons
+TBD
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~800-850 million (roughly 7.2% of total sapient population)
+- Largest concentrations found in eastern [[Drastevarde]] and throughout [[North Yiyico]] and [[South Yiyico]]
+- Minority populations exist in all major cities worldwide, majority populations exist in select few major cities
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: $\frac{1}{800,000}$
+- **[[Psychoticism]]**: $\frac{1}{400,000}$​ (identical to [[Human|humans]])

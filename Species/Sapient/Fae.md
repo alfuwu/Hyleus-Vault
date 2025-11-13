@@ -11,3 +11,13 @@ The primary reasons fae have not enjoyed widespread political power are threefol
 - The long lifespan of the fae causes their society to be intensely conservative, taking hundreds of years to make reforms that [[Human|humans]] make in a mere dozen.
 - The fae are isolationists. Little info is available to the greater public about what they are capable of.
 - And finally, the fae are restricted by the [[Laklash]], which prevents the fae from interfering with "lesser" societies (read: [[human]] societies) unless they have struck a deal in which the fae's intervention would be warranted.
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~100 million (roughly 0.9% of total sapient population)
+- Fae are only found in the [[Annaq'Fraedar]] barring extreme exceptions
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: $\frac{1}{500,000}$​
+- **[[Psychoticism]]**: $\frac{1}{1}$​

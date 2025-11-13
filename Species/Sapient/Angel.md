@@ -17,3 +17,13 @@ If the angel was an archangel when they became a fallen angel, they would lose t
 Angelic naming convention consists of a first name and a surname, with the first name being a string of characters that is repeated, and the surname being the [[domain]] of the [[deity]] that the angel serves. An example of a given angelic name is "*Ruru Life*", which denotes an angel serving [[Seya]], the [[Deity|archdeity]] of Life with the designated name of "Ruru".
 
 Angels are ageless, though not immortal. Their primary antithesis are the [[Demon|demons]], and vice-versa.
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~300 million (roughly 2.6% of total sapient population)
+- Mostly found on the [[plane]] of [[Heaven]]
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: N/A​
+- **[[Psychoticism]]**: N/A (TBD?)

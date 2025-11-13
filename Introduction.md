@@ -1,4 +1,6 @@
-An introduction to the many facets of the Hyleus megaplane cluster.
+An introduction to the many facets of the Hyleus supercluster.
+
+Approximate global population: 11,501,447,096
 
 ## Species Overview
 - humans, regular people
@@ -7,6 +9,7 @@ An introduction to the many facets of the Hyleus megaplane cluster.
 - phaawas, which are plant people that originated from a animantic spell modifying the souls of humans
 - xe'tunig, a humanoid mammalian jellyfish-like people who live on the ocean floor and communicate via bioluminescent lights rather than speech
 - eruul'vaak, who live on the very volcanically active continent known as Miulya and subsist off heat energy
+- iolu, basically vampire people
 - fae, tiny winged people who like playing pranks on others
 - angels, which carry out tasks for their deities
 - demons, which are antithetical to the angels and prone to things such as violence
@@ -24,4 +27,3 @@ angels don't really have much emotion unless they get severed from their deity, 
 
 i haven't really gotten to demons yet
 
-anyway yeah info dump :p

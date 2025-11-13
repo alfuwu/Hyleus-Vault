@@ -19,9 +19,10 @@ The approximate chances of forming an intrinsic magic signature upon birth for e
 - **[[Eruul'vaak]]**: $\frac{1}{1,500,000}$
 - **[[Fae]]**: $\frac{1}{500,000}$
 - **[[Human|Humans]]**: $\frac{1}{1,000,000}$
+- **[[Iolu]]**: $\frac{1}{1,250,000}$
 - **[[Phaawa|Phaawas]]**: $\frac{1}{800,000}$
 - **[[Serran|Serrans]]**: $\frac{1}{900,000}$
-- [[Tarhan]]: $\frac{1}{1,200,000}$
-- [[Xe'tunig]]: N/A
+- **[[Tarhan]]**: $\frac{1}{1,200,000}$
+- **[[Xe'tunig]]**: N/A
 
 Intrinsic magic has been observed to have highly increased rates of appearance in those with an ancestor who also had some form of intrinsic magic. As such, the majority of [[Human|humanity]]'s intrinsic magic is concentrated in families of noble lineage.

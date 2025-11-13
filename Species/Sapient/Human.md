@@ -15,3 +15,14 @@ The Reday twins, [[Ezkli Reday]] and [[Tarik Reday]], are some of the most famou
 
 ### Historical
 [[Martyr Zuun Gao]], perhaps the most powerful [[Psychoticism|psychic]] to walk the planet, was a human. Her work revolutionized the field of [[psychoticism]] and was one of the key factors in a wide public shift in perception towards the ability. [[Alfred set Tonic]] has expanded upon her work in the time since, though most of his attention remains firmly within [[Animancy]].
+
+---
+
+**Population Distribution:**
+- Estimated global population: ~4 billion (roughly 34.8% of total sapient population)
+- Largest concentrations found throughout [[Drastevarde]], though they exist just about everywhere
+- Population exists in most cities worldwide
+
+**Biological Rarity Metrics:**
+- **[[Intrinsic Magic]]**: $\frac{1}{1,000,000}$​
+- **[[Psychoticism]]**: $\frac{1}{400,000}$​
