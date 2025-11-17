@@ -17,6 +17,8 @@ As the iolu remain remarkably similar to [[Human|humans]], they remain sexually 
 ## Culture
 Iolu culture is, in many ways, utterly alien to the culture of the [[Human|humans]] in which the iolu developed alongside. Many cultural norms, especially those revolving around sexual reproduction, would be and have been met with scorn and contempt by other sapients in the past. For example, it is considered normal for a couple to consume the blood of the other, and to savor the taste. Most [[Human|humans]] would find the concept of eating their significant other, even if only a little, to be revolting.
 
+Unlike most other species, the iolu possess a species-wide capital city known as Vaeskdeyta. This city is located within [[{{REDACTED}}]], on the westernmost coast of [[Drastevarde]], north of the [[Annaq'Fraedar]].
+
 ## Notable Persons
 [[Salrune]]
 
