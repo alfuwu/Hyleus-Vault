@@ -82,6 +82,18 @@ Directly inside the building lay a counter, manned by another angel. He was tall
 
 "Good day, ma'am," he called out to Lili upon seeing her entry, though without much in the way of deference. Angels had no need to defer to anyone but the deities. He continued, prompting, "Signature?"
 
-Lili wordlessly exposed the portion of her soul baring Deimos' signature to the man, who nodded and gestured down the hall.
+Lili wordlessly exposed the portion of her soul bearing Deimos' signature to the man, who nodded after a brief inspection, confirming that she was indeed an angel, and gestured down the hall.
 
 "The Mortal Plane, I take it?" he asked.
+
+Lili nodded. "Yup. Omuaru," she said curtly, walking through the building and towards the area housing all the transplanar teleporters, leaving the angel at the counter behind. The hallway was full of doors promising transport to all the major cities of the world, from Valey to Ion to Vaeskdeyta.
+
+She continued scanning the plates next to the doors until she found her target, Omuaru. The capital city of Obuandu.
+
+The door opened silently, the hinges just as greased as the ones leading into the building from the street. Inside lay a modestly large platform raised above the floor, about three meters in diameter, positively coated in planar essence. Regular mortal rituals powered by mana were incapable of piercing the fabric of the planes along the czite axis; this kind of magic was the domain of deities and deities alone.
+
+She stepped up the stairs onto the platform and stretched her wings out, closing her eyes contentedly as she did so. She likely wasn't going to get to relax for quite some time after entering the Mortal Plane, so she'd take her moments where she could get them.
+
+The essence stirred in response to her presence, slowly picking up speed as though it had a mind of its own. Gradually, its velocity increased, turning into a spinning storm around Lili, who gazed on with disinterest. As an archangel from the time of the Great Hell Wars, she had used transplanar teleportation arrays many times; this was nothing new to her. When she had first used a transplanar teleportation array, her reaction had been much different. More awe and wow.
+
+The essence reached a crescendo peak around Lili, and then roared to life, ripping Lili away from Heaven and thrusting her directly into the Mortal Plane, right where Omuaru lay.
