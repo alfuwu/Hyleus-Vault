@@ -97,3 +97,21 @@ She stepped up the stairs onto the platform and stretched her wings out, closing
 The essence stirred in response to her presence, slowly picking up speed as though it had a mind of its own. Gradually, its velocity increased, turning into a spinning storm around Lili, who gazed on with disinterest. As an archangel from the time of the Great Hell Wars, she had used transplanar teleportation arrays many times; this was nothing new to her. When she had first used a transplanar teleportation array, her reaction had been much different. More awe and wow.
 
 The essence reached a crescendo peak around Lili, and then roared to life, ripping Lili away from Heaven and thrusting her directly into the Mortal Plane, right where Omuaru lay.
+
+---
+
+The swirling, vivid energy slowly petered out around Lili. She now stood in a room rather similar to the one she had just been in, sans some of the more decorative architecture. The transplanar teleportation array in Omuaru was much more modern than the one she liked to use back in Heaven.
+
+She walked off the raised platform and into the halls of the building. They were plain, decorated only sparsely by the occasional obligatory potted plant or abstract painting; quite corporate. The wall to the left of Lili was made entirely of glass, and overlooked the city of Omuaru proper. Lili was currently several stories up, giving her quite a nice view. Perhaps a mortal would've enjoyed it, but Lili could get a similar view anywhere she went by simply flying up into the sky. She itched to get outside and start finding the rats of Lhuunkzar straight away. The sooner she was done here, the sooner she could go back to Heaven and relax for a decade or two.
+
+The building she was currently walking through was the seat of divine power in Omuaru. As such, it appropriately towered tall over its neighboring buildings and lay near the center of the entire city. Its size was a necessity; it needed to be capable of accommodating all the angels of the various deities with a presence in Obuandu. Thankfully, the deities held religious exemption from taxation in Obuandu, otherwise the building would be eating up a substantial amount of money.
+
+Lili glanced at a map hung on the wall and committed it to memory; she hadn't been to Omuaru in several centuries, at least, and the building had changed significantly. She followed the map in her mind to the Pristine Soul quarter, where Deimos' most faithful resided.
+
+The path took her through long corridors, several turns, one large lobby-like area decorated tastefully with flora and color, and through several more residential sections. The entire walk took Lili about half an hour to complete, leaving her with nothing but her thoughts and contemplations to entertain herself.
+
+*Wonder what Lhuunkzar's trying this time. What does he even expect to gain from getting back inside the supercluster? Surely, the deities would just banish him again as they did last time. Maybe he just wants chaos? That would suit him,* her inner monologue ran on, idle thoughts plaguing her. She didn't have any information yet, so the best she could do was try and puzzle out what Lhuunkzar's motivations were.
+
+Naturally, she couldn't come to anything conclusive. Perhaps if she ever had the misfortune of meeting the man, she'd ask directly to satiate her curiosity.
+
+Lili came upon a pale white wooden door, rich in texture and clearly expensive. It was the only door present in the hallway, and a glossy metal plate next to it labelled it as the Pristine Soul's section of the building. Her destination. If she was lucky, they'd have already found the cult's current base, and all she'd have to do would be to raid it and be done.
