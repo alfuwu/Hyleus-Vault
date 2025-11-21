@@ -5,6 +5,10 @@ tags:
 ---
 A plane is a slice of the [[Czite axis]].
 
-There are complex planes and simple planes, of which complex planes are much rarer than simple planes.
+These slices have two quantifiable states: material and immaterial. An example of a material plane would be the [[Mortal Plane]]; a plane capable of storing physical matter and energy. An immaterial plane cannot contain energy, instead storing things more magical in nature, such as [[Soul|souls]] or the [[Psychic Leyline]].
 
-A complex plane is an interlocking group of simple planes that form a cohesive whole. A good example of one such plane is our own plane, wherein the simple planes composing the complex plane are the [[Mortal Plane]], where the mundane physical aspects of our world reside, the [[Soul Plane]], where the [[Soul|souls]] reside, and the [[Psychic Leyline]] beyond the [[Soul Plane]], where the macroconsciousness composed of every sapient resides. Additionally, the [[Soul Plane]] is connected to two other simple planes, known as [[Heaven]] and [[Hell]], which is where the majority of [[Soul|souls]] go after they are disconnected from their mortal coil.
+Each plane is not necessarily governed by the same universal constants. This means that it is possible to immediately perish upon entering a new plane, should one manage to traverse the hungry nothingness that is the [[Void]].
+
+When two material planes collide with one another, they tend to bleed into each other, creating localized anomalies. This is the reason the [[Great Evil|Great Evils]] exist; they are the remnants of a collision between the [[Mortal Plane]] and a different, alien plane. The anchors of these [[Great Evil|Great Evils]] serve to stabilize the anomaly, acting as a live connection to their home plane. The reason why every [[Great Evil]] has an anchor entity is simple: the anomalies without an anchor entity quickly faded from existence, and tend to all be too weak to enact any significant influence upon the [[Mortal Plane]] to begin with. The planes of [[Heaven]] and [[Hell]] are both shielded from this collision by the [[Mortal Plane]].
+
+There are also subplanes; a smaller, less stable plane moored to a mother plane to keep it from drifting off and fragmenting within the [[Void]]. These subplanes tend to be small, unstable anomalies with inconsistent physical laws.

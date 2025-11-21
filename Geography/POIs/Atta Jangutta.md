@@ -14,8 +14,8 @@ The Atta Jangutta is located in the middle of a massive crater on the northern p
 The inside of the Atta Jangutta is a massive, labyrinthine, and twisted area, full of junk and treasure accumulated over eons that have not yet passed and eons that have already passed alike. This claim is only substantiated by eyewitness accounts, as no acclaimed researcher has ever dared to enter the Atta Jangutta barring a rather unknown man known as Siemann Hakjurg, who never returned.
 
 ## Formation
-The formation of the Atta Jangutta is a highly debated topic, primarily due to the difficulty in examining the anomaly, paired with the lack of evidence for *why* such an anomaly should even be present in the location it is in. Yes, there is extremely abnormal amounts of spacetime mana in the local region surrounding the Atta Jangutta, but the quantity is well within the amount that would be passively emitted from an anomaly like the Atta Jangutta.
+The formation of the Atta Jangutta is a highly debated topic, primarily due to the difficulty in examining the anomaly, paired with the lack of evidence for *why* such an anomaly should even be present in the location it is in. Yes, there is extremely abnormal amounts of spacetime mana in the local region surrounding the Atta Jangutta, but the quantity is well within the amount that would be passively emitted from an anomaly like the Atta Jangutta, with no residue to speak of.
 
-This has led many researchers to believe that the Atta Jangutta actually formed some time in the future, which is a rather unprovable hypothesis.
+This has led many researchers to believe that the Atta Jangutta actually formed some time in the future, which is a rather unprovable hypothesis. In actuality, the Atta Jangutta formed with the death of the [[Deity|archdeity]] [[Btrielix]].
 
 Physicists are still confounded as to how the Atta Jangutta deals with time paradoxes.

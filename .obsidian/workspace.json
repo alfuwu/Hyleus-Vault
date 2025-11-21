@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "be814ee489477b88",
+        "id": "88b6e7c2d4bca483",
         "type": "tabs",
         "children": [
           {
-            "id": "2cc40e54a02125bd",
+            "id": "2318d153a377370a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/False Divinity.md",
+                "file": "People/Historical/Xorvas the Undying.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "False Divinity"
+              "title": "Xorvas the Undying"
+            }
+          },
+          {
+            "id": "7e233bdc4e769fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/POIs/The Bloodied Throne.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Bloodied Throne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Monoliths/Alfred Tonic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Alfred Tonic"
+              "title": "Outline"
             }
           }
         ],
@@ -180,33 +194,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cc40e54a02125bd",
+  "active": "7e233bdc4e769fed",
   "lastOpenFiles": [
-    "Introduction.md",
-    "Magic/Intrinsic Magic.md",
-    "Species/Sapient/Angel.md",
-    "Species/Sapient/Deity.md",
-    "Species/Sapient/Demon.md",
-    "Species/Sapient/Eruul'vaak.md",
-    "Species/Sapient/Divine Tree.md",
-    "Species/Sapient/Tarhan.md",
-    "Species/Sapient/Serran.md",
-    "Species/Sapient/Fae.md",
-    "Species/Sapient/Human.md",
-    "Species/Sapient/Iolu.md",
-    "Species/Sapient/Phaawa.md",
-    "Species/Sapient/Xe'tunig.md",
-    "Magic/Psychoticism.md",
-    "People/Important/Lilly.md",
-    "People/Monoliths/Kate Askerō.md",
-    "People/Monoliths/Ezkli Reday.md",
-    "Magic/Divinity.md",
-    "Magic/Evils/Anchors/Chronovore.md",
+    "People/Historical/Melanie.md",
+    "Geography/POIs/The Bloodied Throne.md",
+    "People/Historical/Martyr Zuun Gao.md",
+    "People/Historical/Lhuunkzar.md",
+    "People/Historical/Xorvas the Undying.md",
+    "Magic/Evils/Great Evil.md",
+    "Magic/Evils/The Spiral.md",
+    "Geography/POIs/Stellkjurg Rainforest.md",
+    "People/Historical/Vorschund von Karmelius.md",
+    "People/Important/Miu Tonic.md",
+    "People/Other/Odi Hercul Enguh.md",
+    "Species/Unique Being.md",
+    "People/Other/Ilythra Joculen.md",
     "Stories/Catalyzed Stratified.md",
-    "Magic/Authority.md",
-    "Geography/POIs/Atta Jangutta.md",
+    "People/Related/Alfred & Slyprae set Tonic/Zæangorääx.md",
+    "Stories/False Divinity.md",
+    "People/Important/Bax Deroydta.md",
+    "People/Important/Kanthonio Trevballas.md",
+    "People/Important/Furutia Alimondez.md",
+    "People/Important/Fel of the Abyss.md",
+    "People/Important/Bazif Credinga.md",
+    "Meta/Images/Bax Deroydta.png",
+    "Species/Sapient/Iolu.md",
     "People/Monoliths/Alfred set Tonic.md",
-    "Magic/Genetic Magic.md",
+    "People/Important/Rina Ougais.md",
+    "People/Important/Meloqzykes.md",
     "Meta/Unused Names.md",
     "Species/Non-Sapient",
     "Species/Sapient",

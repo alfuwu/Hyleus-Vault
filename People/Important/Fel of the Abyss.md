@@ -37,6 +37,8 @@ He also made contact with [[Lili Soul]] when she came into contact with the [[Sh
 
 ### Known adventures
 - See [[Catalyzed Stratified]].
+- See [[Anno Parasitus]].
+- Manipulated the events of [[False Divinity]].
 
 ### Current
 The current whereabouts of Fel of the Abyss are unknown. However, recent actions have been attributed to him:

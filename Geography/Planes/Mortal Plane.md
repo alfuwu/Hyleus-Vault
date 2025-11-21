@@ -4,4 +4,4 @@ tags:
   - Material-Plane
   - Czite-Axis
 ---
-\[No content available]
+The Mortal Plane, one of the original two [[Plane|planes]] that eventually formed the Hyleus supercluster, is a [[Plane|material plane]]

@@ -4,6 +4,7 @@ tags:
   - Important
   - Iolu
   - Intrinsic-Magic
+  - Blood-Mage
   - Monolithic-Order
   - Cketei
 aliases:

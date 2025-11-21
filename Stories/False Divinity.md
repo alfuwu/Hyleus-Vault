@@ -114,4 +114,7 @@ The path took her through long corridors, several turns, one large lobby-like ar
 
 Naturally, she couldn't come to anything conclusive. Perhaps if she ever had the misfortune of meeting the man, she'd ask directly to satiate her curiosity.
 
-Lili came upon a pale white wooden door, rich in texture and clearly expensive. It was the only door present in the hallway, and a glossy metal plate next to it labelled it as the Pristine Soul's section of the building. Her destination. If she was lucky, they'd have already found the cult's current base, and all she'd have to do would be to raid it and be done.
+Lili came upon a pale white wooden door, rich in texture and clearly expensive. It was the only door present in the hallway, and a glossy metal plate next to it labelled it as the Pristine Soul's section of the building. Her destination. If she was lucky, they'd have already located the cult's current base and all she'd have to do would be to raid it and be done.
+
+She was never lucky.
+

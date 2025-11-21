@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAsterisk",
-      "LiBrain",
-      "LiDroplets",
-      "LiTreeDeciduous",
-      "LiCircle"
+      "LiRefreshCw",
+      "LiX",
+      "LiFish",
+      "LiCreditCard",
+      "LiDiamond"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -133,5 +133,10 @@
   "Species/Sapient/Divine Tree.md": "LiTreeDeciduous",
   "Species/Sapient/Iolu.md": "LiDroplets",
   "Species/Sapient": "LiBrain",
-  "Species/Non-Sapient": "LiAsterisk"
+  "Species/Non-Sapient": "LiAsterisk",
+  "People/Important/Rina Ougais.md": "LiFileWarning",
+  "People/Important/Furutia Alimondez.md": "LiDiamond",
+  "People/Important/Kanthonio Trevballas.md": "LiCreditCard",
+  "People/Important/Bax Deroydta.md": "LiFish",
+  "People/Historical/Xorvas the Undying.md": "LiRefreshCw"
 }
