@@ -110,7 +110,7 @@ Lili glanced at a map hung on the wall and committed it to memory; she hadn't be
 
 The path took her through long corridors, several turns, one large lobby-like area decorated tastefully with flora and color, and through several more residential sections. The entire walk took Lili about half an hour to complete, leaving her with nothing but her thoughts and contemplations to entertain herself.
 
-*Wonder what Lhuunkzar's trying this time. What does he even expect to gain from getting back inside the supercluster? Surely, the deities would just banish him again as they did last time. Maybe he just wants chaos? That would suit him,* her inner monologue ran on, idle thoughts plaguing her. She didn't have any information yet, so the best she could do was try and puzzle out what Lhuunkzar's motivations were.
+*Wonder what Lhuunkzar's trying this time. What does he even expect to gain from getting back inside the supercluster? Surely, the deities would just banish him again as they did last time. Maybe he simply wants for chaos? That would suit him,* her inner monologue ran on, idle thoughts flitting by for lack of other stimuli. She didn't have any information yet, so the best she could do was try and puzzle out what Lhuunkzar's motivations were, as she always had any time his little Cult tried to act up.
 
 Naturally, she couldn't come to anything conclusive. Perhaps if she ever had the misfortune of meeting the man, she'd ask directly to satiate her curiosity.
 
@@ -118,3 +118,8 @@ Lili came upon a pale white wooden door, rich in texture and clearly expensive. 
 
 She was never lucky.
 
+She pushed the door open.
+
+Inside the wing was yet more hallway, with dorms lining the sides. At the far end lay a meeting room, Lili's destination.
+
+She marched down the hallway with an imperiousness observed in only those of the archangelic caste, praying to Deimos above that this would be a simple excursion for once.

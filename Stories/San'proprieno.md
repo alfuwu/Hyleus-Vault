@@ -10,7 +10,7 @@ tags:
 
 ————————————————
 
-- 
+- [[Lhuunkzar]] develops an obsession with attaining [[Soul|Apotheosis]].
 
 ————————————————
 

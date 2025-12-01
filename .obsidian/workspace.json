@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "88b6e7c2d4bca483",
+        "id": "59a6e75368d8c630",
         "type": "tabs",
         "children": [
           {
-            "id": "2318d153a377370a",
+            "id": "383949077d957a99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Historical/Xorvas the Undying.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Xorvas the Undying"
-            }
-          },
-          {
-            "id": "7e233bdc4e769fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geography/POIs/The Bloodied Throne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Bloodied Throne"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,24 +175,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e233bdc4e769fed",
+  "active": "383949077d957a99",
   "lastOpenFiles": [
-    "People/Historical/Melanie.md",
+    "People/Important/Miu Tonic.md",
+    "Meta/Images/Lili Soul.png",
+    "People/Deities/Archdeities/Jik.md",
+    "People/Deities/Archdeities/Deimos.md",
+    "Stories/False Divinity.md",
+    "Stories/San'proprieno.md",
+    "Species/Unique Being.md",
+    "People/Historical/Xorvas the Undying.md",
     "Geography/POIs/The Bloodied Throne.md",
+    "People/Historical/Melanie.md",
     "People/Historical/Martyr Zuun Gao.md",
     "People/Historical/Lhuunkzar.md",
-    "People/Historical/Xorvas the Undying.md",
     "Magic/Evils/Great Evil.md",
     "Magic/Evils/The Spiral.md",
     "Geography/POIs/Stellkjurg Rainforest.md",
     "People/Historical/Vorschund von Karmelius.md",
-    "People/Important/Miu Tonic.md",
     "People/Other/Odi Hercul Enguh.md",
-    "Species/Unique Being.md",
     "People/Other/Ilythra Joculen.md",
     "Stories/Catalyzed Stratified.md",
     "People/Related/Alfred & Slyprae set Tonic/Zæangorääx.md",
-    "Stories/False Divinity.md",
     "People/Important/Bax Deroydta.md",
     "People/Important/Kanthonio Trevballas.md",
     "People/Important/Furutia Alimondez.md",
@@ -219,13 +204,8 @@
     "People/Important/Bazif Credinga.md",
     "Meta/Images/Bax Deroydta.png",
     "Species/Sapient/Iolu.md",
-    "People/Monoliths/Alfred set Tonic.md",
-    "People/Important/Rina Ougais.md",
-    "People/Important/Meloqzykes.md",
-    "Meta/Unused Names.md",
     "Species/Non-Sapient",
     "Species/Sapient",
-    "Meta/Images/Lili Soul.png",
     "People/Related/Senn & Woq",
     "People/Important/Mythological",
     "Untitled.base",
