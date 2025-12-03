@@ -123,3 +123,12 @@ She pushed the door open.
 Inside the wing was yet more hallway, with dorms lining the sides. At the far end lay a meeting room, Lili's destination.
 
 She marched down the hallway with an imperiousness observed in only those of the archangelic caste, praying to Deimos above that this would be a simple excursion for once.
+
+The door swung open. Inside lay a simple, rounded table, rather plain in aesthetics. Around it sat four individuals, garbed in pure white robes. Two were regular angels, one was human, and the last was a phaawa.
+
+"Ah, archangel Lili," the human said in way of greeting. "Welcome. We were discussing how to combat the cult. Please, take a seat."
+
+He gestured at the empty seat at the head of the table, likely reserved specifically for her. She nodded her head in acknowledgement and sat down.
+
+"So," one of the angels began, "Recently, we have received reports of mass import of wozi. We have reason to suspect that this is the doing of Lhuunkzar's Cult, and are currently investigating matters. We have not found anything conclusive yet, but all signs are pointing in that direction."
+

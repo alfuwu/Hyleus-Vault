@@ -1,0 +1,5 @@
+Wozi is a metallic compound naturally forming near the old capital of [[the Ckretion Empire]]. The proximity of that area to the heartlands of [[the Abyss]] taint the fundamental atomic structure of regular metals, transforming it into a material colloquially known as wozi; "death-metal". The material is highly dangerous and causes the laws of reality of inside the [[Mortal Plane]] to break down, a property which makes it ideal for punching past the Hyleusian Membrane and reaching out into the [[Void]].
+
+Due to its nature, it is nearly impossible to possess this material in secret. It also makes storage of this material impossible, requiring one to collect fresh wozi whenever they wish to use some.
+
+Handle with extreme care. Users who misuse this material shall be punished at the behest of the Council of Deities and hunted across all [[Plane|planes]].

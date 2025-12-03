@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "59a6e75368d8c630",
+        "id": "7dc709b9428c8dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "383949077d957a99",
+            "id": "c5c4cee85a8aa17a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Stories/False Divinity.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "False Divinity"
+            }
+          },
+          {
+            "id": "d4673b790e7a228e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Materials/Wozi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wozi"
             }
           }
         ]
@@ -175,13 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "383949077d957a99",
+  "active": "c5c4cee85a8aa17a",
   "lastOpenFiles": [
+    "Magic/Materials/Wozi.md",
+    "Stories/False Divinity.md",
     "People/Important/Miu Tonic.md",
     "Meta/Images/Lili Soul.png",
     "People/Deities/Archdeities/Jik.md",
     "People/Deities/Archdeities/Deimos.md",
-    "Stories/False Divinity.md",
     "Stories/San'proprieno.md",
     "Species/Unique Being.md",
     "People/Historical/Xorvas the Undying.md",
