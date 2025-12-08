@@ -126,9 +126,11 @@ She marched down the hallway with an imperiousness observed in only those of the
 
 The door swung open. Inside lay a simple, rounded table, rather plain in aesthetics. Around it sat four individuals, garbed in pure white robes. Two were regular angels, one was human, and the last was a phaawa.
 
-"Ah, archangel Lili," the human said in way of greeting. "Welcome. We were discussing how to combat the cult. Please, take a seat."
+"Ah, venerated archangel Lili," the human said in way of greeting. "Welcome. We were discussing how to combat the cult. Please, take a seat."
 
 He gestured at the empty seat at the head of the table, likely reserved specifically for her. She nodded her head in acknowledgement and sat down.
 
-"So," one of the angels began, "Recently, we have received reports of mass import of wozi. We have reason to suspect that this is the doing of Lhuunkzar's Cult, and are currently investigating matters. We have not found anything conclusive yet, but all signs are pointing in that direction."
+"So," one of the angels began, addressing the group and beginning a recap for Lili's sake, "Recently, we have received reports of mass import of wozi. We have reason to suspect that this is the doing of Lhuunkzar's Cult, and are currently investigating further for conclusive evidence. We have not found anything conclusive yet, but all signs are pointing in that direction." The angel turned to Lili. "We requested the presence of an archangel as assurance that the local Cult would not possess enough strength to overturn our forces and in order to request your wisdom and knowledge."
+
+The other angel—a woman—chimed in. "The wozi has been imported in low amounts by several different businesses—likely all shells of some sort—which has allowed them to go relatively unnoticed by the local authorities, though we believe the lack of notice is more due to either governmental officials being part of the Cult themselves or simple corruption. However, we, as servants of the Lord Deimos, have upheld our duty in tracking all Void-related imports, and noticed the anomaly swiftly. The volume of wozi imported into the city has increased by roughly thirty percent in the past five months."
 
