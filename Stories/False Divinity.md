@@ -132,5 +132,17 @@ He gestured at the empty seat at the head of the table, likely reserved specific
 
 "So," one of the angels began, addressing the group and beginning a recap for Lili's sake, "Recently, we have received reports of mass import of wozi. We have reason to suspect that this is the doing of Lhuunkzar's Cult, and are currently investigating further for conclusive evidence. We have not found anything conclusive yet, but all signs are pointing in that direction." The angel turned to Lili. "We requested the presence of an archangel as assurance that the local Cult would not possess enough strength to overturn our forces and in order to request your wisdom and knowledge."
 
-The other angel—a woman—chimed in. "The wozi has been imported in low amounts by several different businesses—likely all shells of some sort—which has allowed them to go relatively unnoticed by the local authorities, though we believe the lack of notice is more due to either governmental officials being part of the Cult themselves or simple corruption. However, we, as servants of the Lord Deimos, have upheld our duty in tracking all Void-related imports, and noticed the anomaly swiftly. The volume of wozi imported into the city has increased by roughly thirty percent in the past five months."
+The other angel—a woman—chimed in. "The wozi has been imported in low amounts by several different businesses—likely all shells of some sort—which has allowed them to go relatively unnoticed by the local authorities, though we believe the lack of notice is more due to either governmental officials being part of the Cult themselves or simple corruption. However, we, as servants of the Lord Deimos, have upheld our duty in tracking all Void-related imports, and noticed the anomaly swiftly. The total volume of wozi imported into the city has increased by roughly thirty percent in the past five months."
+
+She took a breath for a moment before continuing on. "We have determined a shared location where the wozi imported by these companies appears to be funneled to. Your objective, Lili, will be to launch an assault in any way you deem fit on this location as soon as possible. It is located on 22515 Bimu Etreo."
+
+Lili nodded her head to show her acknowledgement.
+
+"If that is all, I shall be leaving to prepare," Lili stated, getting up to leave the room. "Return to whatever it is you were doing before my interruption."
+
+The others did as told, beginning to talk more about possible countermeasures and methods to strangle the further import of wozi into Omuaru.
+
+Lili walked back down the hall, finding and entering the chambers set aside specifically for visiting archangels, sitting on the bed and began to think. She would raid the building alone, naturally, and, as an agent of an archdeity, no government officials would stand in her way while she did so. The raid should be done in a blitz, too fast for them to react in any manner. That way, any possible incriminating evidence would still be within the building.
+
+She would set out tomorrow when the Sun first rises above the ground. Then she would stake out a position with a high vantage view far away from the building so that she could determine at what point would be most opportune to attack the building at. That way, she wouldn't risk barging into an empty building with no evidence inside.
 
