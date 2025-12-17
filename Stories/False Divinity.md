@@ -146,3 +146,8 @@ Lili walked back down the hall, finding and entering the chambers set aside spec
 
 She would set out tomorrow when the Sun first rises above the ground. Then she would stake out a position with a high vantage view far away from the building so that she could determine at what point would be most opportune to attack the building at. That way, she wouldn't risk barging into an empty building with no evidence inside.
 
+Lili decided to spend the rest of the day exploring, familiarizing herself once more with the Mortal Plane. The technology she had witnessed the last time she had been on the Mortal Plane had grown by leaps and bounds, to the point where there were screens capable of displaying high-quality images from the palm of her hand, without any of that wire nonsense requiring them to be hooked up to a wall.
+
+Everything looked much more *sleek*, though Lili wasn't sure how much she liked the aesthetic change. The semi-clunkiness of the older technology she had known about had its charms to it.
+
+The technology was also simply more advanced. There was something called "the ...," which allowed people worldwide to communicate with one another in just a fraction of a second. It was truly revelatory, and made Lili realize just how short-sighted she had been. Why was she wasting her time drinking tea and sunbathing in Heaven when she could've been innovating, attempting to invent something like this? How much more technologically advanced could Heaven be, if the angels and deities all worked towards that end?
