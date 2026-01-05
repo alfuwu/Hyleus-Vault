@@ -148,6 +148,18 @@ She would set out tomorrow when the Sun first rises above the ground. Then she w
 
 Lili decided to spend the rest of the day exploring, familiarizing herself once more with the Mortal Plane. The technology she had witnessed the last time she had been on the Mortal Plane had grown by leaps and bounds, to the point where there were screens capable of displaying high-quality images from the palm of her hand, without any of that wire nonsense requiring them to be hooked up to a wall.
 
-Everything looked much more *sleek*, though Lili wasn't sure how much she liked the aesthetic change. The semi-clunkiness of the older technology she had known about had its charms to it.
+Everything looked much more *sleek*, though Lili wasn't sure how much she liked the aesthetic change. The semi-clunkiness and size of the older technology she had known about had its charms to it.
 
 The technology was also simply more advanced. There was something called "the ...," which allowed people worldwide to communicate with one another in just a fraction of a second. It was truly revelatory, and made Lili realize just how short-sighted she had been. Why was she wasting her time drinking tea and sunbathing in Heaven when she could've been innovating, attempting to invent something like this? How much more technologically advanced could Heaven be, if the angels and deities all worked towards that end?
+
+She pondered such questions throughout the rest of the day and the night, for she had no need for sleep as an angel. The moment the Sun peeked above the horizon, she stepped out onto the balcony of her apartment-like room, spread her three pairs of white, feathery wings, laden with the mana required to physically support her heavy body (relative to birds, anyway) in the sky. Some of the larger flying monsters used the exact same technique to fly themselves. As she wasn't in Heaven and was instead on the Mortal Plane, flight was no longer considered a cultural taboo.
+
+Lili took off into the sky, her wings undulating in a smooth, wave-like motion, easily keeping her aloft. Mana radiated out from them, performing all sorts of functions in addition to simply letting her fly, such as gyro-stabilization to prevent her from flipping forwards or backwards when idle in the air.
+
+A spell matrix formed almost instantaneously around her, bending the light streaming in from above around her form and then back into place once past her, granting Lili functional invisibility to everyone below.
+
+Her keen eyes took in the scene that lay before her, analyzing all of the details with unparalleled acuity. While she wasn't an angel of He, her archangel body provided more than enough visual precision.
+
+She quickly found 22515 Bimu Etreo, an out-of-the-way street about a hundred miles away from the towering building she had arrived in Omuaru in.
+
+The street didn't have too much foot traffic, but it wasn't entirely barren either.
