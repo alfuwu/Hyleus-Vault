@@ -134,7 +134,7 @@ He gestured at the empty seat at the head of the table, likely reserved specific
 
 The other angel—a woman—chimed in. "The wozi has been imported in low amounts by several different businesses—likely all shells of some sort—which has allowed them to go relatively unnoticed by the local authorities, though we believe the lack of notice is more due to either governmental officials being part of the Cult themselves or simple corruption. However, we, as servants of the Lord Deimos, have upheld our duty in tracking all Void-related imports, and noticed the anomaly swiftly. The total volume of wozi imported into the city has increased by roughly thirty percent in the past five months."
 
-She took a breath for a moment before continuing on. "We have determined a shared location where the wozi imported by these companies appears to be funneled to. Your objective, Lili, will be to launch an assault in any way you deem fit on this location as soon as possible. It is located on 22515 Bimu Etreo."
+She took a breath for a moment before continuing on. "We have determined a shared location where the wozi imported by these companies appears to be funneled to. Your objective, Lili, will be to launch an assault in any way you deem fit on this location as soon as possible. The building is indexed as 22515 Bimu Etreo."
 
 Lili nodded her head to show her acknowledgement.
 
@@ -163,3 +163,23 @@ Her keen eyes took in the scene that lay before her, analyzing all of the detail
 She quickly found 22515 Bimu Etreo, an out-of-the-way street about a hundred miles away from the towering building she had arrived in Omuaru in.
 
 The street didn't have too much foot traffic, but it wasn't entirely barren either.
+
+The building itself was large, larger than the other buildings on the street yet nowhere near as large as the tower or the large, sprawling markets Lili had seen while flying over the city.
+
+Lili settled in to wait.
+
+---
+
+A few hours passed by, with Lili dutifully noting how many people went into each building along the road, yet seeing nobody enter 22515 Bimu Etreo from any point.
+
+It was entirely possible that the 22515 Bimu Etreo building was solely used as a pickup point for the wozi and nothing else, which would mean that she likely would have to stake out a couple more days before finding anything worthwhile.
+
+Sure enough, as the day began bleeding into night, Lili had yet to see a single person enter the 22515 Bimu Etreo building.
+
+It was possible they were doing things during the night, however, so Lili waited the entire night out too, with nothing to show.
+
+It seemed that it was going to take a few days to get anything worthwhile. How boring.
+
+---
+
+On the fourth day, someone finally entered the 22515 Bimu Etreo building. They were in-and-out in just a couple of minutes, their previously empty handbag now slightly more full.
