@@ -183,3 +183,29 @@ It seemed that it was going to take a few days to get anything worthwhile. How b
 ---
 
 On the fourth day, someone finally entered the 22515 Bimu Etreo building. They were in-and-out in just a couple of minutes, their previously empty handbag now slightly more full.
+
+Powerful magic manipulated the currents of mana surrounding the bag, clearly doing *something*. The man's soul was like steel to her senses; firm, unmoving, and giving away nothing. It was like the man was making a poker face with his soul. That itself, however, spoke volumes to Lili. After all, regular people had nothing to hide.
+
+There absolutely was a chance that this man was completely unrelated to the Cult and just happened to be in the wrong place at the wrong time, but so many factors lining up perfectly like this all pointed to the man being in cahoots with Lhuunkzar.
+
+As he walked down the street towards some as-of-yet unknown destination, he unknowingly picked up an archangel on his trail.
+
+---
+
+The man, once alone, was now travelling in a group of six. They chatted amongst themselves amicably, like old friends, but, despite their efforts to seem like regular people, Lili could see them for who they truly were. Each and every one of them, without fail, had been in several life-or-death situations before. It was only subtle tells that gave them away, but when you grew to be as old as Lili, you learnt to become observant of such things.
+
+After all, if you didn't, you would've died long before reaching even just a thousand years old.
+
+They had been walking together for upwards of an hour now, with no end in sight. The crowds on the street ebbed and flowed, bustling with life on the busier streets or completely barren in the tight alleyways.
+
+They walked through a lot of tight alleyways.
+
+All the while, they never noticed Lili hovering above them in the sky, her directional invisibility still keeping her perfectly concealed.
+
+Humans had extremely poor mana-sensing capabilities, enough so that Lili was frankly surprised any of them could use magic at all, let alone on a level that could compete with the likes of archangels such as her. She would be remiss to dismiss the idea outright, however; for she had seen such humans with her own eyes in the past. The issue became less and less of a problem as a human used Essence to improve their soul.
+
+However, three of the six in the group she was trailing weren't humans. Two of them were serrans, and one was a phaawa. Serrans, in particular, were extremely sensitive to mana, due to the antennae attached to their heads doubling as both a vibration-sensing organ and a mana-sensing organ. Lili made sure the mana emissions from the active invisibility spell matrix were either entirely self-contained or directed upwards into the sky so as not to alert any of them to her presence.
+
+She had a feeling the effort wasn't necessary due to the bag, presumably full of wozi, that the original human was holding, but one could never be too careful in her line of work.
+
+The group slowly came to a stop. It was smooth, natural. A practiced motion that told the casual observer that the group wasn't in a rush to go anywhere. Truth be told, if Lili hadn't been following them for over an hour at this point, she would've well been fooled too.
