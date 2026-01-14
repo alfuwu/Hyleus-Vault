@@ -184,11 +184,13 @@ It seemed that it was going to take a few days to get anything worthwhile. How b
 
 On the fourth day, someone finally entered the 22515 Bimu Etreo building. They were in-and-out in just a couple of minutes, their previously empty handbag now slightly more full.
 
-Powerful magic manipulated the currents of mana surrounding the bag, clearly doing *something*. The man's soul was like steel to her senses; firm, unmoving, and giving away nothing. It was like the man was making a poker face with his soul. That itself, however, spoke volumes to Lili. After all, regular people had nothing to hide.
+Powerful magic manipulated the currents of mana surrounding the bag, clearly doing *something*. Lili was currently too far away from the bag to tell exactly what, but it definitely looked like the radiation of an enchantment made to contain wozi.
+
+The man's soul was like steel to her senses. It was firm, unmoving, and giving away nothing, even to her capabilities. It was as though the man was making a poker face with his soul. That itself, however, spoke volumes to Lili. After all, regular people had nothing to hide, and, more importantly, *couldn't* hide.
 
 There absolutely was a chance that this man was completely unrelated to the Cult and just happened to be in the wrong place at the wrong time, but so many factors lining up perfectly like this all pointed to the man being in cahoots with Lhuunkzar.
 
-As he walked down the street towards some as-of-yet unknown destination, he unknowingly picked up an archangel on his trail.
+As he walked down the street towards some as-of-yet unknown destination, he unknowingly picked up an archangel follower. Lili also made sure to leave a self-sustaining matrix monitoring the building, just in case this man was a distraction.
 
 ---
 
@@ -202,10 +204,22 @@ They walked through a lot of tight alleyways.
 
 All the while, they never noticed Lili hovering above them in the sky, her directional invisibility still keeping her perfectly concealed.
 
-Humans had extremely poor mana-sensing capabilities, enough so that Lili was frankly surprised any of them could use magic at all, let alone on a level that could compete with the likes of archangels such as her. She would be remiss to dismiss the idea outright, however; for she had seen such humans with her own eyes in the past. The issue became less and less of a problem as a human used Essence to improve their soul.
+Humans had supremely poor mana-sensing capabilities, enough so that Lili was frankly surprised any of them could use magic at all, let alone on a level that could compete with the likes of archangels such as her. She would be remiss to dismiss the idea outright, however; for she had seen such humans with her own eyes in the past. The issue became less and less of a problem as a human used Essence to improve their soul.
 
 However, three of the six in the group she was trailing weren't humans. Two of them were serrans, and one was a phaawa. Serrans, in particular, were extremely sensitive to mana, due to the antennae attached to their heads doubling as both a vibration-sensing organ and a mana-sensing organ. Lili made sure the mana emissions from the active invisibility spell matrix were either entirely self-contained or directed upwards into the sky so as not to alert any of them to her presence.
 
 She had a feeling the effort wasn't necessary due to the bag, presumably full of wozi, that the original human was holding, but one could never be too careful in her line of work.
 
 The group slowly came to a stop. It was smooth, natural. A practiced motion that told the casual observer that the group wasn't in a rush to go anywhere. Truth be told, if Lili hadn't been following them for over an hour at this point, she would've well been fooled too.
+
+They entered one of the many stores littered throughout the city, leaving Lili to debate following them in. It was possible that this was just part of their act, but it was also possible that they were entering their base of operations.
+
+Lili picked out a deserted alleyway, flew down, and dismissed the invisibility spell matrix, which was now no longer functioning properly due to her not being in the air; it was creating a pool of blueish light at her feet, still bending and redirecting light from above below her.
+
+She then retracted her three pairs of wings within her soul and hid her silver halo, appearing to be a mostly normal-looking human being, barring her clothes, which was still comprised of her garbs from Eden; a plain, white toga draped over one of her shoulders with silver filigree emblazoned into the abstract shape of a soul over her heart, nearly invisible against the white backdrop. Deimos loved His subtlety, though Lili would never understand why. He was the deity of Souls, not Strange Fashion Senses.
+
+She'd need to find another pair of clothes to wear.
+
+She marched out into the street, receiving a few stares but less than she expected. The wonders of large crowds.
+
+She made another observation spell matrix to follow the group while she was away, so that she didn't lose their trail. It rose up into the air, 
