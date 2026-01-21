@@ -222,4 +222,18 @@ She'd need to find another pair of clothes to wear.
 
 She marched out into the street, receiving a few stares but less than she expected. The wonders of large crowds.
 
-She made another observation spell matrix to follow the group while she was away, so that she didn't lose their trail. It rose up into the air, 
+She made another observation spell matrix to follow the group while she was away, so that she didn't lose their trail. It rose up into the air, the hastily-made spell moving clunkily as she manually controlled it.
+
+She quickly found a vendor selling some normal-looking apparel and dumped a few coins she'd taken from the room she had temporarily lodged in. Lili picked up a pair of pants and a simple v-necked shirt.
+
+"Ah, Fragrant One, we appreciate your business," the aged serran manning the stall on the side of the street said, a heavy accent making it difficult to piece together what they said. His antennae went rigid for a second as they detected a spell matrix forming over Lili's body, but relaxed when the matrix completed and Lili's outfit changed from her regular clothes to the simple, local clothes she'd just purchased. Lili then turned around and began tracing the path her observation matrix took, entering the store that the group had gone into.
+
+The serran smiled with his eyes at Lili, lingering on her until she disappeared out of his line of sight, the growing bustling crowd swallowing her up.
+
+A couple minutes later, Lili dismissed her observation matrix as she regained line of sight on her targets. The store was massive, filled to the brim with mini-stores inside of it peddling all kinds of trinkets, food, and baubles. It had three floors, with staircases and some odd moving staircases connecting them. She and her quarrel were currently on the top floor, where the suspicious group was currently examining the products of some kind of antique technology store.
+
+Lili wondered who exactly they were trying so hard to hide from. Why were they going to such lengths to fool people, especially when it didn't even work, as evinced by her presence there?
+
+Perhaps they were merely fools, but nothing good came of underestimating your enemies. Lili would remain vigilant.
+
+This game of loitering went on for over half an hour, with the group actually buying some things every now and then. Lili might've even began to think that they weren't transferring wozi had they not carefully made sure to never put any of their objects within the suspect bag.
