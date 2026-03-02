@@ -13,6 +13,7 @@ Due to her [[soul]] being constructed from scratch, [[Alfred set Tonic]] was abl
 
 ### Physical Description
 Miu's body, while technically only having existed for 2 years, is that of a 17 year old's.
+![[Miu Tonic.png]]
 
 ### Personality
 Miu has an unnaturally energetic and infectious countenance, tending to look at things with unbridled optimism. Her extreme personality is very likely a quirk of her constructed [[soul]].

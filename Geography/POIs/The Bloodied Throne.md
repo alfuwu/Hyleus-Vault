@@ -11,6 +11,8 @@ The Bloodied Throne is a dark [[Divinity|divine artifact]] created in the year 2
 
 Though its creator is unknown, many assume that it was either [[Nzlietch]] himself or the actions of [[Nzlietch]] that caused its creation.
 
+Its current host is [[Furutia Alimondez]].
+
 ## Functions
 Upon attaching itself to a host, the Bloodied Throne will catalogue the entire blueprint layer. It will discard all information deemed "less efficient" than anything present in its current knowledge base, and replace it with the "more efficient" thing it found. This means that the Throne will remove traumas, useless physiology, bad memories, poor techniques, and inhibiting habits immediately upon parasitizing a new host. As such, all who claim the Throne are effectively a [[unique being]] in their own right. The Throne will only accept a single host at a time.
 

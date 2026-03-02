@@ -7,11 +7,17 @@ A list of as-of-yet-unused names.
 - Lsyin
 - Uentzi
 - Sethyrs
+- Deithyr
 - Iahu
 - Iahi
 - Crosk
 - Sirius Li
 - Izraexi
+- Osla
+- Nramyg
+- Gruesius
+- For J. Eyedentity (For Jed Identity)
+- Backstaberius Falsehoodspeaker
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer?
