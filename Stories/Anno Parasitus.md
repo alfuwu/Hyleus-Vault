@@ -11,97 +11,123 @@ The skies, once a shining, pure blue, now cried rivers of blood, lamenting the l
 
 Fel wiped the crimson rain from his face.
 
-Roaming, mindless slabs of organic matter slowly, torturously scraped along the landscape. These abominations had once been living, breathing humans. Now, they were not more than a slice of beef.
+Roaming, mindless slabs of organic matter slowly, tortuously scraped along the landscape, painting the rolling fields of unidentifiable muck with the blood of an artist. These abominations had once been living, breathing humans and birds, fish and dogs and so much more. Now, they were not any greater than a slice of rotten beef, hung up in a gloating display of victory.
 
 Trees had been broken down and reconstructed as living, breathing sacs of flesh, fixed and immovable extensions of the Parasite's will.
 
 A deity's avatar manifested in the air next to Fel. They gazed upon the most ghastly sight of all.
 
-The World Tree, Yggdrasil. It could scant be called a tree anymore, such were the horrific and vile changes the Parasite had done unto it. It stretched into the sky, not majestic as it used to once stand but rather a repulsive facsimile of its former self and glory.
+The World Tree, Yggdrasil. It could scant be called a "tree" anymore, such were the horrific and vile changes the Parasite had done unto it. It stretched into the sky, not majestic as it once stood, with an air of awe and majesty, but rather a repulsive facsimile of its former self and glory.
 
-"I think you and I both know what needs to be done," the avatar finally said. Fel turned to look at It—Her. It was M. "I rarely find myself in such a position as this, you know. To think, a mortal would be the only one capable of saving the world. Well, I suppose you're not exactly mortal."
+"I think you and I both know what needs to be done," the avatar finally said. Fel turned to look at It—Her. It was M. "I've only found myself in a position such as this once before, you know. To think, a mortal would be the only one capable of saving the world. Not the deities that these poor creatures worshiped every day."
 
-M let out a laugh. It was a mirthless thing, one filled with contempt and hate for Herself. So much power She held, and yet the catastrophe that the Parasite was had still been wrought. Yes indeed, there still was yet to be a deity of spacetime after the death of Btrielix. It was Fel's personal belief that M wanted him to take up that mantle himself, not that he'd do such a thing in a million years.
+M let out a laugh. It was a mirthless thing, one filled with contempt and hate for Herself. So much power She held, and yet the catastrophe that the Parasite was had still been wrought. Yes indeed, there still was none to be a deity of spacetime, after the death of Btrielix back in the Great Hell Wars. Fel was possessed of a sneaking suspicion that M wanted for him to take up that mantle himself, not that he'd ever do such a thing, even in a million years.
 
 Perhaps he'd think about it in ten million. But not a second before!
 
-"I should have seen this coming. I'm so, *so* stupid. Why, yes, of course the Parasite would be as harmless as the Spiral. *Of course* it would play nice with us."
+"Well, I suppose you're not exactly mortal," She added, as an afterthought, before continuing Her mopi—sorry, *regal* moping. "I should have seen this coming. I'm so, *so* stupid. Why, yes, of course the Parasite would be as harmless as the Spiral. *Of course* it would play nice with us. Stupid..."
 
-Fel had spent the last week trying to fix what the Parasite had done to the world; yet alas, even he could do naught to undo the changes after they had already happened. There was only one path left to the both of them, one that perhaps Fel should have used from the start to spare him the memories of this detestable carnage.
+Fel had spent the last week trying to fix what the Parasite had done wrought upon the world; yet alas, he could do naught to undo the changes. There was only one path left to the both of them, one that perhaps Fel should have used from the start to spare him the memories of this detestable carnage. Perhaps Fel wanted to feel like he could affect change upon the world without needing to rely on his intrinsic magic.
 
 The Parasite had undergone genesis, just as the Spiral would in another thousand years. At first, not much had changed. Yes, the Parasite had become stronger, more cunning, but its rate of expansion had stayed largely the same.
 
-That all changed when the Parasite managed to consume Yggdrasil.
+That all changed when the Parasite managed to consume Yggdrasil. Really, Fel had no idea how it had managed such a thing. Surely, someone ought to have noticed the Great Evil creeping upon their precious tree of life, no? Apparently not. Unobservant.
 
 In less than twenty-four hours—*twenty-four hours*—the Parasite had assimilated the vast majority of the world. It had happened so fast that none of the individuals capable of mounting a proper defense had been able to do anything to stop it, not even the deities themselves.
 
-It was worse than Hell. Though, to be fair, Hell was much nicer than most gave it credit for.
+It was worse than Hell. Though, to be fair, Hell was much nicer place than most gave it credit for. Fel had gone on a few vacations to the place. He'd give it a solid 6.5/10; could use a better monarch. Or maybe a democracy. Now *that* would be a sight to see.
 
-And now it was much too late. Fel finally admitted to that.
+M was right. They should have seen this coming. *Btrielix* should have warned them about it, back when He had still been alive. He had gone out of His way to warn them about the Spiral, but not the Parasite?
 
-M was right. They should have seen this coming. But they hadn't, and now they were paying the price.
+But they hadn't, and now they were paying the price.
 
-In any different scenario, Fel might've made a joke. Not this time. Fel was quiet, a veritably rare occurrence.
+In any different scenario, Fel might've made a joke. Perhaps one about the Titan's mother, for she was sure to have been quite astoundingly large. Not this time, however. Fel was quiet, a veritably rare occurrence.
 
-At the very least, the Parasite's growth had happened so quickly. If it had been slow, gradual, Fel might've been incapable of undoing it.
+At the very least, the Parasite's growth had happened rapidly. If it had been slow, gradual, even Fel might've been incapable of undoing it.
 
-The Titan of Rot loomed, kilometers tall. A stark contrast to the mere hundred meters the Titan had been a week ago. It stood, stalwart, next to the decaying husk of Yggdrasil, like a guardian protecting its charge. It was, without a doubt, the most powerful creature in the entire Hyleus supercluster. Stronger than M. Stronger than Ruin. Stronger than Hyleus itself; Fel could see the Mortal Plane straining and destabilizing in the presence of the Titan.
+The Titan of Rot loomed, kilometers tall. A stark contrast to the mere hundred meters the Titan had been a week ago. It stood, stalwart, next to the decaying husk of Yggdrasil, like a guardian protecting its charge, or, possibly more accurately, like a leech sucking its victim of the last drop of blood. It was, without a doubt, the most powerful creature in the entire Hyleus supercluster. Stronger than M. Stronger than Ruin. Stronger than Hyleus itself; Fel could see the Mortal Plane straining and destabilizing in the presence of the Titan.
 
-Unfortunate for it, then, that it could not persist through time. It was not absolute, not like Oblivion or the primordials or Fel himself. In that way, and that way alone, the Titan was weak.
+Unfortunate for it, then, that it could not persist through time. It was not absolute, not like Oblivion or the primordials or merely Fel himself. In that way, and that way alone, the Titan was weak.
 
 That weakness was more than enough.
 
-Fel reached inside himself, activating the very same magic he had done so many times before. He still didn't understand how it worked, despite all of the arcane knowledge he had accumulated over the centuries of his life. It just simply was.
+Fel reached inside himself, activating the very same magic he had done oh-so-many times before. He still didn't understand how it worked, despite all of the arcane knowledge he had accumulated over the centuries of his life. It just simply was.
 
 The intrinsic magic etched upon his very soul set ablaze. The passage of time twisted, warped, bended, folded, catapulted, stopped, coruscated, scintillated, spun, and then—finally but also immediately yet still yet to come—reversed. Seconds undid themselves, the flesh puppets of the Parasite unshambled their way back across the scarred land. Winds rewound. M's avatar disappeared.
 
-Seconds turned to minutes turned to hours turned to days turned to a week and a half. Fel watched, a muted spark of joy igniting in his heart as he saw the Parasite retreat back into itself, the Titan of Rot no longer stood next to the World Tree, which now lay resplendent in its golden glory before Fel once more.
+Seconds turned to minutes turned to hours turned to days turned to a week and a half. Fel watched, a muted spark of partially-sadistic joy igniting in his heart as he saw the Parasite retreat back into itself, the Titan of Rot no longer stood next to the World Tree, which now lay resplendent in its golden glory before Fel once more.
 
 Civilization returned to the world, though it would not be long before the events of the not-so-distant future replayed themselves.
 
-Fel had, perhaps, a couple days to kill the Titan of Rot before it became as unkillable as it had been before.
+Fel was in a room.
+
+It was a rather liminal room, all told. Dappled sunlight flowed in great, spewing waterfalls through blinders that didn't exist. Dust sat heavy in the air, choking and refracting the sunlight, accumulated over centuries yet to pass. It had no walls, and yet it was still a room. It held no ceiling, and yet there was no stars above, no void of space.
+
+It was a room.
+
+In front of him lay a checkered wooden board, with strange pieces from the planet of Earth laid across it in a complex-looking position. The black king was currently in check by the white queen. Intriguing, but ultimately not important at the moment.
+
+The room was gone.
+
+Fel now stood where he had been about a week and a half prior, holding what appeared to be a loaf of bread made out of solid gold for some reason. Strange. He dropped the loaf on the ground, patted down his pants, and flourished his trench coat out. A man must look dashing while he saved the day, after all.
+
+There were, perhaps, just a couple days to kill the Titan of Rot before it became as unkillable as it had been before.
 
 M's avatar reappeared before Fel.
 
-"Here," She said simply, pressing a small orb into Fel's hand.
+Fel raised an eyebrow at Her. "You're not going to kill the Titan Yourself?"
 
-The bead itself was light, however power radiated off of it like heat from a dying star. It was pale white, matte like dried bone.
+M shook Her head. "Just as We have Us deities, the Parasite has deities of its own, alien to our own minds though they may be. We interfering with the Parasite directly would be more than cause enough for them to launch a complete invasion of Hyleus."
 
-Fel raised an eyebrow at M. "You're not going to kill the Titan yourself?"
+"Ah," Fel said, intelligently. It was rare for him to come across new information these days. The Great Evils had deities of their own? How exciting! He might have been even more excited if he wasn't currently being forced to go kill one of these very deities. Maybe he could arrange a tea party with one later?
 
-M shook Her head. "Just as we have us deities, the Parasite has deities of its own, even if they are alien to our own minds. Interfering with the Parasite directly would be grounds for them to launch a full invasion of Hyleus."
+Back to the task at hand:
 
-"Ah," Fel said, intelligently. It was rare for him to come across new information these days. The Great Evils had deities of their own? How exciting! He might have been even more excited if he wasn't currently being forced to go kill one of these very deities.
+"So... I don't suppose You want someone else to kill the Titan...?" Fel asked, slowly edging away from Her avatar. She raised a single eyebrow, somehow managing to look *very* incredulous with such a simple motion. Fel was slightly jealous, though he supposed his mask hid most of his facial expressions from anyone looking in, so that kind of showmanship was barred from him anywho.
 
-He knew of the orb M had given him. They had been very popular back during the Great Hell Wars, used to do all sorts of unscrupulous deicide. That was all the confirmation he needed to know that the Titan was an honest-to-goodness deity in and of itself.
-
-And now it was Fel's job to kill it. At the very least, Fel could be assured of the orb's capability; they hadn't been popular for nothing, after all.
+"No. You'll be the one killing the Titan. If you can manage it, that is."
 
 Simply brilliant. How did he keep finding himself in these kinds of situations again? Why couldn't it be someone else for a change?
 
-"However," M continued, "I will be preparing countermeasures in case you fail."
+"However," M continued, "I shall be preparing countermeasures in the event of your failure."
 
-"Your faith in my capabilities warms my heart, dear friend," Fel said in a faux-hurt tone.
+"Your faith in my capabilities warms my frosted heart, dear friend," Fel said in a faux-hurt tone, laying his hand dramatically over his right breast.
 
-"Shut up and go stop the Parasite already," M complained in a most un-primordial-deity-like fashion.
+"Shut up and go stop the Parasite already," M complained in a most un-primordial-deity-like fashion. At least, to Fel's sensibilities.
 
-"Fine," Fel said. Space itself began to warp around him as he activated the other half of his intrinsic magic formation. He vanished, but not before saying, "You're no fun."
+"Fine," Fel said. Space itself began to warp around him as he activated the other half of his intrinsic magic formation. He vanished, but not before saying, rather childishly one might add, "You're no fun."
 
 Then M's avatar vanished too, its power returned to Her main body in Heaven.
 
 ---
 
-Fel appeared at the entrance to the lands corrupted by the Parasite in a blink.
+Fel appeared at the entrance to the lands corrupted by the Parasite in a blink. He wouldn't teleport directly into the Parasite, as though it wasn't antithetical to Hyleus' concept of spacetime, everyone knew not to trust the consistency of the laws of physics and metaphysics when dealing with the Great Evils.
 
-"G'day," he said to the guardsmen before ignoring their protests and walking past the border.
+Also, Fel might've been something of a sucker for flair. That may or may not have factored into his decision as to where he would teleport.
 
-What a lovely day it was, free from all the rot. The future week had been more taxing on Fel than the past century had been. He didn't particularly care that it was currently raining heavily.
+"G'day," he said to the guardsmen manning the wall before ignoring their protests and walking past the border.
 
-"Sorry, sorry," Fel said to one of the guards who had chased after his strolling form. "I just really need to get in there, you know? Save-the-world-type business. You understand, I'm sure."
+What a lovely day it was, free from all the rot. The future week had been more taxing on Fel than the past century had been. He didn't particularly care that it was currently raining heavily on him. It didn't put a damper on his mood in the slightest.
+
+"Sorry, sorry," Fel said to one of the guards who had chased after his strolling form. "I just really need to get in there, you know? Save-the-world-type business. You understand, I'm sure. Good lad"
 
 Fel then formed a small spell matrix—a simple one, really. All it did was compress the air into a pseudo-solid barrier. It was enough, however, to prevent the guard from following him any further. Normally, Fel would've toyed with them a bit more, but the current circumstances were anything but normal.
 
-About a hundred meters in front of Fel, the land gave way to something that looked straight out of an abstract horror painting. The land died, giving way to a grassless, profane place littered with various unidentifiable bits of organic matter.
+He heard a satisfying *thunk* as the guard smashed headfirst into the invisible barrier of station*air*y air, indicating a spell well done. He started humming to himself.
+
+About a hundred meters in front of Fel, the land gave way to something that looked straight out of an abstract horror painting. The land died, giving way to a graceless, profane place littered with various unidentifiable bits of organic matter.
 
 It was a ticking time bomb.
+
+An idea popped into the back of Fel's mind, one he couldn't resist. Space warped around Fel once more, and he appeared atop the stone wall encapsulating the Parasite. Two guards stood abreast of Fel, gazing inwards at the rotten pastures.
+
+Fel cupped his hands in front of his eyes, as if the Sun still had bearing on what he could and could not see. He leaned over to get a better look at the Parasite.
+
+"See anything?" he asked them.
+
+"Wh— Who— Halt—!" the soldier to his right blabbered out, fumbling for the sheathed sword belted to his waist. The one to Fel's left had fallen over from the surprise and was in the midst of picking herself back up.
+
+"Fel of the Abyss, at your service," Fel said, bowing. "Now, I really must be going. Toodles!"
+
+With that, he vanished from the wall and reappeared in front of his air barrier. The guard was poking it, acting rather close to a mime, bemusedly.
 

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGlobe",
+      "LiCircleChevronUp",
       "LiRefreshCw",
       "LiX",
-      "LiFish",
-      "LiCreditCard",
-      "LiDiamond"
+      "LiFish"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -138,5 +138,7 @@
   "People/Important/Furutia Alimondez.md": "LiDiamond",
   "People/Important/Kanthonio Trevballas.md": "LiCreditCard",
   "People/Important/Bax Deroydta.md": "LiFish",
-  "People/Historical/Xorvas the Undying.md": "LiRefreshCw"
+  "People/Historical/Xorvas the Undying.md": "LiRefreshCw",
+  "People/Important/The Icon of Azti.md": "LiCircleChevronUp",
+  "Internet": "LiGlobe"
 }

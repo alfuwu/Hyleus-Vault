@@ -16,16 +16,25 @@ A list of as-of-yet-unused names.
 - Osla
 - Nramyg
 - Gruesius
-- For J. Eyedentity (For Jed Identity)
+- For J. Aidentiti (For Jed Identity; Forged Identity)
 - Backstaberius Falsehoodspeaker
+- Abbad Skellington (A Bad Skeleton)
+- Delgrado
+- Bagon
+- Sazanne
+- Zelex
+- Padma
+- Heima
+- Phautorium/Phautorius
 
 A list of names with an assigned use but no formal, fleshed out document yet.
-- Naora: Girl. Healer?
+- Naora: Girl. Healer? Xe'tunig.
 - Vivis Zvieytymn: A [[fae]] warlord who united the disparate [[fae]] kingdoms to form the [[the Imperial Fraedate]].
 - Krod: A dork. He likes trees.
 - Jarn: A Cketei of the Monolithic Order, under [[Ezkli Reday]]. He survived [[The Fractured|the Fracturing]].
 - Erwin Zvekk: A well-renowned magic user, famed for innovations in spellcasting. Now dead.
 - Cr'thtaktulon: A powerful creature of [[the Abyss]].
-- Salrune: Girl.
+- Salrune: Demon girl.
 - Orgorgan: Some divine artifact, held back by [[Senn]] & [[Woq]].
 - Dachsbud & Kingel: A pair of daggers?
+- Scat & Gallot: Two idiots
