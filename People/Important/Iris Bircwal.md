@@ -4,8 +4,6 @@ tags:
   - Important
   - Phaawa
   - Psychic
-  - Monolithic-Order
-  - Cketei
 aliases:
   - Izzy
 ---

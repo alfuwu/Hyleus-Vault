@@ -7,20 +7,14 @@ tags:
   - Intrinsic-Magic
   - Spellcaster
   - Soul-Mage
-  - Monolithic-Order
-  - Monolith
 aliases:
   - Alfred Tonic
   - Alfred
   - Alfy
-  - Alfuwu
-  - Derfla tes Cinot
-  - Derfla Cinot
   - Derfla
   - Cade
-  - Alfy the Fifth
 ---
-Alfred set Tonic (born 02/06/2629 [[HUN Calendar|ME]]), lover of [[Ezkli Reday]], is famous in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capabilities of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic is a [[Demon]] who has expressed a great desire and capability to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]]. Alfred Tonic is one of the Monoliths of the [[Monolithic Order]].
+Alfred set Tonic (born 02/06/2629 [[HUN Calendar|ME]]) is one of the most famous [[Demon|demons]] in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capabilities of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic has expressed a great desire and capability to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]].
 
 His [[intrinsic magic]] is tied to the [[authority]] over the [[domain]] of {{REDACTED}}.
 
@@ -32,7 +26,7 @@ Physically, Alfred looks quite similar to a [[human]], having white skin and red
 When not using the transformative [[Classical Spellcasting|spell matrix]] he created to hide his obviously demonic features, he has a pair of extremely dark blue wings, a spade tail of the same color, and his fingers end in claws instead of nails.
 
 ### Personality
-Mr. Tonic tries to maintain an optimistic outlook on life in spite of his [[Demon|demonic]] origins. He does not have any of the typical trappings of a [[Demon]], such as but not limited to sadism, masochism, lust, greed, envy, or wrath, though the stereotypes that have followed him through [[human]] society in [[Drastevarde]] have lead to him to developing a transformative [[Classical Spellcasting|spell matrix]] that removes his more obviously [[Demon|demonic]] features, such as the spade tail, the claws, and the wings.
+Alfred tries to maintain an optimistic outlook on life in spite of his [[Demon|demonic]] origins. He does not have any of the typical trappings of a [[Demon]], such as but not limited to sadism, masochism, lust, greed, envy, or wrath, though the stereotypes that have followed him through [[human]] society in [[Drastevarde]] have lead to him to developing a transformative [[Classical Spellcasting|spell matrix]] that removes his more obviously [[Demon|demonic]] features, such as the spade tail, the claws, and the wings.
 
 Alfred is rather socially inept and struggles with carrying on [[human]] conversation with small talk, often finding himself preferring the company of [[Serran|serrans]] instead. However, he is also brilliantly talented when it comes to [[classical spellcasting]] (aside from [[Classical Spellcasting|alchemy]], of which he has little interest in) and very passionate about his craft. He particularly enjoys exploring the [[mortal plane]], something he had wished to do since he was but a small child in [[Hell]].
 
@@ -49,14 +43,14 @@ Alfred grew very close to his sister [[Slyprae set Tonic]] during his childhood,
 As a child of [[Hell]], Alfred frequently wandered away from his household, sneaking into libraries and ritual halls where spell matrices were inscribed into walls and stone. He had little interest in the power struggles of demonic courts, preferring instead to trace runes and attempt small-scale spell constructions on scraps of parchment. He would frequently ignore the rules set by his parents to do so.
 
 ### Youth
-Early in Alfred's youth, around age 10, his [[psychoticism]] manifested. News of the [[Hell|Hells]]-blessed [[Demon]] spread like hellfire throughout the plane, propelling Alfred from a once-in-a-lifetime magical talent to a first-in-history
+Early in Alfred's youth, around age 10, his [[psychoticism]] manifested. News of the [[Hell|Hells]]-blessed [[Demon]] spread like hellfire throughout the plane, propelling Alfred from a once-in-a-lifetime magical talent to a first-in-history 
 
 About when he was 15 years of age, he used his family's mana well to power a transplanar [[Classical Spellcasting|spell matrix]] to send himself to the [[mortal plane]] as a way to escape from his family. He brought his younger sister, [[Slyprae set Tonic]] along with him.
 
 The transplanar spell, naturally, set off many wards within the Tonicar house, and stirred up a massive ruckus. However, those wards were made to guard against someone going *in*, not against someone going *out*. Thus, Alfred and [[Slyprae set Tonic|Slyprae]] managed to escape their family and venture out into the wider world.
 
 ### Romance
-Alfred and [[Ezkli Reday|Ezkli]] met in a ruined observatory on the [[Island Nation of Joculen]], both trespassing. Alfred was looking for broken [[Classical Spellcasting|spell matrices]] to study, while [[Ezkli Reday|Ezkli]] was trying to dismantle a star-mapping device for parts. Upon running into each other, they argued over how best to repair it, then spent three nights restoring the machine to working order.
+Alfred and [[Ezkli Reday|Ezkli]] met in a ruined observatory on the [[Island Nation of Joculen]], both trespassing. Alfred was looking for broken [[Classical Spellcasting|rituals]] to study, his weakest area of [[Classical Spellcasting|classical magic]] barring [[Classical Spellcasting|alchemy]], while [[Ezkli Reday|Ezkli]] was trying to dismantle a star-mapping device for parts. Upon running into each other, they argued over what was best to do with the machine, then spent three nights restoring the machine to working order.
 
 The two then took this star-mapping device back with them to the capital of [[Island Nation of Joculen|Joculen]], just before [[The Fractured|the Fracturing]] occurred.
 
@@ -66,7 +60,7 @@ Alfred's reputation as a scholar began with his contributions to [[Animancy]]. T
 Though rather uninterested in [[Classical Spellcasting|alchemy]], he was a voracious student of nearly every other magical discipline he was capable of learning.
 
 ### Affiliations
-Alfred is one of the Monoliths of the [[Monolithic Order]].
+...
 
 ### Current
-The aftermath of [[the Fractured]] is what prompted Alfred to collect his closest colleagues to initiate the [[Monolithic Order]]. Notably, he did not include his sister, [[Slyprae set Tonic|Slyprae]], as one of the founding members of the [[Monolithic Order|Order]].
+...

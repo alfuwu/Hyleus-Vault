@@ -11,7 +11,7 @@ The human body consists of a skeletal structure supporting the muscles and tendo
 Many great men and women were human throughout history. This list shall be separated into a contemporary and historical section in order to lessen verbosity.
 
 ### Contemporary
-The Reday twins, [[Ezkli Reday]] and [[Tarik Reday]], are some of the most famous humans on the planet. Their powerful militaristic capabilities, paired with their status as two of the four Monoliths of the [[Monolithic Order]], has cemented their status as some of the most powerful humans to have ever existed.
+The Reday twins, [[Ezkli Reday]] and [[Tarik Reday]], are some of the most famous humans on the planet. Their powerful militaristic capabilities has cemented their status as some of the most powerful humans in the [[Modern Era]].
 
 ### Historical
 [[Martyr Zuun Gao]], perhaps the most powerful [[Psychoticism|psychic]] to walk the planet, was a human. Her work revolutionized the field of [[psychoticism]] and was one of the key factors in a wide public shift in perception towards the ability. [[Alfred set Tonic]] has expanded upon her work in the time since, though most of his attention remains firmly within [[Animancy]].

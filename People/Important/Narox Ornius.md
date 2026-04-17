@@ -5,8 +5,6 @@ tags:
   - Iolu
   - Intrinsic-Magic
   - Blood-Mage
-  - Monolithic-Order
-  - Cketei
 aliases:
   - Narox
 ---

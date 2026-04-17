@@ -5,8 +5,6 @@ tags:
   - Demon
   - Spellcaster
   - Blood-Mage
-  - Monolithic-Order
-  - Cketei
 aliases:
   - Slyprae Tonic
   - Slyprae

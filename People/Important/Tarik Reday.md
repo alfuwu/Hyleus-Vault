@@ -5,8 +5,6 @@ tags:
   - Human
   - Intrinsic-Magic
   - Genetic-Magic
-  - Monolithic-Order
-  - Monolith
 aliases:
   - Tarik
   - Taki

@@ -1,0 +1,1 @@
+The sixth planet from [[the Sun]], Azuron is a large gas giant orbiting 11.083442 AU away from the star.

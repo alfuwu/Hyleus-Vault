@@ -30,6 +30,6 @@ Melanie was a [[fae]] born with the gift of [[intrinsic magic]], yet also the cu
 
 
 ### Affiliations
-Melanie had high-up connections with the [[Monolithic Order]] until rather recently, when she got into a fight with two of the four Monoliths. She was then excommunicated from the Order, though [[Ezkli Reday]] kept up contact with Melanie until her untimely death.
+Melanie had personal connections with [[Alfred set Tonic]], [[Ezkli Reday]], [[Kate Askerō]], [[Tarik Reday]], and [[Narox Ornius]] until rather recently, when she got into a fight with [[Alfred set Tonic]] and [[Tarik Reday]]. Afterwards, only [[Ezkli Reday]] kept up contact with Melanie until her untimely death, though [[Alfred set Tonic]] would have kept up contact had she apologized.
 
 Melanie had no other affiliations with any organization.

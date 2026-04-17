@@ -21,7 +21,7 @@ tags:
 - [[Lili Soul|Lili]] finds the cult just as they begin undoing the seal on [[Lhuunkzar]], and grabs the [[Shard of Divinity]] in order to stop them, despite the risks to herself as an [[Angel]].
 - [[Fel of the Abyss|Fel]] shows up again, grabs the [[Shard of Divinity|Shard]], and stabs [[Lili Soul|Lili]] with it.
 - When [[Lili Soul|Lili]] wakes up afterwards, [[Fel of the Abyss|Fel]] hands her [[Inex]] before leaving before she attempts to cut his head off.
-- [[Lili Soul|Lili]] goes into hiding because of her new status as a [[Angel|fallen angel]] and attempts to sort through all of the new emotions and sensations she was experiencing. She ends up running into [[Alfred set Tonic]], who brings her to the [[Monolithic Order]]'s headquarters within the [[Empire of Gen]].
+- [[Lili Soul|Lili]] goes into hiding because of her new status as a [[Angel|fallen angel]] and attempts to sort through all of the new emotions and sensations she was experiencing. She ends up running into [[Alfred set Tonic]]
 - ...
 
 ————————————————
@@ -84,7 +84,7 @@ Directly inside the building lay a counter, manned by another angel. He was tall
 
 Lili wordlessly exposed the portion of her soul bearing Deimos' signature to the man, who nodded after a brief inspection, confirming that she was indeed an angel, and gestured down the hall.
 
-"The Mortal Plane, I take it?" he asked.
+"The mortal plane, I take it?" he asked.
 
 Lili nodded. "Yup. Omuaru," she said curtly, walking through the building and towards the area housing all the transplanar teleporters, leaving the angel at the counter behind. The hallway was full of doors promising transport to all the major cities of the world, from Valey to Ion to Vaeskdeyta.
 

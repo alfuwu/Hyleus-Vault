@@ -32,7 +32,7 @@ Fel revels in showmanship, throwing people off-balance, and the spotlight. Some 
 An example of what Fel tends to do can be seen in the time when a nation put a bounty on Fel's head: he stole every last wanted poster and deposited them on the king's bed while they were asleep, before waiting for the man to wake up to see his reaction.
 
 ### Affiliations
-Fel appears to have some sort of connection to the Monoliths of the [[Monolithic Order]].
+Fel appears to have some sort of connection to the .
 He also made contact with [[Lili Soul]] when she came into contact with the [[Shard of Divinity]] in [[Obuandu]], giving her [[Inex]].
 
 ### Known adventures

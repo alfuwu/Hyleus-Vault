@@ -8,7 +8,7 @@ The serrans are insectoid-like humanoid creatures. They vary in appearance, but 
 These creatures are often regarded as majestic and cute, which is further emboldened by the immensely high percentage of serrans who dedicate their lives to forging a better society for their young. This has caused many of the serran-dominant nations strife with nations that are more [[human]]-dominant, as they tend to be extremely progressive compared to [[Human|humans]].
 
 ## Notable Persons
-[[Kate Askerō]] is one of the most well-known serrans to exist, being one of the four Monoliths of the [[Monolithic Order]].
+[[Kate Askerō]] is one of the most well-known serrans to exist.
 
 ---
 

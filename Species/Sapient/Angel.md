@@ -22,7 +22,7 @@ Angels are ageless, though not immortal. Their primary antithesis are the [[Demo
 
 **Population Distribution:**
 - Estimated global population: ~300 million (roughly 2.6% of total sapient population)
-- Mostly found on the [[plane]] of [[Heaven]]
+- Mostly found in the [[plane]] of [[Heaven]]
 
 **Biological Rarity Metrics:**
 - **[[Intrinsic Magic]]**: N/A​

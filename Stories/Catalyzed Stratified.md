@@ -13,7 +13,26 @@
 - ...
 - [[Fel of the Abyss|Fel]] escapes from [[the Abyss]] a changed man. He has undergone immense hardships and came back from the brink of total despair, and in the process obtained vast cosmic power. His personality has shifted towards a disposition almost polar opposite to his past baker self; the personality of a trickster; a man of cunning and showmanship.
 - ...?
-- Detail various adventures [[Fel of the Abyss|Fel]] has undergone. Show him creating [[Inex]], and then later giving the weapon to [[Lili Soul]].
+- Detail various adventures [[Fel of the Abyss|Fel]] has undergone. Show him creating [[Inex]], and then later giving the weapon to [[Lili Soul]](?)
+
+————————————————
+
+The worst day of Fellucko's life is upon him. A Third Great Evil emerges right atop of the capital city of the greatest empire in the world—and also his home—and it's deadlier than both of the previous two combined.
+
+With his sole friend Icko his only companion in a suddenly very dangerous situation, the weight of Oblivion pressing down upon him, and perhaps maybe a poorly-understood ability to unwind time itself, Fellucko will need to seriously change his game plan if he wishes to make it out alive.
+
+What to expect:
+- Lots of dying
+- Psychological and physical trauma
+- Good grammar (hopefully)
+- A time loop(ish) ability that does not protect the main character from death
+- A very intelligent main character forced to adapt to survive
+
+What NOT to expect:
+- Harem
+- LitRPG
+- Infinite time loops
+- Me solving time paradoxes
 
 ————————————————
 
@@ -50,7 +69,7 @@ Suddenly feeling a little frustrated and more than a bit useless, the woman exit
 
 The loaves of bread steamed in the fire-hot oven, the smell gradually wafting out like an omen of happy days and good times. The charismatic young man working the bakery late in the evening enjoyed the tranquility and stillness that came in the later hours of the day, savoring the cozy quiet stemming from the fact that only a few customers loitered around at this late a hour.
 
-His name was Fellucko Mec Yridis, the Yridis bit meaning "stalwart" in Ckretion.
+His name was Fellucko Mec Yridis, the Yridis bit meaning "stalwart" in Ckretion. His family bore the title with pride.
 
 The bell outside the bakery rung once, twice, thrice, and then a few more times after that, indicating a customer entering the building. Fellucko looked up and broke into a smile upon seeing who it was. A girl stood in the entryway, her long golden hair damp and her blazer wet from the rain pattering outside. She had clearly come over in a rush; her hair stuck out in all manner of directions, licked by the wind, and was still panting.
 
