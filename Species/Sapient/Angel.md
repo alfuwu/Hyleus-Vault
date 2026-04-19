@@ -18,6 +18,8 @@ Angelic naming convention consists of a first name and a surname, with the first
 
 Angels are ageless, though not immortal. Their primary antithesis are the [[Demon|demons]], and vice-versa.
 
+The [[soul]] of an angel is grown by way of angel trees, which must be fed [[essence]] in order to congeal new [[Soul|souls]]. The body is then created by simply feeding the newborn [[angel]]'s [[soul]] more [[essence]] yet, which it transforms through the blueprint layer of itself to construct the physical body. After this, the patron [[deity]] must then imprint upon the newborn [[angel]] by infusing their [[soul]] with a small amount of [[divinity]], concluding the birth of a new [[angel]].
+
 ---
 
 **Population Distribution:**

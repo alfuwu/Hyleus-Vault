@@ -6,5 +6,5 @@ tags:
   - Blood-Mage
 aliases:
   - Kiwi
-  - Rina's Food Resource
+  - Rina's Food Source
 ---

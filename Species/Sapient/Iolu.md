@@ -17,7 +17,7 @@ As the iolu remain remarkably similar to [[Human|humans]], they remain sexually 
 ## Culture
 Iolu culture is, in many ways, utterly alien to the culture of the [[Human|humans]] in which the iolu developed alongside. Many cultural norms, especially those revolving around sexual reproduction, would be and have been met with scorn and contempt by other sapients in the past. For example, it is considered normal for a couple to consume the blood of the other, and to savor the taste. Most [[Human|humans]] would find the concept of eating their significant other, even if only a little, to be revolting.
 
-Unlike most other species, the iolu possess a species-wide capital city known as Voskdeyta. This city is located within [[todo]], on the westernmost coast of [[Drastevarde]], north of the [[Annaq'Fraedar]].
+Unlike most other species, the iolu possess a species-wide capital city known as Voskdeyta. This city is located within [[Tenevitale]], on the northern side of the westernmost coast of [[Drastevarde]].
 
 ## Notable Persons
 [[Salrune]], [[Rina Ougais]]
@@ -26,7 +26,7 @@ Unlike most other species, the iolu possess a species-wide capital city known as
 
 **Population Distribution:**
 - Estimated global population: ~200-300 million (roughly 2.2% of total sapient population)
-- Largest concentrations found in the western reaches of [[Drastevarde]] and scattered throughout [[Anto]]
+- Largest concentrations found in the northwestern reaches of [[Drastevarde]] and scattered throughout [[Anto]]
 - Minority populations exist in all major cities worldwide, with a majority population in their capital, Voskdeyta
 
 **Biological Rarity Metrics:**

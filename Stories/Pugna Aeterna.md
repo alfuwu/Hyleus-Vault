@@ -7,7 +7,7 @@
 
 Before Senn and her brother, Woq, lay an wretched abomination, a mar upon all that which was holy.
 
-A perfect, unblemished sphere of reddish-purple adamantium, mixed with the holy gold of celestium, encompassed one of the largest fragments of primordial divinity either of the twins had ever bore witness to. Concentric rings orbited the metal orb, glowing with pure gilded light.
+A perfect, unblemished sphere of reddish-purple adamantium, mixed with the holy gold of celestinium, encompassed one of the largest fragments of primordial divinity either of the twins had ever bore witness to. Concentric rings orbited the metal orb, glowing with pure gilded light.
 
 Attached to the repugnant construct were two massive wings of crimson blood, a mockery of the sanctity of an angel.
 

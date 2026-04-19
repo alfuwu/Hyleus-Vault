@@ -4,30 +4,26 @@ A list of as-of-yet-unused names.
 - Rael
 - Zefærg
 - Oroblen
-- Lsyin
-- Uentzi
 - Sethyrs
 - Deithyr
 - Iahu
 - Iahi
-- Crosk
 - Sirius Li
 - Nramyg
-- Gruesius
 - For J. Aidentiti (For Jed Identity; Forged Identity)
 - Backstaberius Falsehoodspeaker
 - Abbad Skellington (A Bad Skeleton)
-- Delgrado
-- Bagon
 - Sazanne
 - Zelex
 - Padma
 - Heima
 - Phautorium/Phautorius
 - Raum (unit of measurement)
+- Nazca
+- Calladin
 
 A list of names with an assigned use but no formal, fleshed out document yet.
-- Naora: Girl. Healer? Xe'tunig.
+- Naora: Girl. Healer? Ne'zuni.
 - Vivis Zvieytymn: A [[fae]] warlord who united the disparate [[fae]] kingdoms to form the [[the Imperial Fraedate]].
 - Krod: A dork. He likes trees.
 - Jarn: A survivor of [[The Fractured|the Fracturing]].

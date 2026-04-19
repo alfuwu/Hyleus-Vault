@@ -4,39 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "f1902b0600e97c61",
+        "id": "b418d8fe75f31a19",
         "type": "tabs",
         "children": [
           {
-            "id": "3bba147e0a1df07e",
+            "id": "a29bdd724cca13d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Important/Kiro.md",
+                "file": "People/Historical/Zuun Gao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kiro"
+              "title": "Zuun Gao"
             }
           },
           {
-            "id": "4fae4359f491938e",
+            "id": "be4bb8c432d3e4f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Vital Magic.md",
+                "file": "People/Important/Avissa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vital Magic"
+              "title": "Avissa"
+            }
+          },
+          {
+            "id": "3920993fbccfba56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Historical/Xorvas the Undying.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xorvas the Undying"
+            }
+          },
+          {
+            "id": "2e9045a916c5661f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unused Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unused Names"
+            }
+          },
+          {
+            "id": "6c38cb8ea79f9a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Bazif Credinga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bazif Credinga"
+            }
+          },
+          {
+            "id": "09fef53299fde7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Pixel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pixel"
+            }
+          },
+          {
+            "id": "c4988ff3d0157bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Species/Sapient/Ne'zuni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ne'zuni"
+            }
+          },
+          {
+            "id": "ec96d9d6fa5e3a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Important/Miu Tonic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miu Tonic"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Vital Magic.md",
+                "file": "Units of Measurement/HUN Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vital Magic"
+              "title": "Backlinks for HUN Calendar"
             }
           },
           {
@@ -194,53 +278,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f6acbe404fb81f9",
+  "active": "c4988ff3d0157bc6",
   "lastOpenFiles": [
-    "Species/Sapient/Angel.md",
-    "Untitled.base",
-    "Species/Sapient/Demon.md",
-    "Geography/Planes/Void.md",
-    "Magic/Vital Magic.md",
-    "Magic/Evils/The Abyss.md",
-    "Geography/Planes/Plane.md",
-    "Magic/Evils/Great Evil.md",
-    "Stories/False Divinity.md",
-    "Geography/Planes/Czite Axis.md",
-    "Magic/Animancy.md",
-    "Geography/Star System/Planets/Payu.md",
-    "Species/Sapient/Iolu.md",
-    "Geography/Star System/Dwarf Planets/Dwarf Planet 1.md",
-    "Geography/Star System/Planets/Ceres.md",
-    "Geography/Star System/The Sun.md",
-    "Geography/Star System/Planets/Vorcas.md",
-    "Geography/Star System/Planets/Kalita.md",
-    "Geography/Star System/Planets/Azuron.md",
-    "Geography/Star System/Planets/Savdae.md",
-    "Geography/Star System/Planets/Hyleus.md",
-    "Geography/Star System/Planets/Osla.md",
     "Meta/Unused Names.md",
-    "Geography/Star System/Planets/Izraexi.md",
+    "People/Important/Pixel.md",
+    "People/Important/Zarzz Lsyin.md",
+    "People/Important/Bazif Credinga.md",
+    "Species/Sapient/Ne'zuni.md",
+    "People/Important/Miu Tonic.md",
+    "Geography/Realms/The Imperial Fraedate.md",
+    "People/Deities/Archdeities/Uentzi.md",
+    "History/Wars/Great Hell Wars.md",
+    "People/Deities/Archdeities/Btrielix.md",
+    "Species/Sapient/Angel.md",
+    "People/Deities/Archdeities/Jik.md",
+    "People/Deities/Intermediate Deities/Hakscles.md",
+    "People/Deities/Archdeities/Beebo.md",
+    "People/Deities/Archdeities/Deimos.md",
+    "Species/Sapient/Deity.md",
+    "Magic/Mana.md",
+    "People/Deities/Archdeities/He.md",
+    "History/Wars/Irigrian Revolution.md",
+    "Species/Sapient/Iolu.md",
+    "History/Wars",
+    "History",
+    "Languages/Aoi.md",
+    "Magic/Materials/Adamantium.md",
+    "Languages/Ven.md",
+    "People/Related/Senn & Woq/Orgorgan.md",
+    "Magic/Evils/Anchors/Oblivion.md",
+    "Magic/Evils/Anchors/The Long Hunger.md",
+    "Pasted image 20260419021323.png",
+    "Geography/Cities",
+    "Untitled.base",
     "Meta/Images/Celestial Objects/Hyleus (Terrestrial Plants).png",
     "Meta/Images/People",
     "Meta/Images/Geography",
     "Meta/Images/Celestial Objects",
     "Meta/Images/Celestial Objects/Hyleus (Daytime).png",
     "Meta/Images/Celestial Objects/Hyleus (Sunset).png",
-    "Geography/Star System/Stellar Neighborhood.md",
     "Geography/Star System/Dwarf Planets",
     "Geography/Star System/Planets",
-    "Geography/Star System/Kepler Belt.md",
-    "Geography/Star System/Kuiper Belt.md",
     "Pasted image 20260416143626.png",
     "Pasted image 20260416124514.png",
     "Geography/Star System",
     "Meta/Images/People/Lili Soul.png",
     "Meta/Images/People/Bax Deroydta.png",
     "Meta/Images/Geography/Tectonics.png",
-    "Meta/Images/Geography/Realistic World.png",
-    "Meta/Images/People/Miu Tonic.png",
-    "Meta/Draft Stories",
-    "People/Important/Heroes",
-    "Internet/Social Media"
+    "Meta/Images/Geography/Realistic World.png"
   ]
 }

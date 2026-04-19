@@ -2,7 +2,7 @@
 tags:
   - Person
   - Historical
-  - Xe-tunig
+  - Ne-zuni
   - Deceased
 ---
 \[No content available]
