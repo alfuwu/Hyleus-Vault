@@ -92,35 +92,91 @@
             }
           },
           {
-            "id": "c4988ff3d0157bc6",
+            "id": "4710bbfbab3b12ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Sapient/Ne'zuni.md",
+                "file": "Magic/Authority.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ne'zuni"
+              "title": "Authority"
             }
           },
           {
-            "id": "ec96d9d6fa5e3a6b",
+            "id": "19100c02aef67f5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Important/Miu Tonic.md",
+                "file": "Magic/Essence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Miu Tonic"
+              "title": "Essence"
+            }
+          },
+          {
+            "id": "797fdacf354fdb89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Deities/Archdeities/Btrielix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Btrielix"
+            }
+          },
+          {
+            "id": "39ad47ebb866de37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic/Animancy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Animancy"
+            }
+          },
+          {
+            "id": "4d6dadc588a791e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Unused Names.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unused Names"
+            }
+          },
+          {
+            "id": "d0a4bd93a8f0a547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Star System/Planets/Hyleus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyleus"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -278,18 +334,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4988ff3d0157bc6",
+  "active": "4d6dadc588a791e1",
   "lastOpenFiles": [
-    "Meta/Unused Names.md",
+    "Magic/Animancy.md",
+    "People/Deities/Archdeities/Btrielix.md",
+    "Magic/Essence.md",
+    "Magic/Authority.md",
     "People/Important/Pixel.md",
+    "Geography/Star System/Planets/Hyleus.md",
+    "Geography/Star System/Kepler Belt.md",
+    "People/Important/Miu Tonic.md",
+    "Geography/Cities/Omuaru.md",
+    "Geography/Cities/Voskdeyta.md",
+    "Species/Sapient/Ne'zuni.md",
+    "Meta/Unused Names.md",
     "People/Important/Zarzz Lsyin.md",
     "People/Important/Bazif Credinga.md",
-    "Species/Sapient/Ne'zuni.md",
-    "People/Important/Miu Tonic.md",
     "Geography/Realms/The Imperial Fraedate.md",
     "People/Deities/Archdeities/Uentzi.md",
     "History/Wars/Great Hell Wars.md",
-    "People/Deities/Archdeities/Btrielix.md",
     "Species/Sapient/Angel.md",
     "People/Deities/Archdeities/Jik.md",
     "People/Deities/Intermediate Deities/Hakscles.md",
@@ -299,15 +362,8 @@
     "Magic/Mana.md",
     "People/Deities/Archdeities/He.md",
     "History/Wars/Irigrian Revolution.md",
-    "Species/Sapient/Iolu.md",
     "History/Wars",
     "History",
-    "Languages/Aoi.md",
-    "Magic/Materials/Adamantium.md",
-    "Languages/Ven.md",
-    "People/Related/Senn & Woq/Orgorgan.md",
-    "Magic/Evils/Anchors/Oblivion.md",
-    "Magic/Evils/Anchors/The Long Hunger.md",
     "Pasted image 20260419021323.png",
     "Geography/Cities",
     "Untitled.base",

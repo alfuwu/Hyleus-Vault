@@ -21,6 +21,9 @@ A list of as-of-yet-unused names.
 - Raum (unit of measurement)
 - Nazca
 - Calladin
+- Lutzelfrau
+- Corvalis
+- Katzen
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer? Ne'zuni.
