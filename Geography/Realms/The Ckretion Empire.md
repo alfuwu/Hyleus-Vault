@@ -10,7 +10,7 @@ tags:
   - Collapsed
   - Absolute-Monarchy
 ---
-The Ckretion Empire is an ancient kingdom that was been ravaged by time. It fell in the year 972 [[HUN Calendar|ME]] due to a confluence of forces, the primary of which being the emergence of the [[Magic/Evils/The Abyss|Great Evil of the Abyss]], the 3rd [[Great Evil]] directly on top of their capital city.
+The Ckretion Empire is an ancient kingdom that was been ravaged by time. It fell in the year 972 [[Astana Calendar|ME]] due to a confluence of forces, the primary of which being the emergence of the [[Magic/Evils/The Abyss|Great Evil of the Abyss]], the 3rd [[Great Evil]] directly on top of their capital city.
 
 Ackalus is the capital of the Ckretion empire.
 

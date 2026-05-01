@@ -9,4 +9,4 @@ aliases:
   - Agent Rome
   - Romelius
 ---
-Romelius le Fansen (born 13/12/2626 [[HUN Calendar|ME]]), descendant of the ancient le Fansen noble lineage, is an operative under the [[]] government.
+Romelius le Fansen (born 13/12/2626 [[Astana Calendar|ME]]), descendant of the ancient le Fansen noble lineage, is an operative under the [[]] government.

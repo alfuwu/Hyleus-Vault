@@ -28,4 +28,4 @@ About 1 in 400,000 [[Human|humans]] have been observed to possess a connection s
 
 Psychoticism is notable in that every species is rather equal when it comes to the rarity of developing the ability—inherently magical creatures are no more entitled to the power of psychoticism than a common [[human]] layman.
 
-Up until about 2500 [[HUN Calendar|ME]], psychoticism was considered heretical and a violation of the sanctity of mind. While it is still considered a violation of the sanctity of mind if used for nefarious ends, the mere act of possessing a connection to the [[Psychic Leyline]] is no longer grounds for capital punishment.
+Up until about 2500 [[Astana Calendar|ME]], psychoticism was considered heretical and a violation of the sanctity of mind. While it is still considered a violation of the sanctity of mind if used for nefarious ends, the mere act of possessing a connection to the [[Psychic Leyline]] is no longer grounds for capital punishment.

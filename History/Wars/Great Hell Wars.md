@@ -1,13 +1,13 @@
-The Great Hell Wars are a series of long and bloody wars, fought by regular mortals and ascendants side-by-side, that took place roughly from 5000 [[HUN Calendar|KE]] to 100 [[HUN Calendar|KE]].
+The Great Hell Wars are a series of long and bloody wars, fought by regular mortals and ascendants side-by-side, that took place roughly from 5000 [[Astana Calendar|KE]] to 100 [[Astana Calendar|KE]].
 
 ## Cause
-At about 5000 [[HUN Calendar|KE]], when more [[Deity|deities]] began to appear in the world as the population expanded, they collectively decided to create the [[Angel|angels]] to help manage the growing needs and demands of the planet, in addition to helping fight against the dark [[Deity|deities]] such as [[Nzlietch]].
+At about 5000 [[Astana Calendar|KE]], when more [[Deity|deities]] began to appear in the world as the population expanded, many of them came together and decided to create the [[Angel|angels]] to help manage the growing needs and demands of the planet, in addition to helping fight against the dark [[Deity|deities]] such as [[Nzlietch]].
 
-The dark [[Deity|deities]], naturally, did not like this, and so [[Nzlietch]] concocted a plan to steal hegemony over the Hyleus supercluster away from [[Heaven]]. First, he created the [[Demon|demons]], by capturing live [[Angel|angels]] and experimenting on them, along with many other samples taken from the mortal races. This helped undermine the need for [[Deimos]], a vital step for the [[Deity|dark deities]] considering the fact that [[Deimos]] would never help them.
+The dark [[Deity|deities]], rather naturally, did not like this, and so [[Nzlietch]] concocted a plan to steal hegemony over the Hyleus supercluster away from [[Heaven]]. First, He created the [[Demon|demons]], by capturing live [[Angel|angels]] and experimenting on them, along with many other samples taken from the mortal races. This helped undermine the need for [[Deimos]], a vital step for the dark [[Deity|deities]] considering the fact that [[Deimos]] would never assist them in any manner.
 
-Using the data gathered from the experimentations, [[Nzlietch]] created his first [[demon]]. It was a pitifully weak creature, especially when compared to the [[Angel|angels]] it was based off of, but [[Nzlietch]] had time, and so He continued His inhumane experimentations, now with the progenitor [[demon]] included in the mix.
+Using the data gathered from the experimentations, [[Nzlietch]] created His first [[demon]]. It was a pitifully weak creature, especially when compared to the [[Angel|angels]] it was based off of, but [[Nzlietch]] had time, and so He continued His inhumane experimentations, now with the progenitor [[demon]] included in the mix.
 
-Over many, many iterations and dozens of years, [[Nzlietch]] finally obtained a result He deemed acceptable, and set to work on the next part of His project: a home [[plane]] of His own making, free from the many eyes of [[Heaven]]. The instant He created this new [[plane]], notice would be unavoidable, and so He had had to make the [[Demon|demons]] first.
+Over many, many iterations and dozens of years, [[Nzlietch]] finally obtained a result He deemed acceptable, and set to work on the next part of His project: a home [[plane]] of His own making, free from the many eyes of [[Heaven]]. The instant He created this new [[plane]], notice would be unavoidable, and so this was why He had had to make the [[Demon|demons]] first; a defense force for His new [[plane]].
 
 [[Nzlietch]] had already spent many decades studying the Firmament of Hyleus, alongside the dimensional makeup of [[Heaven]] itself. With the help of [[Uentzi]], [[Nzlietch]] formed the [[plane]] of [[Hell]] and tied it to the Hyleus supercluster.
 

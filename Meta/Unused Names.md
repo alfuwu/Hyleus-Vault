@@ -3,20 +3,20 @@ A list of as-of-yet-unused names.
 - Valavice
 - Rael
 - Zefærg
+- Lsyin
 - Oroblen
-- Sethyrs
 - Deithyr
 - Iahu
 - Iahi
-- Sirius Li
 - Nramyg
+- Sirius Li
 - For J. Aidentiti (For Jed Identity; Forged Identity)
-- Backstaberius Falsehoodspeaker
 - Abbad Skellington (A Bad Skeleton)
+- Backstaberius Falsehoodspeaker
+- Yor Guhlibel
 - Sazanne
 - Zelex
 - Padma
-- Heima
 - Phautorium/Phautorius
 - Raum (unit of measurement)
 - Nazca
@@ -24,6 +24,10 @@ A list of as-of-yet-unused names.
 - Lutzelfrau
 - Corvalis
 - Katzen
+- Mashka
+- Aztophel
+- Ralnx
+- Meidenbauer
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer? Ne'zuni.

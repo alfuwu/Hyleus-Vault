@@ -6,4 +6,4 @@ tags:
   - Psychic
   - Deceased
 ---
-Coda (born 17/10/1706 [[HUN Calendar|ME]], died 27/03/2274 [[HUN Calendar|ME]]),
+Coda (born 17/10/1706 [[Astana Calendar|ME]], died 27/03/2274 [[Astana Calendar|ME]]),

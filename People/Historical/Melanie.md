@@ -9,7 +9,7 @@ aliases:
   - Melanie
   - Mel
 ---
-Melanie (born 06/13/2608 [[HUN Calendar|ME]], died 09/06/2653 [[HUN Calendar|ME]])
+Melanie (born 06/13/2608 [[Astana Calendar|ME]], died 09/06/2653 [[Astana Calendar|ME]])
 
 ### Physical Description
 Melanie was above-average female [[fae]] height, standing at a crisp 4′8″ (146 cm).

@@ -7,7 +7,7 @@ Notes:
 
 # On The Nature of Mana
 ## Written by [[Lunærgen Sø-Bryu]]
-## Published 0003 [[HUN Calendar|KE]]
+## Published 0003 [[Astana Calendar|KE]]
 
 This paper argues that [[mana]] is not solely manipulable by those blessed enough to have the [[Intrinsic Magic|engravings]], but rather something accessible to all possessed of enough [[Soul|inner mana]], using a theoretical construct dubbed a "[[Classical Spellcasting|spell matrix]]".
 

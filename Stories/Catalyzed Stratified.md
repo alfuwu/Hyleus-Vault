@@ -1,7 +1,7 @@
 — **Subject**: [[Fel of the Abyss]]
 — **Location**: [[The Ckretion Empire]]'s capital, Ackalus / [[The Abyss]]
 — **Event**: The emergence of [[the Abyss]]
-— **Date**: 972 [[HUN Calendar|ME]]
+— **Date**: 972 [[Astana Calendar|ME]]
 
 ————————————————
 

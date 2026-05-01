@@ -20,4 +20,4 @@ Additionally, the blade can create holes to the [[Void]]. It is highly recommend
 Inex was created by [[Fel of the Abyss|Fel]] shortly he escaped from [[the Abyss]]. Several official records from meetings upon which [[Fel of the Abyss|Fel]] intruded on paint a picture of him lamenting the fact that he had not made the blade sooner, while he was still inside of [[the Abyss]]. He goes on quote to have said, rather plainly: "It would have made my life so much easier."
 
 ## Previous wielders
-- [[Fel of the Abyss]] - 875 [[HUN Calendar|ME]] to 2655 [[HUN Calendar|ME]]
+- [[Fel of the Abyss]] - 875 [[Astana Calendar|ME]] to 2655 [[Astana Calendar|ME]]

@@ -7,4 +7,4 @@ tags:
 
 ————————————————
 
-Ruin fractured [[M]] into two distinct parts: the [[deity]] half and the mortal half. The mortal half is known as [[Meloqzykes]].
+Ruin fractured [[Sethyrs]] into two distinct parts: the [[deity]] half and the mortal half. The mortal half is known as [[Meloqzykes]].

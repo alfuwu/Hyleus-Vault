@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHeart",
+      "LiBook",
       "LiSwords",
       "LiHistory",
-      "LiFile",
-      "LiBuilding2",
-      "LiTrees"
+      "LiFile"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,7 +66,6 @@
   "Stories": "LiScrollText",
   "Eras": "LiArchive",
   "Units of Measurement": "LiPill",
-  "Units of Measurement/HUN Calendar.md": "LiCalendar",
   "Species": "LiCat",
   "People/Important/Lili Soul.md": "LiFlame",
   "People/Important/Rivian.md": "LiBell",
@@ -121,7 +120,6 @@
   "Species/Sapient/Iolu.md": "LiDroplets",
   "Species/Sapient": "LiBrain",
   "Species/Non-Sapient": "LiAsterisk",
-  "People/Important/Rina Ougais.md": "LiFileWarning",
   "People/Important/Furutia Alimondez.md": "LiDiamond",
   "People/Important/Kanthonio Trevballas.md": "LiCreditCard",
   "People/Important/Bax Deroydta.md": "LiFish",
@@ -156,5 +154,8 @@
   "Academic Documents": "LiFile",
   "History": "LiHistory",
   "History/Wars": "LiSwords",
-  "People/Important/Zarzz Lsyin.md": "LiBadge"
+  "Units of Measurement/Astana Calendar.md": "LiCalendar",
+  "People/Important/Zarzz Noxi.md": "LiBadge",
+  "People/Important/Rina Lutzel Tenevitale.md": "LiHeart",
+  "People/Important/Rainrai Heima Tenevitale.md": "LiBook"
 }

@@ -10,7 +10,7 @@ aliases:
   - Ezkli
   - Princess
 ---
-Ezkli Reday (born 10/04/2630 [[HUN Calendar|ME]]), twin sister of [[Tarik Reday]], is [[human]] sorceress, widely regarded as a relatively enigmatic and reclusive person. She is quite talented in [[classical spellcasting]], specifically in [[Classical Spellcasting|spell matrices]], though her real gift lie in the [[Intrinsic Magic|intrinsic magic formation]] she and her twin possess.
+Ezkli Reday (born 10/04/2630 [[Astana Calendar|ME]]), twin sister of [[Tarik Reday]], is [[human]] sorceress, widely regarded as a relatively enigmatic and reclusive person. She is quite talented in [[classical spellcasting]], specifically in [[Classical Spellcasting|spell matrices]], though her real gift lie in the [[Intrinsic Magic|intrinsic magic formation]] she and her twin possess.
 
 Her [[intrinsic magic]] is unique in that it is not unique solely to her, but rather the [[Intrinsic Magic|intrinsic magic formation]] is present on both her and her twin brother's [[Soul|souls]]. It also encompasses two [[Domain|domains]] rather than the usual one/none.
 

@@ -10,7 +10,7 @@ aliases:
   - Taki
   - Takito
 ---
-Tarik Reday (born 10/04/2630 [[HUN Calendar|ME]]), twin brother of [[Ezkli Reday]],
+Tarik Reday (born 10/04/2630 [[Astana Calendar|ME]]), twin brother of [[Ezkli Reday]],
 
 ### Personality
 Tarik is 

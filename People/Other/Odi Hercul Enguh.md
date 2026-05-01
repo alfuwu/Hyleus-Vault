@@ -7,7 +7,7 @@ aliases:
   - Odi
   - Mr. Enguh
 ---
-Odi Hercul Enguh (born 04/08/365 [[HUN Calendar|ME]], remade 16/07/398 [[HUN Calendar|ME]]) has lived a tragic life. A man, once [[human]], forced via [[Animancy|animantic]] rituals into the body of a mechanical construct, becoming a [[unique being]].
+Odi Hercul Enguh (born 04/08/365 [[Astana Calendar|ME]], remade 16/07/398 [[Astana Calendar|ME]]) has lived a tragic life. A man, once [[human]], forced via [[Animancy|animantic]] rituals into the body of a mechanical construct, becoming a [[unique being]].
 
 Before the [[Animancy|animantic]] ritual that completely upended his life, Odi Hercul Enguh had been a farmer, working the fields in [[the Ckretion Empire]]. He had had a wife and children, though he never learned of their fates.
 

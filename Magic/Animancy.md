@@ -5,7 +5,7 @@ tags:
 ---
 Animancy is the art of [[soul]] magic. Everything dealing in [[Soul|souls]] falls under the category of animancy in the magical world.
 
-Animancy comes in many forms: **Resurrection Animancy** (which is often regarded as necromancy), **Offensive Animancy**, **Defensive Animancy**, and **Manipulative Animancy**.
+Animancy comes in many forms: **Resurrection Animancy** (which is often regarded as necromancy), **Offensive Animancy**, **Defensive Animancy**, and **Manipulative Animancy**. It also has other applications outside of these four primary forms, detailed later.
 
 Resurrection animancy, the first developed form of animancy, is the art of creating artificial [[Soul|souls]] to implant into a construct, or, more traditionally, a dead body. The artificial [[soul]] is placed inside (or as close to "inside" a three dimensional object you can get when on different levels of the [[czite axis]]), where it will connect to the body and animate itself. More complexity is added to the field if the animancer wishes to be able to command this construct once animated, as the [[soul]], even if artificial, is a fiercely independent object. These artificial [[Soul|souls]] are extremely weak compared to true [[Soul|souls]], capable of being damaged even by physical attacks. [[Alfred set Tonic]] is the only known non-[[deity]] to have created a true [[soul]].
 

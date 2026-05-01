@@ -7,7 +7,7 @@ tags:
 aliases:
   - The Throne
 ---
-The Bloodied Throne is a dark [[Divinity|divine artifact]] created in the year 2422 [[HUN Calendar|KE]], during the [[Era of the Divine|Divine Era]]. The Throne is a parasitic construct, attaching itself to the [[soul]] of the first being who sits upon it when it has no host.
+The Bloodied Throne is a dark [[Divinity|divine artifact]] created in the year 2422 [[Astana Calendar|KE]], during the [[Era of the Divine|Divine Era]]. The Throne is a parasitic construct, attaching itself to the [[soul]] of the first being who sits upon it when it has no host.
 
 Though its creator is unknown, many assume that it was either [[Nzlietch]] himself or the actions of [[Nzlietch]] that caused its creation.
 
@@ -20,7 +20,7 @@ The method in which the Throne uses to determine which abilities and memories ar
 
 It should be noted that until the Throne claims parasitized hosts to help with its efficiency function, it does **not** strip away ego from a [[soul]]. While the host is living, they retain all memories that the Throne deems "acceptably efficient", and their personality generally does not undergo too significant a change.
 
-When slaying a host, the Throne will attempt to infect the killer in a bid to find an ever-more-strong champion. If it fails to infect the killer, it will go berserk, infecting any and all it can within reach and using them as a sort-of kamikaze drone to suicidally attack the killer in order to strengthen its grip on the killer's [[soul]]. If it still fails, the Throne will go inert and wait until another sits upon it in search of power. The only recorded case of the Throne failing to infect the [[soul]] of a host's killer is in the case of [[Zarzz Lsyin]], who evaded infection through some unknown means, for the Throne reportedly did not even attempt to infect her [[soul]].
+When slaying a host, the Throne will attempt to infect the killer in a bid to find an ever-more-strong champion. If it fails to infect the killer, it will go berserk, infecting any and all it can within reach and using them as a sort-of kamikaze drone to suicidally attack the killer in order to strengthen its grip on the killer's [[soul]]. If it still fails, the Throne will go inert and wait until another sits upon it in search of power. The only recorded case of the Throne failing to infect the [[soul]] of a host's killer is in the case of [[Zarzz Noxi]], who evaded infection through some unknown means, for the Throne reportedly did not even attempt to infect her [[soul]].
 
 If the Throne still fails after using the kamikaze thrall tactic, it will cannibalize the [[essence]] present within their [[Soul|souls]] and any knowledge it deems valuable before discarding the [[Soul|souls]], generally causing them to disintegrate due to the immensely destructive modifications the Throne performs on these [[Soul|souls]].
 

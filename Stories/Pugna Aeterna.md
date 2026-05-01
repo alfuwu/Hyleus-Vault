@@ -1,7 +1,7 @@
 — **Subject**: [[Senn]] and [[Woq]]
 — **Location**: Unnamed subplanar anomaly within the Hyleus Supercluster, anchored to the plane of [[Heaven]]
 — **Event**: The imprisonment of the [[Orgorgan]]
-— **Date**: 2203 [[HUN Calendar|KE]]
+— **Date**: 2203 [[Astana Calendar|KE]]
 
 ————————————————
 

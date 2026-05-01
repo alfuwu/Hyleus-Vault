@@ -14,7 +14,7 @@ aliases:
   - Derfla
   - Cade
 ---
-Alfred set Tonic (born 02/06/2629 [[HUN Calendar|ME]]) is one of the most famous [[Demon|demons]] in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capabilities of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic has expressed a great desire and capability to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]].
+Alfred set Tonic (born 02/06/2629 [[Astana Calendar|ME]]) is one of the most famous [[Demon|demons]] in part due to being one of the precious few to survive ground zero of [[the Fractured]] and in part due to possessing both the capabilities of [[psychoticism]] and [[intrinsic magic]]. Alfred Tonic has expressed a great desire and capability to learn and develop the field of magic, especially that of [[Classical Spellcasting|spell matrices]].
 
 His [[intrinsic magic]] is tied to the [[authority]] over the [[domain]] of {{REDACTED}}.
 

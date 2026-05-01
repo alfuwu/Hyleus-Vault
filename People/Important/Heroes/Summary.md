@@ -1,23 +1,23 @@
 The Heroes, also known as the Party of Heroes, are a group of five individuals who rose to global prominence in the past decade. They are some of the fastest rising mortals in the entirety of the Hyleus supercluster.
 
 They are comprised of the following:
-- The Knight, [[]], the leader of the Party
+- The Knight, [[Beyal]], the leader of the Party
 - The Sorceress, [[]], the foremost mortal expert on warmagics
-- The Saint, [[]]
+- The Saint, [[Mali]]
 - The Rogue, [[Isolde]]
-- The Fortress, [[]]; or, the Punching Bag, as referred to by his teammates
+- The Fortress, [[Alrax]]; or, the Punching Bag, as referred to by his teammates
 
 They slew eight immortal calamities, many of which had been plaguing mortal lands for decades (or in some cases, centuries).
 
 Their conquerings, in order:
-- The Daemonic Crusader                (year .... [[HUN Calendar|ME]])
-- The Apostle of Fate                        (year .... [[HUN Calendar|ME]])
-- The Penumbral Eidolon                  (year .... [[HUN Calendar|ME]])
-- The Hyperborean Archon              (year .... [[HUN Calendar|ME]])
-- The Aztephiolath                            (year .... [[HUN Calendar|ME]])
-- The Demented Celebrant              (year .... [[HUN Calendar|ME]])
-- The Hierophant of the Shattering (year .... [[HUN Calendar|ME]])
-- The Eschatonic Harbinger             (year .... [[HUN Calendar|ME]])
+- The Daemonic Crusader                (year .... [[Astana Calendar|ME]])
+- The Apostle of Fate                        (year .... [[Astana Calendar|ME]])
+- The Penumbral Eidolon                  (year .... [[Astana Calendar|ME]])
+- The Hyperborean Archon              (year .... [[Astana Calendar|ME]])
+- The Aztephiolath                            (year .... [[Astana Calendar|ME]])
+- The Demented Celebrant              (year .... [[Astana Calendar|ME]])
+- The Hierophant of the Shattering (year .... [[Astana Calendar|ME]])
+- The Eschatonic Harbinger             (year .... [[Astana Calendar|ME]])
 
 They are often immortalized in form of poem, with the most famous of which being the following:
 	The First of Eight, the Daemonic Crusader,

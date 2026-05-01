@@ -5,7 +5,7 @@ tags:
 — **Subject**: [[Lili Soul]]
 — **Location**: [[Obuandu]]'s capital city, Omuaru
 — **Event**: The absorption of [[Obuandu]]'s [[Shard of Divinity]]
-— **Date**: 2652 [[HUN Calendar|ME]]
+— **Date**: 2652 [[Astana Calendar|ME]]
 
 ————————————————
 

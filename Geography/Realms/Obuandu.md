@@ -12,7 +12,7 @@ Known for its cultural pluralism, Obuandu is one of the few nations in [[Drastev
 
 ## **Etymology**
 
-The name _Obuandu_ derives from an ancient [[Tarhan|tarhanic]] term *obu andun*, meaning “ground beneath the shared sky." The phrase was historically used to describe mixed settlements formed during the late [[The Ckretion Empire|Ckretion]] period, symbolizing coexistence among early migratory groups. The modern name was standardized following the country's unification in 613 [[HUN Calendar|ME]]
+The name _Obuandu_ derives from an ancient [[Tarhan|tarhanic]] term *obu andun*, meaning “ground beneath the shared sky." The phrase was historically used to describe mixed settlements formed during the late [[The Ckretion Empire|Ckretion]] period, symbolizing coexistence among early migratory groups. The modern name was standardized following the country's unification in 613 [[Astana Calendar|ME]]
 
 ---
 
@@ -22,21 +22,21 @@ The name _Obuandu_ derives from an ancient [[Tarhan|tarhanic]] term *obu andun*,
 
 Archaeological evidence suggests that the fertile Orun River basin was inhabited by early [[human]] settlements as early as 10,000 years ago. [[Tarhan|Tarhanic]] clans entered the region approximately 3,500 years ago, driven southward by prolonged droughts in the Jeienet plains. Early [[Serran|serrans]] are believed to have originated from the humid forests of the northern isles, gradually migrating inland through trade in resin and textile fibers.
 
-### **[[The Ckretion Empire|Ckretion]] Influence (2100 [[HUN Calendar|KE]]–1000 [[HUN Calendar|ME]])**
+### **[[The Ckretion Empire|Ckretion]] Influence (2100 [[Astana Calendar|KE]]–1000 [[Astana Calendar|ME]])**
 
 During the height of [[the Ckretion Empire]], Obuandu existed as a patchwork of vassal provinces supplying grain, dyes, and mercenary levies. The [[The Ckretion Empire|Ckretion]] period left lasting marks on administrative practices, urban planning, and legal traditions. Many Obuanduan cities, including Omuaru and Djesh, are built upon the ruins of [[The Ckretion Empire|Ckretion]] fortresses, and the local language retains a high concentration of [[The Ckretion Empire|Ckretion]] loanwords related to law and governance.
 
-### **The Reformation and the Era of City-States (1000–1200 [[HUN Calendar|ME]])**
+### **The Reformation and the Era of City-States (1000–1200 [[Astana Calendar|ME]])**
 
 The collapse of [[the Ckretion Empire]] precipitated three centuries of political fragmentation. Dozens of independent [[human]], [[tarhan]], and [[phaawa]] city-states emerged, frequently allying and clashing over river trade and farmland. [[Serran|Serrans]], possessing limited territorial ambitions, often served as neutral brokers and caravan organizers. During this era, the notion of *“consensus governance"*—a multi-species council model blending [[Tarhan|tarhanic]] martial hierarchy and [[Phaawa|phaawan]] deliberative tradition—first appeared in Djesh, later influencing Obuandu's republican system.
 
-### **Unification and Early Republic (1213–1550 [[HUN Calendar|ME]])**
+### **Unification and Early Republic (1213–1550 [[Astana Calendar|ME]])**
 
-The modern state of Obuandu was established under [[President-General Wenu Kaar]], a [[Tarhan|tarhanic]] warlord who successfully unified the riverine city-states after the **Treaty of Orun Junction** (1213 [[HUN Calendar|ME]]). The early republic retained a strong military influence but gradually developed civilian institutions modeled after [[Great Jeienet|Jeienet]]'s republicanism. Expansion westward brought fertile lands and [[human]]-majority settlements into the federation, while [[phaawa]] communes in the forest zones negotiated autonomous status.
+The modern state of Obuandu was established under [[President-General Wenu Kaar]], a [[Tarhan|tarhanic]] warlord who successfully unified the riverine city-states after the **Treaty of Orun Junction** (1213 [[Astana Calendar|ME]]). The early republic retained a strong military influence but gradually developed civilian institutions modeled after [[Great Jeienet|Jeienet]]'s republicanism. Expansion westward brought fertile lands and [[human]]-majority settlements into the federation, while [[phaawa]] communes in the forest zones negotiated autonomous status.
 
-### **Colonial and Imperial Pressures (1550–1800 [[HUN Calendar|ME]])**
+### **Colonial and Imperial Pressures (1550–1800 [[Astana Calendar|ME]])**
 
-Obuandu experienced sustained pressure from the expansionist [[The Imperial Fraedate|Imperial Fraedate]] and [[The Trislish Republic|Trislish Empire]]. The *Orun Crisis* (1642 [[HUN Calendar|ME]]) nearly led to partition, but internal unity movements—particularly those led by serran diplomats—secured recognition of neutrality. This era solidified Obuandu's self-image as a “neutral heart" of [[Drastevarde]], valuing balance and negotiation over dominance.
+Obuandu experienced sustained pressure from the expansionist [[The Imperial Fraedate|Imperial Fraedate]] and [[The Trislish Republic|Trislish Empire]]. The *Orun Crisis* (1642 [[Astana Calendar|ME]]) nearly led to partition, but internal unity movements—particularly those led by serran diplomats—secured recognition of neutrality. This era solidified Obuandu's self-image as a “neutral heart" of [[Drastevarde]], valuing balance and negotiation over dominance.
 
 ### **Modern Era**
 

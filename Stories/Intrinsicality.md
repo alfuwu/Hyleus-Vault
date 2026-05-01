@@ -1,7 +1,7 @@
 — **Subject**: [[Alfred set Tonic]] & [[Ezkli Reday]]
 — **Location**: The [[Island Nation of Joculen]]'s capital, Valey
 — **Event**: [[The Fractured|The Fracturing]]
-— **Date**: 2650 [[HUN Calendar|ME]]
+— **Date**: 2650 [[Astana Calendar|ME]]
 
 ————————————————
 

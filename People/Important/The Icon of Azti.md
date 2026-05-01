@@ -1,4 +1,4 @@
-The Icon of Azti (created ??/??/????  [[HUN Calendar|ME]]) is a [[Divinity|divine]] artifact gifted to the Aztian people on ??/??/???? [[HUN Calendar|ME]] for their contribution towards the ending of ???? by ????. She has become the mascot for the entire country, and was legally recognized as a citizen of Azti in the year 2008 [[HUN Calendar|ME]], following the country's transition from a monarchy to a democracy. Before that, Icon was considered an object owned by the Aztian royal family and possessed no real rights beyond what the current monarch deemed she should possess.
+The Icon of Azti (created ??/??/????  [[Astana Calendar|ME]]) is a [[Divinity|divine]] artifact gifted to the Aztian people on ??/??/???? [[Astana Calendar|ME]] for their contribution towards the ending of ???? by ????. She has become the mascot for the entire country, and was legally recognized as a citizen of Azti in the year 2008 [[Astana Calendar|ME]], following the country's transition from a monarchy to a democracy. Before that, Icon was considered an object owned by the Aztian royal family and possessed no real rights beyond what the current monarch deemed she should possess.
 
 Icon is one of the few instances of a [[deity]] directly creating a being with a [[soul]] that isn't an [[angel]].
 
@@ -6,7 +6,7 @@ Icon is one of the few instances of a [[deity]] directly creating a being with a
 The Icon of Azti is immensely patriotic towards Azti, oftentimes to a fault. She's somewhat of an airhead.
 
 ### History
-On ??/??/???? [[HUN Calendar|ME]], Icon murdered ???? d'Azti for attempting to sexually assault her on numerous occasions, claiming he was "unfit to lead this amazing country." She had been sent to prison for multiple years following that, but she merely drew doodles while in there, incapable of feeling bored. She was eventually released on ??/??/???? [[HUN Calendar|ME]].
+On ??/??/???? [[Astana Calendar|ME]], Icon murdered ???? d'Azti for attempting to sexually assault her on numerous occasions, claiming he was "unfit to lead this amazing country." She had been sent to prison for multiple years following that, but she merely drew doodles while in there, incapable of feeling bored. She was eventually released on ??/??/???? [[Astana Calendar|ME]].
 
 ### Current
 

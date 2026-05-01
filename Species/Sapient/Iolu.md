@@ -6,7 +6,7 @@ tags:
 The iolu
 
 ## Biology
-Iolu are quite similar to [[Human|humans]] in biology, and have been confirmed to have diverged from the homo sapiens genus at approximately 45,000 [[HUN Calendar|KE]].
+Iolu are quite similar to [[Human|humans]] in biology, and have been confirmed to have diverged from the homo sapiens genus at approximately 45,000 [[Astana Calendar|KE]].
 
 All iolu are genetically predisposed towards [[vital magic]], going so far as requiring the magic to simply continue to live. This dependency emerged as an evolutionary trade-off—their metabolic processes evolved to extract lifeblood rather than solely relying on conventional digestion. An iolu can survive on regular food, but will gradually weaken and eventually enter a comatose state without periodic infusions of lifeblood. As the lifeblood of magically-inclined species is richer, iolu tend to want the blood of other sapients, who possess larger [[Soul|souls]] and thusly more [[mana]] to improve their magical capabilities. This created a rather pressing cultural stigma later in history that almost saw the iolu to extinction.
 
@@ -20,7 +20,7 @@ Iolu culture is, in many ways, utterly alien to the culture of the [[Human|human
 Unlike most other species, the iolu possess a species-wide capital city known as Voskdeyta. This city is located within [[Tenevitale]], on the northern side of the westernmost coast of [[Drastevarde]].
 
 ## Notable Persons
-[[Salrune]], [[Rina Ougais]]
+[[Salrune]], [[Rina Lutzel Tenevitale]]
 
 ---
 

@@ -14,7 +14,7 @@ They are masters of the sword, with their own unique sword arts that take full a
 Tarhan culture 
 
 ## Notable Persons
-[[Meloqzykes]] hails from this race, though she has modified her [[soul]]'s blueprint to a high degree and further underwent [[Divine Transformation]] after she killed both [[Regg]] and [[M]] and absorbed portions of their [[divinity]], separating herself a fair bit from her biological origins.
+[[Meloqzykes]] hails from this race, though she has modified her [[soul]]'s blueprint to a high degree and further underwent [[Divine Transformation]] after she killed both [[Regg]] and [[Sethyrs]] and absorbed portions of their [[divinity]], separating herself a fair bit from her biological origins.
 
 ---
 
