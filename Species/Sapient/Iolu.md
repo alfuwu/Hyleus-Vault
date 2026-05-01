@@ -20,7 +20,7 @@ Iolu culture is, in many ways, utterly alien to the culture of the [[Human|human
 Unlike most other species, the iolu possess a species-wide capital city known as Voskdeyta. This city is located within [[Tenevitale]], on the northern side of the westernmost coast of [[Drastevarde]].
 
 ## Notable Persons
-[[Salrune]], [[Rina Lutzel Tenevitale]]
+[[Salrune]], [[Rina Lutzel Tenevitale]], [[Rainrai Heima Tenevitale]]
 
 ---
 
@@ -30,5 +30,5 @@ Unlike most other species, the iolu possess a species-wide capital city known as
 - Minority populations exist in all major cities worldwide, with a majority population in their capital, Voskdeyta
 
 **Biological Rarity Metrics:**
-- **[[Intrinsic Magic]]**: $\frac{1}{1,250,000}$​ (slightly rarer than [[Human|humans]], possibly due to their souls already being specialized for [[vital magic]])
+- **[[Intrinsic Magic]]**: $\frac{1}{1,250,000}$​ (slightly rarer than [[Human|humans]], possibly due to their [[Soul|souls]] already being specialized for [[vital magic]])
 - **[[Psychoticism]]**: $\frac{1}{400,000}$​ (identical to [[Human|humans]])

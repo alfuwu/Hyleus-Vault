@@ -1,0 +1,3 @@
+TODO: come up with a name and etymology (could just be catastrophe or great war or something) for that name
+
+The ... is the crucible in which [[Tenevitale]] was forged; it was the combined effort of the [[human]] nations of [[Drastevarde]] to drive out the [[iolu]], potentially to extinction. Under this existential threat, a leader by the name of [[]], who would later be referred to as [[]] the Grand Unifier or [[]] the Bloodfiend (depending on whether you asked an [[iolu]] or a [[human]]). Under his guidance, [[iolu]] flocked to his armies and together they fought back
