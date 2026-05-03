@@ -15,7 +15,14 @@ However, while conventional weaponry is incapable of killing a demon within [[He
 
 Despite *theoretically* being capable of dealing permanent damage to a demon's [[soul]], any [[animancy]] performed upon the [[soul]] of a demon within [[Hell]] must fight against [[Hell]] itself, as the [[plane]] protects demonic [[Soul|souls]] from outside harm.
 
-Demons do age while outside of [[Hell]], albeit incredibly slowly compared to [[Human|humans]] or even the longer-lived mortal species such as the [[fae]]. Lifespans of up to 30,000 years are, while rare, not entirely uncommon, though demons with such long lifespans tend to never venture out into the [[mortal plane]]. There are no alive demons older than a couple thousand years in the present day, however, due to the [[Great Hell Wars]] wiping out the majority of demon population, especially that of the older generations.
+Demons do age while outside of [[Hell]], albeit incredibly slowly compared to [[Human|humans]] or even the longer-lived mortal species such as the [[fae]]. From the speed of aging observed in the [[mortal plane]], a demon's natural lifespan has been estimated to be somewhere in the ballpark of 30,000 years. There are no alive demons older than a couple thousand years in the present day, however, due to the fact that the Progenitor was only created about 7000 years ago.
+
+## Culture
+Demonic culture is rather homogeneous, due to the relative smallness of [[Hell]] when compared to even a single planet within the [[mortal plane]]. Due to their relative immortality within their home [[plane]], fights to the death are not at all uncommon and even encouraged in some places. Demons feel minimal pain and thus violence does not carry the same weight for them as it does mortals, and while murder is still a crime, all the perpetrator must do is pay reparations for the time and [[essence]] the murdered individual will have lost reforming their body.
+
+Speed of reformation after death and a low death-to-age ratio are particularly prized traits among demons, with their Empress, [[Avissa]], being famed for having never died once in her three-millennia-long rule.
+
+Most demons refuse to make any sort of friendship with mortals due to the fact that mortals typically do not come back to life after dying.
 
 ---
 

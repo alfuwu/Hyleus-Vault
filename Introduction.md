@@ -4,7 +4,7 @@ Approximate global population: 11,501,447,096
 
 ## Species Overview
 - humans, regular people
-- tarhans, humanoid beings with two elbow joints that really like fighting
+- tarhans, humanoid beings that really like fighting and worship the sun
 - serrans, cute insectoid bug people
 - phaawas, which are plant people that originated from a animantic spell modifying the souls of humans
 - ne'zuni, a humanoid mammalian jellyfish-like people who live on the ocean floor and communicate via bioluminescent lights rather than speech

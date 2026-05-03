@@ -11,7 +11,7 @@ aliases:
   - Queen of Diamonds
   - The Blood Diamond
 ---
-Furutia Alimondez, known to most as the Queen of Diamonds, is a highly wanted criminal in several different countries.
+Furutia Alimondez, known to most as the Queen of Diamonds, is a highly wanted criminal in several different countries. She is the current host of [[the Bloodied Throne]]
 
 ### Physical Description
 
@@ -26,10 +26,7 @@ Furutia Alimondez, known to most as the Queen of Diamonds, is a highly wanted cr
 
 
 ### Youth
-
-
-### Romance
-
+Furutia grew up 
 
 ### Affiliations
 

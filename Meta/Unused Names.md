@@ -1,13 +1,9 @@
 A list of as-of-yet-unused names.
 - Rvepәٕtlli
 - Valavice
-- Rael
 - Zefærg
-- Lsyin
 - Oroblen
-- Deithyr
 - Iahu
-- Iahi
 - Nramyg
 - Sirius Li
 - For J. Aidentiti (For Jed Identity; Forged Identity)
@@ -21,11 +17,10 @@ A list of as-of-yet-unused names.
 - Nazca
 - Calladin
 - Corvalis
-- Katzen
-- Mashka
 - Aztophel
 - Ralnx
 - Meidenbauer
+- Targwyn
 
 A list of names with an assigned use but no formal, fleshed out document yet.
 - Naora: Girl. Healer? Ne'zuni.
@@ -35,6 +30,5 @@ A list of names with an assigned use but no formal, fleshed out document yet.
 - Erwin Zvekk: A well-renowned magic user, famed for innovations in spellcasting. Now dead.
 - Cr'thtaktulon: A powerful creature of [[the Abyss]].
 - Salrune: Iolu girl.
-- Orgorgan: Some divine artifact, held back by [[Senn]] & [[Woq]].
 - Dachsbud & Kingel: A pair of daggers?
 - Scat & Gallot: Two idiots

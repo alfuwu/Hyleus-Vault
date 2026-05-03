@@ -6,6 +6,7 @@ tags:
   - Psychic
   - Blood-Mage
   - Soul-Mage
+  - Spellcaster
   - Ruler
   - Noble
 aliases:

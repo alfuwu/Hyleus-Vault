@@ -3,15 +3,17 @@ tags:
   - Species
   - Race
 ---
-Tarhans are a race similar to [[Human|humans]], though their arms and fingers have three joints and are double jointed, providing massive flexibility at the cost of strength. 
+Tarhans are a race similar to [[Human|humans]]
 
-They are masters of the sword, with their own unique sword arts that take full advantage of their flexibility.
+They are masters of close combat
 
 ## Biology
 ...
 
 ## Culture
-Tarhan culture 
+Tarhan culture is heavily martial, not unlike that of the [[Demon|demons]], though noticeably more tame in comparison to the savage brutality that [[Demon|demons]] often revel in.
+
+They worship and praise [[the Sun]], and the vast majority of their pre-[[Lunærgen Sø-Bryu|Lunærgen]] magic revolved around it.
 
 ## Notable Persons
 [[Meloqzykes]] hails from this race, though she has modified her [[soul]]'s blueprint to a high degree and further underwent [[Divine Transformation]] after she killed both [[Regg]] and [[Sethyrs]] and absorbed portions of their [[divinity]], separating herself a fair bit from her biological origins.

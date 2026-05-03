@@ -12,6 +12,8 @@ Each year is approximately 319 days long. There is one leap year every 1404 year
 
 The calendar follows a bi-annual schedule; all odd years end in summer, and all even years end in winter. This is because a *true* year on Hyleus is approximately 638 days long, and is instead split in twain to get years that are of a more reasonable length. Each year has 11 months, each 29 days in length.
 
+The current date is the 21st of Volua, 2654.
+
 Month names:
 - **Fedrena**
 - **Adinia**

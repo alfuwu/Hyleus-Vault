@@ -4,4 +4,4 @@ Upon the Orgorgan's soul lay several dozen [[Intrinsic Magic|intrinsic formation
 
 The Orgorgan's body is made out of a [[Shard of Divinity]] encompassed by a composite metallic alloy forged of [[adamantium]] and [[celestinium]].
 
-The Orgorgan was sealed inside of a proto-plane in the year 2203 [[Astana Calendar|KE]], alongside [[Senn]] and [[Woq]]. The Orgorgan has been engaged in an everlasting battle with the two siblings ever since.
+The Orgorgan was sealed inside of a proto-plane in the year 2203 [[Astana Calendar|KE]], alongside the ascendants [[Senn]] and [[Woq]]. The Orgorgan has been engaged in an everlasting battle with the two siblings ever since.

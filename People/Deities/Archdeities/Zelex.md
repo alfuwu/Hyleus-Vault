@@ -4,4 +4,4 @@
 
 ---
 
-Zelex is the patron deity of the [[Iolu|iolus]].
+Zelex is the patron deity of the [[iolu]].
